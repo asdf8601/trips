@@ -2,6 +2,7 @@
 .silverbullet.db
 .silverbullet.db-shm
 .silverbullet.db-wal
+SETTINGS.md
 
 # macOS
 .DS_Store
