@@ -225,7 +225,7 @@ CAMBIO → RE-VALIDAR (5 min) → CORREGIR TODAS las secciones afectadas
 ├── agent.md
 ├── 2026/
 │   ├── preferences.md
-│   ├── resumen.md
+│   ├── README.md
 │   ├── vietnam.md
 │   ├── vietnam-sources.md
 │   └── ...
@@ -233,10 +233,19 @@ CAMBIO → RE-VALIDAR (5 min) → CORREGIR TODAS las secciones afectadas
 
 ---
 
-## Comparativa (`resumen.md`)
+## Comparativa (`README.md`)
 
 ```markdown
 # Resumen {Año}
+
+## Itinerarios
+
+| Destino | Itinerario | Sources |
+|---------|------------|---------|
+| 🇻🇳 Vietnam | [vietnam.md](vietnam.md) | [vietnam-sources.md](vietnam-sources.md) |
+| 🇰🇭 Camboya | [camboya.md](camboya.md) | [camboya-sources.md](camboya-sources.md) |
+| 🇯🇵 Japón | [japon.md](japon.md) | [japon-sources.md](japon-sources.md) |
+| 🇮🇩 Bali | [bali.md](bali.md) | [bali-sources.md](bali-sources.md) |
 
 ## Tabla General
 

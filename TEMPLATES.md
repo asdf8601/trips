@@ -55,7 +55,7 @@
 | **TOTAL** | **~{X} €** | **~{X} € p/p** |
 ```
 
-### 2. Tabla Comparativa (`resumen.md`)
+### 2. Tabla Comparativa (`README.md`)
 
 ```markdown
 | Característica | 🇻🇳 **Vietnam** | 🇰🇭 **Camboya** |
