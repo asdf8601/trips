@@ -1,0 +1,7 @@
+# SilverBullet
+.silverbullet.db
+.silverbullet.db-shm
+.silverbullet.db-wal
+
+# macOS
+.DS_Store
