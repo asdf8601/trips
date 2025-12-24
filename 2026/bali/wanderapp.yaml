@@ -1,0 +1,675 @@
+# Bali 2026: The "Anti-Crowd" Challenge (Slow & Authentic)
+# Generado para importar en Wander App
+# Estructura: UNA PARADA POR DÍA (21 días)
+
+title: "Bali 2026: Slow & Authentic"
+start_date: "2026-07-30"
+end_date: "2026-08-19"
+description: |
+  Viaje de 21 días por Bali con filosofía **"Menos Instagram, más Realidad"**.
+  
+  ## Filosofía
+  Se han eliminado los puntos negros de turismo masivo (Nusa Penida, tráfico del sur) 
+  y se han sustituido por joyas tranquilas y auténticas.
+  
+  ## Highlights
+  - Sidemen: La llegada zen entre arrozales reales
+  - Amed: Buceo de clase mundial desde la orilla
+  - Menjangan: La joya oculta, el mejor coral de la isla
+  - Munduk: Fresco, cascadas y selva
+  - Ubud: Solo lo imprescindible, alojándose fuera del centro
+  
+  ## Ruta
+  Ruta circular empezando y terminando en Denpasar (DPS).
+public: true
+budget_total: 3400.00
+local_currency: "IDR"
+
+# ============================================
+# STOPS (Una parada por día - 21 días)
+# ============================================
+stops:
+  # === BASE 1: SIDEMEN (Días 1-4) ===
+  - name: "Día 1: Llegada a Sidemen"
+    location: "Sidemen, Bali, Indonesia"
+    visit_date: "2026-07-30"
+    notes: |
+      Llegada al aeropuerto de Denpasar y traslado directo a Sidemen (1.5h).
+      Cena en el hotel con vistas al Volcán Agung.
+      La llegada zen, sustituyendo el caos de Ubud.
+    latitude: -8.4667
+    longitude: 115.5000
+
+  - name: "Día 2: Trekking Arrozales Sidemen"
+    location: "Sidemen, Bali, Indonesia"
+    visit_date: "2026-07-31"
+    notes: |
+      Día dedicado a caminar por los senderos del valle de arrozales.
+      Baño en el río al final del trekking.
+      Vistas al Volcán Agung durante todo el recorrido.
+    latitude: -8.4667
+    longitude: 115.5000
+
+  - name: "Día 3: Cultura Balinesa en Sidemen"
+    location: "Sidemen, Bali, Indonesia"
+    visit_date: "2026-08-01"
+    notes: |
+      Día de inmersión cultural.
+      Mañana: Clase de cocina balinesa con visita al mercado local.
+      Tarde: Clase de tejido tradicional con una familia local.
+    latitude: -8.4667
+    longitude: 115.5000
+
+  - name: "Día 4: Templo Besakih"
+    location: "Besakih, Bali, Indonesia"
+    visit_date: "2026-08-02"
+    notes: |
+      Visita al Templo Madre (Besakih), el más sagrado de Bali.
+      Ir a las 8:00 AM para evitar multitudes.
+      Último día en Sidemen.
+    latitude: -8.3742
+    longitude: 115.4517
+
+  # === BASE 2: AMED (Días 5-9) ===
+  - name: "Día 5: Traslado a Amed via Tirta Gangga"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-03"
+    notes: |
+      Traslado desde Sidemen a Amed con parada en Tirta Gangga (Palacio del Agua).
+      Jardines acuáticos con piscinas y fuentes.
+      Check-in en Amed y primer atardecer junto al mar.
+    latitude: -8.3500
+    longitude: 115.6500
+
+  - name: "Día 6: Buceo USAT Liberty Tulamben"
+    location: "Tulamben, Bali, Indonesia"
+    visit_date: "2026-08-04"
+    notes: |
+      Buceo/snorkel en el pecio USAT Liberty de la Segunda Guerra Mundial.
+      Ir a las 6:30 AM antes de que lleguen las furgonetas del sur.
+      Experiencia mágica en el amanecer.
+    latitude: -8.2742
+    longitude: 115.5928
+
+  - name: "Día 7: Jemeluk Bay Snorkel"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-05"
+    notes: |
+      Snorkel en Jemeluk Bay desde la playa.
+      Coral colorido, peces tropicales y templo sumergido.
+      Atardecer con vistas al volcán Agung.
+    latitude: -8.3500
+    longitude: 115.6500
+
+  - name: "Día 8: Sunset Blue Earth Village"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-06"
+    notes: |
+      Día de buceo adicional o exploración de la costa de Amed.
+      Atardecer en Blue Earth Village con Bintang y vistas al volcán.
+      Mejor sitio para el sunset en Amed.
+    latitude: -8.3500
+    longitude: 115.6500
+
+  - name: "Día 9: Día de Relax y Masaje"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-07"
+    notes: |
+      Mañana de relax tras días de buceo.
+      Masaje balinés para recuperar energías.
+      Último día en Amed antes de ir al norte.
+    latitude: -8.3500
+    longitude: 115.6500
+
+  # === BASE 3: PEMUTERAN / MENJANGAN (Días 10-14) ===
+  - name: "Día 10: Ruta Costera Norte a Pemuteran"
+    location: "Pemuteran, Bali, Indonesia"
+    visit_date: "2026-08-08"
+    notes: |
+      Ruta costera del norte desde Amed (3h).
+      Carretera vacía y preciosa con paisajes volcánicos.
+      Check-in en Pemuteran, la joya oculta del norte.
+    latitude: -8.1500
+    longitude: 114.6167
+
+  - name: "Día 11: Isla Menjangan Snorkel/Buceo"
+    location: "Isla Menjangan, Bali, Indonesia"
+    visit_date: "2026-08-09"
+    notes: |
+      Excursión a la Isla de Menjangan (Parque Nacional).
+      Paredes de coral verticales, abanicos gigantes, aguas cristalinas.
+      CERO masificaciones comparado con Nusa Penida.
+      Nota ética: No tocar coral ni perseguir tortugas.
+    latitude: -8.0833
+    longitude: 114.5333
+
+  - name: "Día 12: Proyecto Bio-Rock Pemuteran"
+    location: "Pemuteran, Bali, Indonesia"
+    visit_date: "2026-08-10"
+    notes: |
+      Snorkel en la playa de Pemuteran sobre estructuras de coral electrificado.
+      Proyecto de conservación y restauración de arrecifes.
+      Una experiencia única de ecoturismo.
+    latitude: -8.1500
+    longitude: 114.6167
+
+  - name: "Día 13: Pura Pulaki o Playa Arena Negra"
+    location: "Pemuteran, Bali, Indonesia"
+    visit_date: "2026-08-11"
+    notes: |
+      Opción A: Visita al templo costero Pura Pulaki (sin turistas).
+      Opción B: Día de relax en playa de arena negra volcánica.
+      Nota ética: Los macacos en Pulaki son salvajes, mantener distancia.
+    latitude: -8.1500
+    longitude: 114.6167
+
+  - name: "Día 14: Cena Despedida del Norte"
+    location: "Pemuteran, Bali, Indonesia"
+    visit_date: "2026-08-12"
+    notes: |
+      Último día en el norte de Bali.
+      Día de relax y última inmersión en las aguas de Pemuteran.
+      Cena de despedida del norte.
+    latitude: -8.1500
+    longitude: 114.6167
+
+  # === BASE 4: MUNDUK (Días 15-17) ===
+  - name: "Día 15: Subida a Munduk"
+    location: "Munduk, Bali, Indonesia"
+    visit_date: "2026-08-13"
+    notes: |
+      Subida a las montañas desde Pemuteran (1h).
+      Check-in en Munduk, las tierras altas de Bali.
+      Fresco, verde y tranquilo. Plantación de café.
+    latitude: -8.2667
+    longitude: 115.0833
+
+  - name: "Día 16: Ruta de las Cascadas"
+    location: "Munduk, Bali, Indonesia"
+    visit_date: "2026-08-14"
+    notes: |
+      Ruta de trekking por las cascadas de Munduk.
+      - Red Coral Waterfall
+      - Golden Valley Waterfall
+      Ir pronto para evitar gente.
+    latitude: -8.2667
+    longitude: 115.0833
+
+  - name: "Día 17: Lagos Gemelos Tamblingan"
+    location: "Lago Tamblingan, Bali, Indonesia"
+    visit_date: "2026-08-15"
+    notes: |
+      Excursión a los Lagos Gemelos.
+      Canoa en el lago Tamblingan, místico con templos en la orilla.
+      Uno de los paisajes más bonitos de Bali.
+    latitude: -8.2583
+    longitude: 115.0917
+
+  # === BASE 5: UBUD (Días 18-21) ===
+  - name: "Día 18: Bajada a Ubud (Penestanan)"
+    location: "Penestanan, Ubud, Bali, Indonesia"
+    visit_date: "2026-08-16"
+    notes: |
+      Bajada al centro de la isla hacia Ubud.
+      Alojamiento en Penestanan o Sayan (10 min de Ubud centro, sin ruido).
+      Tarde libre para explorar la zona.
+    latitude: -8.5069
+    longitude: 115.2625
+
+  - name: "Día 19: Ubud Art Market y Monkey Forest"
+    location: "Ubud, Bali, Indonesia"
+    visit_date: "2026-08-17"
+    notes: |
+      Compras de última hora en Ubud Art Market (Pasar Seni).
+      Bolsos de ratán, artesanía en madera, sarongs.
+      Opcional: Monkey Forest (muy turístico) o masaje en Karsa Spa.
+    latitude: -8.5069
+    longitude: 115.2625
+
+  - name: "Día 20: Cena Despedida Gastronómica"
+    location: "Ubud, Bali, Indonesia"
+    visit_date: "2026-08-18"
+    notes: |
+      Día de relax final.
+      Cena de despedida gastronómica.
+      Opciones: Locavore (alta cocina local) o Room4Dessert (experiencia postres).
+    latitude: -8.5069
+    longitude: 115.2625
+
+  - name: "Día 21: Vuelta a Casa"
+    location: "Aeropuerto Denpasar (DPS), Bali, Indonesia"
+    visit_date: "2026-08-19"
+    notes: |
+      Traslado al aeropuerto de Denpasar (1.5h desde Ubud).
+      Fin del viaje.
+      ¡Sampai jumpa lagi, Bali!
+    latitude: -8.7480
+    longitude: 115.1670
+
+# ============================================
+# FLIGHTS (Vuelos)
+# ============================================
+flights:
+  # Vuelo de ida (Pendiente de reservar)
+  - airline: "TBD"
+    flight_number: "TBD"
+    origin: "Madrid (MAD)"
+    destination: "Bali Denpasar (DPS)"
+    departure_date: "2026-07-29T00:00:00"
+    arrival_date: "2026-07-30T00:00:00"
+    cabin_class: "economy"
+    notes: |
+      Pendiente de reservar.
+      [Buscar vuelos en Booking](https://flights.booking.com/flights/MAD.AIRPORT-DPS.AIRPORT/?type=ROUNDTRIP&adults=2&cabinClass=ECONOMY&from=MAD.AIRPORT&to=DPS.AIRPORT&depart=2026-07-30&return=2026-08-19)
+      
+      Opciones comunes: Qatar Airways, Singapore Airlines, Emirates.
+
+  # Vuelo de vuelta (Pendiente de reservar)
+  - airline: "TBD"
+    flight_number: "TBD"
+    origin: "Bali Denpasar (DPS)"
+    destination: "Madrid (MAD)"
+    departure_date: "2026-08-19T00:00:00"
+    arrival_date: "2026-08-20T00:00:00"
+    cabin_class: "economy"
+    notes: "Pendiente de reservar. Ver URL de búsqueda en vuelo de ida."
+
+# ============================================
+# ACCOMMODATIONS (Alojamientos)
+# ============================================
+accommodations:
+  - stop: "Día 1: Llegada a Sidemen"
+    name: "Wapa di Ume Sidemen"
+    type: "hotel"
+    address: "Sidemen, Karangasem, Bali"
+    price_per_night: 80.00
+    nights: 4
+    booking_platform: "Booking.com"
+    notes: |
+      Alternativa: Samanvaya.
+      Vistas al Volcán Agung.
+      [Buscar en Booking](https://www.booking.com/searchresults.es.html?ss=Sidemen%2C+Bali&checkin=2026-07-30&checkout=2026-08-03&group_adults=2)
+    rating: 5
+
+  - stop: "Día 5: Traslado a Amed via Tirta Gangga"
+    name: "Mathis Lodge"
+    type: "hotel"
+    address: "Amed, Karangasem, Bali"
+    price_per_night: 70.00
+    nights: 5
+    booking_platform: "Booking.com"
+    notes: |
+      Vistas increíbles al volcán y mar.
+      Alternativa: Life in Amed.
+      [Buscar en Booking](https://www.booking.com/searchresults.es.html?ss=Amed%2C+Bali&checkin=2026-08-03&checkout=2026-08-08&group_adults=2)
+    rating: 5
+
+  - stop: "Día 10: Ruta Costera Norte a Pemuteran"
+    name: "Taman Sari Bali Resort"
+    type: "hotel"
+    address: "Pemuteran, Buleleng, Bali"
+    price_per_night: 60.00
+    nights: 5
+    booking_platform: "Booking.com"
+    notes: |
+      Proyecto comunitario sostenible.
+      Alternativa: Sumberkima Hill (villas de lujo con vistas).
+      [Buscar en Booking](https://www.booking.com/searchresults.es.html?ss=Pemuteran%2C+Bali&checkin=2026-08-08&checkout=2026-08-13&group_adults=2)
+    rating: 5
+
+  - stop: "Día 15: Subida a Munduk"
+    name: "Munduk Moding Plantation"
+    type: "hotel"
+    address: "Munduk, Buleleng, Bali"
+    price_per_night: 100.00
+    nights: 3
+    booking_platform: "Booking.com"
+    notes: |
+      La piscina infinita más famosa de Bali, pero en un entorno real.
+      Plantación de café.
+      [Buscar en Booking](https://www.booking.com/searchresults.es.html?ss=Munduk%2C+Bali&checkin=2026-08-13&checkout=2026-08-16&group_adults=2)
+    rating: 5
+
+  - stop: "Día 18: Bajada a Ubud (Penestanan)"
+    name: "Hotel en Penestanan/Sayan"
+    type: "hotel"
+    address: "Penestanan, Ubud, Bali"
+    price_per_night: 60.00
+    nights: 3
+    booking_platform: "Booking.com"
+    notes: |
+      A 10 min de Ubud centro, pero sin ruido.
+      [Buscar en Booking](https://www.booking.com/searchresults.es.html?ss=Ubud%2C+Bali&checkin=2026-08-16&checkout=2026-08-19&group_adults=2)
+
+# ============================================
+# POSTS (Experiencias y Actividades por día)
+# ============================================
+posts:
+  # === DÍA 1: LLEGADA A SIDEMEN ===
+  - stop: "Día 1: Llegada a Sidemen"
+    title: "Visa on Arrival (VOA)"
+    content: |
+      500.000 IDR (~30€) al llegar al aeropuerto.
+      Se puede pagar con tarjeta.
+      Válida por 30 días.
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Sidemen"
+    title: "Transporte en Bali"
+    content: |
+      - **Conductor privado:** ~40-50€/día para rutas largas. Lo más cómodo.
+      - **Grab/Gojek:** Para trayectos cortos. Cuidado con "zonas rojas" donde no pueden recoger (taxi local mafia).
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Sidemen"
+    title: "Bali Belly (Salud)"
+    content: |
+      - **Agua:** NUNCA beber del grifo. Cuidado con hielos en sitios muy locales.
+      - **Botiquín:** Probióticos y Fortasec imprescindibles.
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Sidemen"
+    title: "Templos: Sarong"
+    content: |
+      Sarong obligatorio en todos los templos.
+      Comprar uno el primer día (~5€).
+      Respetar zonas de rezo.
+    type: "tip"
+
+  # === DÍA 2: TREKKING ARROZALES ===
+  - stop: "Día 2: Trekking Arrozales Sidemen"
+    title: "Trekking de Arrozales"
+    content: |
+      Caminar sin guía por los senderos del valle.
+      Baño en el río al final.
+      Vistas al Volcán Agung todo el recorrido.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Sidemen+rice+terrace+trekking+Bali)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+
+  # === DÍA 3: CULTURA BALINESA ===
+  - stop: "Día 3: Cultura Balinesa en Sidemen"
+    title: "Clase de Cocina Balinesa"
+    content: |
+      Con visita al mercado local y recolección de ingredientes en la huerta orgánica.
+      
+      Platos a aprender:
+      - *Gado Gado*: Ensalada con salsa de cacahuete
+      - *Sate Lilit*: Brochetas de pescado balinesas
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Balinese+cooking+class+Sidemen+Bali)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+    price: 35.00
+
+  - stop: "Día 3: Cultura Balinesa en Sidemen"
+    title: "Clase de Tejido Tradicional"
+    content: |
+      Con una familia local.
+      Aprender técnicas de tejido tradicional balinés.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Traditional+weaving+class+Sidemen+Bali)
+    type: "activity"
+    rating: 4
+    duration: "2 hours"
+    price: 20.00
+
+  # === DÍA 4: TEMPLO BESAKIH ===
+  - stop: "Día 4: Templo Besakih"
+    title: "Templo Madre (Besakih)"
+    content: |
+      El templo más sagrado de Bali. Está muy cerca de Sidemen.
+      
+      **Tip:** Ir a las 8:00 AM para estar solos.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Pura+Besakih+temple+Bali)
+    type: "place"
+    rating: 5
+    duration: "3 hours"
+    price: 10.00
+
+  # === DÍA 5: TIRTA GANGGA ===
+  - stop: "Día 5: Traslado a Amed via Tirta Gangga"
+    title: "Tirta Gangga (Palacio del Agua)"
+    content: |
+      Visitar en ruta desde Sidemen a Amed.
+      Jardines acuáticos con piscinas y fuentes.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Tirta+Gangga+water+palace+Bali)
+    type: "place"
+    rating: 4
+    duration: "1.5 hours"
+    price: 5.00
+
+  # === DÍA 6: BUCEO USAT LIBERTY ===
+  - stop: "Día 6: Buceo USAT Liberty Tulamben"
+    title: "USAT Liberty Wreck (Tulamben)"
+    content: |
+      Buceo/snorkel en pecio de la Segunda Guerra Mundial.
+      
+      **Tip:** Ir a las 6:30 AM (antes que lleguen las furgonetas del sur). Es mágico.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=USAT+Liberty+shipwreck+diving+Tulamben+Bali)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+    price: 40.00
+
+  # === DÍA 7: JEMELUK BAY ===
+  - stop: "Día 7: Jemeluk Bay Snorkel"
+    title: "Jemeluk Bay"
+    content: |
+      Snorkel desde la playa sobre el templo sumergido.
+      Coral colorido y peces tropicales.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Jemeluk+Bay+snorkeling+Amed+Bali)
+    type: "activity"
+    rating: 5
+    duration: "2 hours"
+
+  # === DÍA 8: SUNSET AMED ===
+  - stop: "Día 8: Sunset Blue Earth Village"
+    title: "Sunset en Blue Earth Village"
+    content: |
+      El mejor sitio para una Bintang con vistas al volcán Agung.
+      Atardeceres épicos.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Blue+Earth+Village+Amed+Bali+sunset)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+
+  # === DÍA 9: RELAX Y MASAJE ===
+  - stop: "Día 9: Día de Relax y Masaje"
+    title: "Día de Masaje"
+    content: |
+      Relax merecido tras días de buceo.
+      Masajes balineses económicos y de calidad.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Balinese+massage+Amed+Bali)
+    type: "activity"
+    rating: 4
+    duration: "2 hours"
+    price: 15.00
+
+  # === DÍA 10: RUTA AL NORTE ===
+  - stop: "Día 10: Ruta Costera Norte a Pemuteran"
+    title: "Ruta Costera del Norte"
+    content: |
+      Carretera vacía y preciosa desde Amed (3h).
+      Paisajes volcánicos y mar.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Amed+to+Pemuteran+coastal+road+Bali)
+    type: "transport"
+    duration: "3 hours"
+
+  # === DÍA 11: ISLA MENJANGAN ===
+  - stop: "Día 11: Isla Menjangan Snorkel/Buceo"
+    title: "Isla de Menjangan (Snorkel/Buceo)"
+    content: |
+      Paredes de coral verticales, abanicos gigantes, aguas cristalinas y cálidas.
+      **Cero masificaciones** comparado con Nusa Penida.
+      
+      **Nota ética:** Parque Nacional protegido. 
+      Estrictamente prohibido tocar coral o perseguir tortugas.
+      Usar lycra en vez de mucha crema solar para proteger el agua.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Menjangan+Island+diving+snorkeling+Bali)
+    type: "activity"
+    rating: 5
+    duration: "1 day"
+    price: 60.00
+
+  - stop: "Día 11: Isla Menjangan Snorkel/Buceo"
+    title: "Coral: Ética"
+    content: |
+      No pisar nunca el coral.
+      Usar escarpines si hay rocas, pero no caminar sobre el arrecife.
+      Crema solar "Reef Safe" si es posible.
+    type: "tip"
+
+  # === DÍA 12: BIO-ROCK ===
+  - stop: "Día 12: Proyecto Bio-Rock Pemuteran"
+    title: "Proyecto Bio-Rock"
+    content: |
+      Snorkel en la playa de Pemuteran sobre estructuras de coral electrificado.
+      Proyecto de conservación y restauración de arrecifes.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Biorock+coral+restoration+Pemuteran+Bali)
+    type: "activity"
+    rating: 5
+    duration: "2 hours"
+
+  # === DÍA 13: PURA PULAKI O PLAYA ===
+  - stop: "Día 13: Pura Pulaki o Playa Arena Negra"
+    title: "Pura Pulaki (Templo de los Monos)"
+    content: |
+      Templo costero sin turistas.
+      
+      **Nota ética:** Los macacos son salvajes.
+      - No llevar comida
+      - No mirar a los ojos (agresión)
+      - No tocar
+      - Mantener distancia de seguridad
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Pura+Pulaki+temple+Bali)
+    type: "place"
+    rating: 4
+    duration: "1.5 hours"
+
+  - stop: "Día 13: Pura Pulaki o Playa Arena Negra"
+    title: "Playa de Arena Negra"
+    content: |
+      Día de relax en playa volcánica.
+      Menos turística que el sur.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Pemuteran+black+sand+beach+Bali)
+    type: "place"
+    rating: 4
+    duration: "3 hours"
+
+  # === DÍA 14: CENA DESPEDIDA NORTE ===
+  # (Sin post específico, el stop describe la actividad)
+
+  # === DÍA 15: SUBIDA A MUNDUK ===
+  # (Sin post específico, día de traslado)
+
+  # === DÍA 16: RUTA CASCADAS ===
+  - stop: "Día 16: Ruta de las Cascadas"
+    title: "Ruta de las Cascadas"
+    content: |
+      - Red Coral Waterfall
+      - Golden Valley Waterfall
+      
+      **Tip:** Ir pronto para estar sin gente.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Munduk+waterfalls+Red+Coral+Golden+Valley+Bali)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+
+  # === DÍA 17: LAGOS GEMELOS ===
+  - stop: "Día 17: Lagos Gemelos Tamblingan"
+    title: "Lagos Gemelos (Tamblingan)"
+    content: |
+      Canoa en el lago Tamblingan.
+      Místico, con templos en la orilla.
+      Uno de los paisajes más bonitos de Bali.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Lake+Tamblingan+canoeing+Bali)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+    price: 20.00
+
+  # === DÍA 18: BAJADA A UBUD ===
+  # (Sin post específico, día de traslado)
+
+  # === DÍA 19: UBUD ART MARKET ===
+  - stop: "Día 19: Ubud Art Market y Monkey Forest"
+    title: "Ubud Art Market (Pasar Seni)"
+    content: |
+      Famoso por bolsos de ratán, artesanía en madera y ropa (sarongs).
+      Perfecto para compras de última hora.
+      
+      **Tip:** Regatear, empezar en 30% del precio.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Ubud+Art+Market+Pasar+Seni+Bali)
+    type: "place"
+    rating: 4
+    duration: "2 hours"
+
+  - stop: "Día 19: Ubud Art Market y Monkey Forest"
+    title: "Monkey Forest"
+    content: |
+      Bosque sagrado con macacos.
+      Solo si os apetece (muy turístico).
+      
+      **Nota ética:** No llevar comida visible, cuidado con gafas y objetos brillantes.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Sacred+Monkey+Forest+Sanctuary+Ubud+Bali)
+    type: "place"
+    rating: 3
+    duration: "1.5 hours"
+    price: 8.00
+
+  - stop: "Día 19: Ubud Art Market y Monkey Forest"
+    title: "Karsa Spa"
+    content: |
+      Masaje final entre arrozales.
+      Experiencia relajante antes de volver.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Karsa+Spa+Ubud+Bali)
+    type: "activity"
+    rating: 5
+    duration: "2 hours"
+    price: 30.00
+
+  - stop: "Día 19: Ubud Art Market y Monkey Forest"
+    title: "Aviso Kopi Luwak"
+    content: |
+      **Evitar el café de civeta (Luwak) en cafeterías turísticas.**
+      Suele provenir de animales enjaulados y maltratados.
+      
+      Si queréis probarlo, buscar certificaciones éticas (muy raras).
+    type: "tip"
+
+  # === DÍA 20: CENA DESPEDIDA ===
+  - stop: "Día 20: Cena Despedida Gastronómica"
+    title: "Cena de Despedida Gastronómica"
+    content: |
+      Opciones recomendadas:
+      - *Locavore*: Alta cocina con ingredientes locales
+      - *Room4Dessert*: Experiencia de postres (reservar con antelación)
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Locavore+restaurant+Ubud+Bali)
+    type: "restaurant"
+    rating: 5
+    price: 80.00
+    duration: "2 hours"
+
+  # === DÍA 21: VUELTA A CASA ===
+  # (Sin post específico, día de vuelta)

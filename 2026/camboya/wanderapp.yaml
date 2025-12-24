@@ -1,0 +1,862 @@
+# Camboya 2026: The "Anti-Crowd" Challenge (Slow & Deep)
+# Generado para importar en Wander App
+# Estructura: Una parada por día con posts asignados
+
+title: "Camboya 2026: Slow & Deep"
+start_date: "2026-07-29"
+end_date: "2026-08-25"
+description: |
+  Viaje de 27 días por Camboya con filosofía **"Viajar Lento para Ver Más"**.
+  
+  ## Filosofía
+  Se han eliminado los "puntos negros" de turismo masivo y los desvíos agotadores 
+  para priorizar la inmersión cultural y el relax real.
+  
+  ## Highlights
+  - Siem Reap: Angkor sin prisas, templos lejanos y vida local
+  - Battambang: La Camboya rural auténtica
+  - Kampot & Kep: El sur colonial, pimienta y cangrejos
+  - Koh Rong Sanloem: Desconexión total, solo mar y libros
+  - Phnom Penh: Entender el pasado antes de irse
+public: true
+budget_total: 6250.00
+local_currency: "USD"
+
+# ============================================
+# STOPS (Una parada por día - 27 días)
+# ============================================
+stops:
+  # ========== SIEM REAP (Días 1-8) ==========
+  - name: "Día 1: Llegada a Siem Reap"
+    location: "Siem Reap, Camboya"
+    visit_date: "2026-07-29"
+    arrival_date: "2026-07-29"
+    notes: "Llegada tras vuelo largo. Check-in y cena tranquila."
+    latitude: 13.3671
+    longitude: 103.8448
+
+  - name: "Día 2: Angkor Anti-Crowd"
+    location: "Angkor, Siem Reap, Camboya"
+    visit_date: "2026-07-30"
+    notes: "Preah Khan + Neak Pean. Templos selváticos a primera hora."
+    latitude: 13.4667
+    longitude: 103.8833
+
+  - name: "Día 3: Banteay Srei"
+    location: "Banteay Srei, Siem Reap, Camboya"
+    visit_date: "2026-07-31"
+    notes: "Banteay Srei (7AM) + Museo de Minas."
+    latitude: 13.5986
+    longitude: 103.9628
+
+  - name: "Día 4: Beng Mealea & Koh Ker"
+    location: "Koh Ker, Camboya"
+    visit_date: "2026-08-01"
+    notes: "Excursión día completo a la pirámide perdida."
+    latitude: 13.7833
+    longitude: 104.5333
+
+  - name: "Día 5: Kompong Khleang"
+    location: "Kompong Khleang, Camboya"
+    visit_date: "2026-08-02"
+    notes: "Vida local en pueblo de palafitos real."
+    latitude: 13.1500
+    longitude: 104.0667
+
+  - name: "Día 6: Día Slow"
+    location: "Siem Reap, Camboya"
+    visit_date: "2026-08-03"
+    notes: "Masajes, piscina, clase de cocina Jemer."
+    latitude: 13.3671
+    longitude: 103.8448
+
+  - name: "Día 7: Elefantes"
+    location: "Kulen, Siem Reap, Camboya"
+    visit_date: "2026-08-04"
+    notes: "Kulen Elephant Forest. Santuario ético."
+    latitude: 13.6167
+    longitude: 104.0333
+
+  - name: "Día 8: Circo y Mercados"
+    location: "Siem Reap, Camboya"
+    visit_date: "2026-08-05"
+    notes: "Compras Old Market + Circo Phare por la noche."
+    latitude: 13.3671
+    longitude: 103.8448
+
+  # ========== BATTAMBANG (Días 9-11) ==========
+  - name: "Día 9: Traslado a Battambang"
+    location: "Battambang, Camboya"
+    visit_date: "2026-08-06"
+    notes: "Traslado en barco o van privada. Llegada y paseo."
+    latitude: 13.0957
+    longitude: 103.2022
+
+  - name: "Día 10: Arquitectura y Murciélagos"
+    location: "Battambang, Camboya"
+    visit_date: "2026-08-07"
+    notes: "Mercado Central + Tour colonial + Cueva murciélagos atardecer."
+    latitude: 13.0957
+    longitude: 103.2022
+
+  - name: "Día 11: Tren de Bambú"
+    location: "Battambang, Camboya"
+    visit_date: "2026-08-08"
+    notes: "Tren de Bambú original + Viñedos locales."
+    latitude: 13.0957
+    longitude: 103.2022
+
+  # ========== KAMPOT (Días 12-17) ==========
+  - name: "Día 12: Traslado a Kampot"
+    location: "Kampot, Camboya"
+    visit_date: "2026-08-09"
+    notes: "Traslado largo hacia el sur (vía Phnom Penh bypass). Día de lectura."
+    latitude: 10.5943
+    longitude: 104.1652
+
+  - name: "Día 13: Pimienta y Sal"
+    location: "La Plantation, Kampot, Camboya"
+    visit_date: "2026-08-10"
+    notes: "Moto a La Plantation. Paisajes verdes post-lluvia."
+    latitude: 10.5500
+    longitude: 104.1000
+
+  - name: "Día 14: Excursión a Kep"
+    location: "Kep, Camboya"
+    visit_date: "2026-08-11"
+    notes: "Crab Market + Mansiones abandonadas. Regreso a Kampot."
+    latitude: 10.4833
+    longitude: 104.2833
+
+  - name: "Día 15: Kayak Catedral Verde"
+    location: "Río Kampot, Camboya"
+    visit_date: "2026-08-12"
+    notes: "Kayak por manglares (Catedral Verde)."
+    latitude: 10.5943
+    longitude: 104.1652
+
+  - name: "Día 16: Bokor Hill Station"
+    location: "Bokor, Kampot, Camboya"
+    visit_date: "2026-08-13"
+    notes: "Subida a estación climática abandonada y cascadas."
+    latitude: 10.6333
+    longitude: 104.0333
+
+  - name: "Día 17: Día Libre Kampot"
+    location: "Kampot, Camboya"
+    visit_date: "2026-08-14"
+    notes: "Cafés, hamaca y atardecer en el río."
+    latitude: 10.5943
+    longitude: 104.1652
+
+  # ========== KOH RONG SANLOEM (Días 18-23) ==========
+  - name: "Día 18: Traslado a Koh Rong Sanloem"
+    location: "Koh Rong Sanloem, Camboya"
+    visit_date: "2026-08-15"
+    notes: "Traslado al puerto + Barco a la isla."
+    latitude: 10.5750
+    longitude: 103.3256
+
+  - name: "Día 19: Isla - Relax"
+    location: "Saracen Bay, Koh Rong Sanloem"
+    visit_date: "2026-08-16"
+    notes: "Desayuno tardío. Playa y lectura."
+    latitude: 10.5750
+    longitude: 103.3256
+
+  - name: "Día 20: Isla - Lazy Beach"
+    location: "Lazy Beach, Koh Rong Sanloem"
+    visit_date: "2026-08-17"
+    notes: "Caminata selva a Lazy Beach. Snorkel."
+    latitude: 10.5600
+    longitude: 103.3100
+
+  - name: "Día 21: Isla - Snorkel"
+    location: "Koh Rong Sanloem, Camboya"
+    visit_date: "2026-08-18"
+    notes: "Snorkel en arrecifes. Atardecer."
+    latitude: 10.5750
+    longitude: 103.3256
+
+  - name: "Día 22: Isla - Bioluminiscencia"
+    location: "Koh Rong Sanloem, Camboya"
+    visit_date: "2026-08-19"
+    notes: "Día libre. Nadar con plancton bioluminiscente por la noche."
+    latitude: 10.5750
+    longitude: 103.3256
+
+  - name: "Día 23: Isla - Sunset Beach"
+    location: "Sunset Beach, Koh Rong Sanloem"
+    visit_date: "2026-08-20"
+    notes: "Caminata a Sunset Beach. Último día de isla."
+    latitude: 10.5800
+    longitude: 103.3100
+
+  # ========== PHNOM PENH (Días 24-27) ==========
+  - name: "Día 24: Traslado a Phnom Penh"
+    location: "Phnom Penh, Camboya"
+    visit_date: "2026-08-21"
+    notes: "Barco y traslado a la capital."
+    latitude: 11.5564
+    longitude: 104.9282
+
+  - name: "Día 25: Memoria"
+    location: "Phnom Penh, Camboya"
+    visit_date: "2026-08-22"
+    notes: "S-21 (Tuol Sleng) y Killing Fields."
+    latitude: 11.5564
+    longitude: 104.9282
+
+  - name: "Día 26: Renacimiento"
+    location: "Phnom Penh, Camboya"
+    visit_date: "2026-08-23"
+    notes: "Palacio Real, Museo Nacional, Mercados."
+    latitude: 11.5564
+    longitude: 104.9282
+
+  - name: "Día 27: Vuelta a casa"
+    location: "Phnom Penh, Camboya"
+    visit_date: "2026-08-25"
+    notes: "Traslado al aeropuerto. Vuelo de regreso."
+    latitude: 11.5564
+    longitude: 104.9282
+
+# ============================================
+# FLIGHTS (Vuelos)
+# ============================================
+flights:
+  - airline: "Qatar Airways"
+    flight_number: "QR150"
+    origin: "Madrid (MAD)"
+    destination: "Doha (DOH)"
+    departure_date: "2026-07-28T15:45:00"
+    arrival_date: "2026-07-28T23:30:00"
+    price: 600.00
+    cabin_class: "economy"
+    notes: "Primer tramo. 6h 45m."
+
+  - airline: "Qatar Airways"
+    flight_number: "QR836"
+    origin: "Doha (DOH)"
+    destination: "Bangkok (BKK)"
+    departure_date: "2026-07-29T02:30:00"
+    arrival_date: "2026-07-29T13:25:00"
+    price: 600.00
+    cabin_class: "economy"
+    notes: "Escala 3h en Doha. 6h 55m."
+
+  - airline: "Qatar Airways"
+    flight_number: "QR4359"
+    origin: "Bangkok (BKK)"
+    destination: "Siem Reap (SAI)"
+    departure_date: "2026-07-29T17:25:00"
+    arrival_date: "2026-07-29T18:45:00"
+    price: 200.00
+    cabin_class: "economy"
+    notes: "Escala 4h en Bangkok. 1h 20m."
+
+  - airline: "Qatar Airways"
+    flight_number: "QR971"
+    origin: "Phnom Penh (KTI)"
+    destination: "Doha (DOH)"
+    departure_date: "2026-08-25T17:35:00"
+    arrival_date: "2026-08-25T23:15:00"
+    price: 600.00
+    cabin_class: "economy"
+    notes: "Salida desde Techo Intl. 9h 40m."
+
+  - airline: "Qatar Airways"
+    flight_number: "QR147"
+    origin: "Doha (DOH)"
+    destination: "Madrid (MAD)"
+    departure_date: "2026-08-26T01:25:00"
+    arrival_date: "2026-08-26T07:35:00"
+    price: 400.00
+    cabin_class: "economy"
+    notes: "Escala 2h 10m en Doha. 7h 10m."
+
+# ============================================
+# ACCOMMODATIONS (Alojamientos)
+# ============================================
+accommodations:
+  - stop: "Día 1: Llegada a Siem Reap"
+    name: "Jaya House River Park"
+    type: "hotel"
+    address: "River Road, Siem Reap"
+    price_per_night: 80.00
+    nights: 8
+    booking_platform: "Booking.com"
+    notes: "Lujo sostenible. Piscina y jardines."
+    rating: 5
+
+  - stop: "Día 9: Traslado a Battambang"
+    name: "Bric-à-Brac"
+    type: "hotel"
+    address: "Street 2, Battambang"
+    price_per_night: 50.00
+    nights: 3
+    booking_platform: "Booking.com"
+    notes: "Hotel boutique en edificio colonial."
+    rating: 4
+
+  - stop: "Día 12: Traslado a Kampot"
+    name: "Sabay Beach"
+    type: "hotel"
+    address: "Kampot River"
+    price_per_night: 60.00
+    nights: 6
+    booking_platform: "Booking.com"
+    notes: "Bungalows de lujo en el río."
+    rating: 5
+
+  - stop: "Día 18: Traslado a Koh Rong Sanloem"
+    name: "Sara Resort"
+    type: "hotel"
+    address: "Saracen Bay, Koh Rong Sanloem"
+    price_per_night: 70.00
+    nights: 6
+    booking_platform: "Booking.com"
+    notes: "Alternativa: Lazy Beach (aislamiento total)."
+    rating: 5
+
+  - stop: "Día 24: Traslado a Phnom Penh"
+    name: "Hotel Riverside"
+    type: "hotel"
+    address: "Riverside, Phnom Penh"
+    price_per_night: 50.00
+    nights: 4
+    booking_platform: "Booking.com"
+    notes: "Zona Riverside cerca del Palacio Real."
+
+# ============================================
+# POSTS (Experiencias por día)
+# ============================================
+posts:
+  # === DÍA 1 ===
+  - stop: "Día 1: Llegada a Siem Reap"
+    title: "Cena tranquila de llegada"
+    content: |
+      Descansar tras el vuelo largo. Cenar algo ligero cerca del hotel.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=best+restaurants+Siem+Reap+Cambodia)
+    type: "restaurant"
+    price: 15.00
+
+  - stop: "Día 1: Llegada a Siem Reap"
+    title: "Tip: Visa on Arrival"
+    content: |
+      $30 USD en el aeropuerto.
+      Llevar foto carnet y billetes nuevos de dólar.
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Siem Reap"
+    title: "Tip: PassApp/Grab"
+    content: "Imprescindible para pedir tuk-tuks sin regatear."
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Siem Reap"
+    title: "Tip: Dólar vs Riel"
+    content: |
+      USD para pagos grandes, Riel para cambios pequeños.
+      Billetes USD deben estar IMPOLUTOS.
+    type: "tip"
+
+  # === DÍA 2 ===
+  - stop: "Día 2: Angkor Anti-Crowd"
+    title: "Preah Khan"
+    content: |
+      Templo selvático con pasillos interminables.
+      Árboles engullendo piedras.
+      Ir a primera hora.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Preah+Khan+temple+Angkor+Cambodia)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+
+  - stop: "Día 2: Angkor Anti-Crowd"
+    title: "Neak Pean"
+    content: |
+      Templo isla en medio de un estanque.
+      Arquitectura única. Muy fotogénico.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Neak+Pean+temple+Angkor+Cambodia)
+    type: "place"
+    rating: 4
+    duration: "1 hour"
+
+  # === DÍA 3 ===
+  - stop: "Día 3: Banteay Srei"
+    title: "Banteay Srei"
+    content: |
+      El templo de las mujeres. Las tallas más detalladas de Angkor.
+      **Tip:** Ir a las 7:00 AM antes de los buses.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Banteay+Srei+temple+Cambodia)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+
+  - stop: "Día 3: Banteay Srei"
+    title: "Museo de Minas (Landmine Museum)"
+    content: |
+      Historia del desminado en Camboya.
+      Fundado por un ex-soldado. Emotivo y educativo.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Cambodia+Landmine+Museum+Siem+Reap)
+    type: "place"
+    rating: 4
+    duration: "1.5 hours"
+    price: 5.00
+
+  # === DÍA 4 ===
+  - stop: "Día 4: Beng Mealea & Koh Ker"
+    title: "Beng Mealea"
+    content: |
+      Templo engullido por la selva.
+      Menos restaurado, más aventura.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Beng+Mealea+temple+Cambodia)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+
+  - stop: "Día 4: Beng Mealea & Koh Ker"
+    title: "Koh Ker (Pirámide Perdida)"
+    content: |
+      Pirámide de 7 niveles en medio de la selva.
+      Menos turistas que Angkor principal.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Koh+Ker+pyramid+temple+Cambodia)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+    price: 50.00
+
+  # === DÍA 5 ===
+  - stop: "Día 5: Kompong Khleang"
+    title: "Pueblo de Palafitos"
+    content: |
+      Vida local auténtica en el lago Tonle Sap.
+      Casas sobre pilotes, pescadores reales.
+      No turístico como Kompong Phluk.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Kompong+Khleang+floating+village+Cambodia)
+    type: "place"
+    rating: 4
+    duration: "4 hours"
+
+  # === DÍA 6 ===
+  - stop: "Día 6: Día Slow"
+    title: "Clase de Cocina Jemer"
+    content: |
+      Aprender a hacer *Fish Amok* y *Lok Lak*.
+      Recomendado: Beyond Unique Escapes o Paper Tiger.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Khmer+cooking+class+Siem+Reap)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+    price: 35.00
+
+  - stop: "Día 6: Día Slow"
+    title: "Masaje Camboyano"
+    content: |
+      Relax merecido. Masajes económicos y de calidad.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=best+massage+spa+Siem+Reap)
+    type: "activity"
+    rating: 4
+    duration: "2 hours"
+    price: 15.00
+
+  # === DÍA 7 ===
+  - stop: "Día 7: Elefantes"
+    title: "Kulen Elephant Forest"
+    content: |
+      Santuario de elefantes ético cerca de Siem Reap.
+      
+      **Nota ética:** Observación solamente.
+      NO montar, NO bañar (estrés para el animal).
+      Se camina junto a ellos respetando su espacio.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Kulen+Elephant+Forest+ethical+sanctuary+Cambodia)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+    price: 60.00
+
+  # === DÍA 8 ===
+  - stop: "Día 8: Circo y Mercados"
+    title: "Psar Chaa (Old Market)"
+    content: |
+      El corazón de Siem Reap.
+      Souvenirs, especias y comida local.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Psar+Chaa+Old+Market+Siem+Reap)
+    type: "place"
+    rating: 4
+    duration: "2 hours"
+
+  - stop: "Día 8: Circo y Mercados"
+    title: "Angkor Night Market"
+    content: |
+      Paseo nocturno. Comida callejera.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Angkor+Night+Market+Siem+Reap)
+    type: "place"
+    duration: "1.5 hours"
+
+  - stop: "Día 8: Circo y Mercados"
+    title: "Circo Phare"
+    content: |
+      Espectáculo de circo camboyano.
+      Artistas locales formados en escuela social.
+      Imprescindible.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Phare+Cambodian+Circus+Siem+Reap)
+    type: "activity"
+    rating: 5
+    duration: "2 hours"
+    price: 18.00
+
+  # === DÍA 9 ===
+  - stop: "Día 9: Traslado a Battambang"
+    title: "Traslado Siem Reap → Battambang"
+    content: |
+      Opción 1: Barco (si nivel agua lo permite, escénico).
+      Opción 2: Van privada (más rápido).
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Siem+Reap+to+Battambang+boat+transfer)
+    type: "transport"
+    duration: "4 hours"
+
+  # === DÍA 10 ===
+  - stop: "Día 10: Arquitectura y Murciélagos"
+    title: "Psar Nat (Mercado Central)"
+    content: |
+      Joya Art Deco. Arquitectura colonial francesa.
+      Perfecto para ver vida diaria local.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Psar+Nat+Central+Market+Battambang)
+    type: "place"
+    rating: 4
+    duration: "1.5 hours"
+
+  - stop: "Día 10: Arquitectura y Murciélagos"
+    title: "Tour Arquitectura Colonial"
+    content: |
+      Paseo por edificios coloniales franceses conservados.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Battambang+colonial+architecture+tour)
+    type: "activity"
+    duration: "2 hours"
+
+  - stop: "Día 10: Arquitectura y Murciélagos"
+    title: "Cueva de Murciélagos"
+    content: |
+      Millones de murciélagos saliendo al atardecer.
+      Espectáculo natural impresionante.
+      
+      **Nota ética:** Observación silenciosa. No usar flash ni drones.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Battambang+bat+caves+sunset)
+    type: "activity"
+    rating: 5
+    duration: "2 hours"
+
+  # === DÍA 11 ===
+  - stop: "Día 11: Tren de Bambú"
+    title: "Tren de Bambú (Original)"
+    content: |
+      Ir al antiguo, no al nuevo turístico.
+      Experiencia única de transporte improvisado.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Bamboo+Train+Battambang+original)
+    type: "activity"
+    rating: 4
+    duration: "1 hour"
+    price: 5.00
+
+  - stop: "Día 11: Tren de Bambú"
+    title: "Viñedos locales"
+    content: |
+      Visita a producción de vino local. Degustación incluida.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Battambang+wine+vineyard+tour)
+    type: "activity"
+    duration: "2 hours"
+
+  # === DÍA 12 ===
+  - stop: "Día 12: Traslado a Kampot"
+    title: "Traslado largo al sur"
+    content: |
+      Vía Phnom Penh bypass.
+      Día de lectura y podcast en el coche.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Battambang+to+Kampot+transfer)
+    type: "transport"
+    duration: "6 hours"
+
+  # === DÍA 13 ===
+  - stop: "Día 13: Pimienta y Sal"
+    title: "La Plantation"
+    content: |
+      Tour por plantación de pimienta de fama mundial.
+      Paisajes verdes post-lluvia increíbles en agosto.
+      Ir en moto.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=La+Plantation+pepper+farm+Kampot)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+    price: 10.00
+
+  # === DÍA 14 ===
+  - stop: "Día 14: Excursión a Kep"
+    title: "Crab Market de Kep"
+    content: |
+      **Imprescindible.**
+      Ver cómo sacan cangrejos del mar y los cocinan al momento
+      con pimienta de Kampot.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Kep+Crab+Market+Cambodia)
+    type: "restaurant"
+    rating: 5
+    price: 20.00
+    duration: "2 hours"
+
+  - stop: "Día 14: Excursión a Kep"
+    title: "Mansiones Abandonadas"
+    content: |
+      Ruinas de villas coloniales francesas.
+      Atmósfera fantasmagórica pero fotogénica.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Kep+abandoned+French+villas+Cambodia)
+    type: "place"
+    rating: 4
+    duration: "2 hours"
+
+  # === DÍA 15 ===
+  - stop: "Día 15: Kayak Catedral Verde"
+    title: "Kayak Manglares"
+    content: |
+      Kayak por los manglares del río Kampot.
+      Túnel natural de vegetación llamado "Catedral Verde".
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Green+Cathedral+kayak+Kampot+mangroves)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+    price: 15.00
+
+  # === DÍA 16 ===
+  - stop: "Día 16: Bokor Hill Station"
+    title: "Bokor Hill Station"
+    content: |
+      Subida a estación climática abandonada.
+      Casino fantasma, iglesia en ruinas y cascadas.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Bokor+Hill+Station+abandoned+casino+Kampot)
+    type: "activity"
+    rating: 4
+    duration: "5 hours"
+
+  # === DÍA 17 ===
+  - stop: "Día 17: Día Libre Kampot"
+    title: "Día de relax"
+    content: |
+      Cafés junto al río.
+      Hamaca y lectura.
+      Atardecer desde el río.
+    type: "tip"
+
+  # === DÍA 18 ===
+  - stop: "Día 18: Traslado a Koh Rong Sanloem"
+    title: "Traslado a la isla"
+    content: |
+      Van al puerto + Barco a Koh Rong Sanloem (~2h).
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Kampot+to+Koh+Rong+Sanloem+ferry)
+    type: "transport"
+    duration: "4 hours"
+
+  # === DÍA 19 ===
+  - stop: "Día 19: Isla - Relax"
+    title: "Día de playa"
+    content: |
+      Desayuno tardío. Playa, lectura, nada más.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Saracen+Bay+Koh+Rong+Sanloem)
+    type: "activity"
+    rating: 5
+
+  # === DÍA 20 ===
+  - stop: "Día 20: Isla - Lazy Beach"
+    title: "Caminata a Lazy Beach"
+    content: |
+      Sendero por la selva hasta playa aislada.
+      Snorkel en arrecife coral.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Lazy+Beach+Koh+Rong+Sanloem+jungle+trail)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+
+  # === DÍA 21 ===
+  - stop: "Día 21: Isla - Snorkel"
+    title: "Snorkel"
+    content: |
+      Explorar arrecifes de coral.
+      
+      **Nota ética:** No pisar ni tocar coral.
+      Usar crema solar "Reef Safe".
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Koh+Rong+Sanloem+snorkeling+coral+reef)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+
+  # === DÍA 22 ===
+  - stop: "Día 22: Isla - Bioluminiscencia"
+    title: "Plancton Bioluminiscente"
+    content: |
+      Nadar de noche con plancton que brilla al moverse.
+      Mejor en noches sin luna.
+      Experiencia mágica.
+      
+      **Tip:** Evitar repelentes químicos antes de entrar al agua.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Koh+Rong+Sanloem+bioluminescent+plankton)
+    type: "activity"
+    rating: 5
+    duration: "1 hour"
+
+  # === DÍA 23 ===
+  - stop: "Día 23: Isla - Sunset Beach"
+    title: "Caminata a Sunset Beach"
+    content: |
+      Último día de isla. Atardecer épico desde Sunset Beach.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Sunset+Beach+Koh+Rong+Sanloem)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+
+  # === DÍA 24 ===
+  - stop: "Día 24: Traslado a Phnom Penh"
+    title: "Traslado a la capital"
+    content: |
+      Barco al continente + Van a Phnom Penh.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Koh+Rong+Sanloem+to+Phnom+Penh+transfer)
+    type: "transport"
+    duration: "5 hours"
+
+  # === DÍA 25 ===
+  - stop: "Día 25: Memoria"
+    title: "S-21 (Tuol Sleng)"
+    content: |
+      Antigua escuela convertida en prisión por los Jemeres Rojos.
+      Duro pero necesario para entender la historia.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Tuol+Sleng+S-21+Genocide+Museum+Phnom+Penh)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+    price: 5.00
+
+  - stop: "Día 25: Memoria"
+    title: "Killing Fields (Choeung Ek)"
+    content: |
+      Memorial del genocidio camboyano.
+      Llevar agua y pañuelos.
+      Audio guía muy recomendada.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Choeung+Ek+Killing+Fields+Phnom+Penh)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+    price: 5.00
+
+  # === DÍA 26 ===
+  - stop: "Día 26: Renacimiento"
+    title: "Palacio Real"
+    content: |
+      Arquitectura jemer dorada.
+      Pagoda de Plata con suelo de baldosas de plata.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Royal+Palace+Silver+Pagoda+Phnom+Penh)
+    type: "place"
+    rating: 4
+    duration: "2 hours"
+    price: 10.00
+
+  - stop: "Día 26: Renacimiento"
+    title: "Museo Nacional"
+    content: |
+      Colección de arte jemer. Edificio colonial rojo icónico.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=National+Museum+Cambodia+Phnom+Penh)
+    type: "place"
+    rating: 4
+    duration: "1.5 hours"
+    price: 5.00
+
+  - stop: "Día 26: Renacimiento"
+    title: "Psar Thmei (Mercado Central)"
+    content: |
+      Impresionante cúpula amarilla Art Deco.
+      Joyas y relojes.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Central+Market+Psar+Thmei+Phnom+Penh)
+    type: "place"
+    rating: 4
+    duration: "1.5 hours"
+
+  - stop: "Día 26: Renacimiento"
+    title: "Psar Tuol Tom Poung (Mercado Ruso)"
+    content: |
+      El mejor para souvenirs, ropa outlet y artesanía.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Russian+Market+Tuol+Tom+Poung+Phnom+Penh)
+    type: "place"
+    rating: 4
+    duration: "2 hours"
+
+  - stop: "Día 26: Renacimiento"
+    title: "Cena de despedida en Malis"
+    content: |
+      Alta cocina Jemer. Perfecto para la última noche.
+      Reservar con antelación.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Malis+restaurant+Phnom+Penh)
+    type: "restaurant"
+    rating: 5
+    price: 50.00
+    duration: "2 hours"
+
+  # === DÍA 27 ===
+  - stop: "Día 27: Vuelta a casa"
+    title: "Traslado al aeropuerto"
+    content: |
+      Techo International Airport. Vuelo de regreso.
+      
+      🔍 [Buscar en Google](https://www.google.com/search?q=Phnom+Penh+International+Airport+transfer)
+    type: "transport"
+    duration: "1 hour"
+
+  # === TIPS (asignados al día 1) ===
+  - stop: "Día 1: Llegada a Siem Reap"
+    title: "Tip: Giant Ibis (Buses)"
+    content: |
+      Compañía de buses más segura para trayectos largos.
+      WiFi, enchufes y snacks incluidos.
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Siem Reap"
+    title: "Tip: Orfanatos"
+    content: |
+      **NUNCA visitar orfanatos turísticos.**
+      Fomentan la separación familiar y el tráfico de niños.
+    type: "tip"
