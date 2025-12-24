@@ -10,10 +10,10 @@
 
 | Destino | Itinerario | Sources |
 |---------|------------|---------|
-| 🇻🇳 Vietnam | [vietnam.md](vietnam.md) | [vietnam-sources.md](vietnam-sources.md) |
-| 🇰🇭 Camboya | [camboya.md](camboya.md) | [camboya-sources.md](camboya-sources.md) |
-| 🇯🇵 Japón | [japon.md](japon.md) | [japon-sources.md](japon-sources.md) |
-| 🇮🇩 Bali | [bali.md](bali.md) | [bali-sources.md](bali-sources.md) |
+| 🇻🇳 Vietnam | [vietnam/index.md](vietnam/index.md) | [vietnam/sources.md](vietnam/sources.md) |
+| 🇰🇭 Camboya | [camboya/index.md](camboya/index.md) | [camboya/sources.md](camboya/sources.md) |
+| 🇯🇵 Japón | [japon/index.md](japon/index.md) | [japon/sources.md](japon/sources.md) |
+| 🇮🇩 Bali | [bali/index.md](bali/index.md) | [bali/sources.md](bali/sources.md) |
 
 ---
 
