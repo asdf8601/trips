@@ -14,32 +14,33 @@
 | 🇰🇭 Camboya | [camboya/index.md](camboya/index.md) | [camboya/sources.md](camboya/sources.md) |
 | 🇯🇵 Japón | [japon/index.md](japon/index.md) | [japon/sources.md](japon/sources.md) |
 | 🇮🇩 Bali | [bali/index.md](bali/index.md) | [bali/sources.md](bali/sources.md) |
+| 🇻🇳+🇮🇩 Vietnam-Bali | [vietnam-bali/index.md](vietnam-bali/index.md) | [vietnam-bali/sources.md](vietnam-bali/sources.md) |
 
 ---
 
 ## 🌍 Tabla Comparativa General
 
-| Característica | 🇻🇳 **Vietnam** | 🇰🇭 **Camboya** | 🇯🇵 **Japón** | 🇮🇩 **Bali** |
-| :--- | :--- | :--- | :--- | :--- |
-| **Estilo Principal** | Aventura, Paisaje Kárstico, Caos Urbano | Arqueología, Vida Rural, Historia Dura | Montaña Alpina, Cultura Zen, Modernidad | Cultura Espiritual, Buceo, Relax en Villa |
-| **Ritmo (Slow)** | ⭐⭐⭐ (Ruta larga N-S) | ⭐⭐⭐⭐ (Pocas bases) | ⭐⭐⭐ (Moverse eficiente) | ⭐⭐⭐⭐⭐ (Muy relajado) |
-| **Clima (Agosto)** | 🌦️ Norte Lluvioso / ☀️ Centro Seco | 🌧️ Lluvioso (Verde Esmeralda) | ☀️🔥 Calor y Humedad Extrema | ☀️ **Seco y Fresco (Ideal)** |
-| **Masificación** | Alta en puntos clave (Hanoi/Hoi An) | Media (Angkor) / Baja (Resto) | Alta en Kyoto/Tokyo | Alta en Sur / Nula en Norte |
-| **Comida** | ⭐⭐⭐⭐⭐ (Callejera increíble) | ⭐⭐⭐ (Curries suaves) | ⭐⭐⭐⭐⭐ (Ramen, Sushi, Carne) | ⭐⭐⭐⭐ (Sana, orgánica) |
-| **Naturaleza** | Cuevas Gigantes, Arrozales | Selva, Ríos, Elefantes | Alpes, Volcanes, Bosques | Volcanes, Arrecifes, Selva |
-| **Transporte** | Tren Nocturno, Furgonetas VIP | Tuk-tuk, Bus, Barco | Tren Bala (Shinkansen) | Coche Privado con Conductor |
+| Característica | 🇻🇳 **Vietnam** | 🇰🇭 **Camboya** | 🇯🇵 **Japón** | 🇮🇩 **Bali** | 🇻🇳+🇮🇩 **Vietnam-Bali** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Estilo Principal** | Aventura, Paisaje Kárstico, Caos Urbano | Arqueología, Vida Rural, Historia Dura | Montaña Alpina, Cultura Zen, Modernidad | Cultura Espiritual, Buceo, Relax en Villa | Lo Mejor de Dos Mundos: Aventura + Relax |
+| **Ritmo (Slow)** | ⭐⭐⭐ (Ruta larga N-S) | ⭐⭐⭐⭐ (Pocas bases) | ⭐⭐⭐ (Moverse eficiente) | ⭐⭐⭐⭐⭐ (Muy relajado) | ⭐⭐⭐⭐ (Intenso + Descanso) |
+| **Clima (Agosto)** | 🌦️ Norte Lluvioso / ☀️ Centro Seco | 🌧️ Lluvioso (Verde Esmeralda) | ☀️🔥 Calor y Humedad Extrema | ☀️ **Seco y Fresco (Ideal)** | ☀️ Centro VN Seco + Bali Ideal |
+| **Masificación** | Alta en puntos clave (Hanoi/Hoi An) | Media (Angkor) / Baja (Resto) | Alta en Kyoto/Tokyo | Alta en Sur / Nula en Norte | Media (Rutas alternativas) |
+| **Comida** | ⭐⭐⭐⭐⭐ (Callejera increíble) | ⭐⭐⭐ (Curries suaves) | ⭐⭐⭐⭐⭐ (Ramen, Sushi, Carne) | ⭐⭐⭐⭐ (Sana, orgánica) | ⭐⭐⭐⭐⭐ (VN callejera + Bali orgánica) |
+| **Naturaleza** | Cuevas Gigantes, Arrozales | Selva, Ríos, Elefantes | Alpes, Volcanes, Bosques | Volcanes, Arrecifes, Selva | Karst + Arrozales + Volcanes + Arrecifes |
+| **Transporte** | Tren Nocturno, Furgonetas VIP | Tuk-tuk, Bus, Barco | Tren Bala (Shinkansen) | Coche Privado con Conductor | Vuelos internos + Conductor privado |
 
 ---
 
 ## 💰 Comparativa Económica (Estimado 2 Personas)
 
-| Concepto | 🇻🇳 Vietnam (29 Días) | 🇰🇭 Camboya (27 Días) | 🇯🇵 Japón (21 Días) | 🇮🇩 Bali (30 Días) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Vuelos Int.** | 2.289 € (TK) | ~2.400 € (QR) | ~2.800 € (TK+ANA) | 2.771 € (TK) |
-| **Alojamiento** | 1.500 € | 1.350 € | 1.200 € | 1.600 € |
-| **Vida en destino** | 2.400 € | 2.500 € | 2.800 € | 2.500 € |
-| **TOTAL** | **~6.189 €** | **~6.250 €** | **~6.800 €** | **~6.871 €** |
-| *Por persona* | *~3.100 €* | *~3.125 €* | *~3.400 €* | *~3.435 €* |
+| Concepto | 🇻🇳 Vietnam (29 Días) | 🇰🇭 Camboya (27 Días) | 🇯🇵 Japón (21 Días) | 🇮🇩 Bali (30 Días) | 🇻🇳+🇮🇩 Vietnam-Bali (28 Días) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Vuelos Int.** | 2.289 € (TK) | ~2.400 € (QR) | ~2.800 € (TK+ANA) | 2.771 € (TK) | ~2.500 € (TK+internos) |
+| **Alojamiento** | 1.500 € | 1.350 € | 1.200 € | 1.600 € | 1.400 € |
+| **Vida en destino** | 2.400 € | 2.500 € | 2.800 € | 2.500 € | 1.800 € |
+| **TOTAL** | **~6.189 €** | **~6.250 €** | **~6.800 €** | **~6.871 €** | **~5.700 €** |
+| *Por persona* | *~3.100 €* | *~3.125 €* | *~3.400 €* | *~3.435 €* | *~2.850 €* |
 
 > **Nota:** Bali y Vietnam ofrecen más días por un precio similar a Japón (que es más corto pero más intenso en coste diario).
 
@@ -67,11 +68,17 @@
 *   **❌ CONTRAS:** El tráfico en el sur es terrible (evitado en este plan). "Influencers" en puntos clave. Mar a veces peligroso (corrientes).
 *   **Ideal para:** Desconexión total, lujo asequible, buceo y combinar cultura con descanso real.
 
+### 🇻🇳+🇮🇩 Vietnam-Bali: "Lo Mejor de Dos Mundos"
+*   **✅ PROS:** Combina la aventura y gastronomía de Vietnam con el relax y buceo de Bali. **El más económico** de todas las opciones (~5.700€). Clima óptimo en ambos (centro de Vietnam seco + Bali temporada ideal). Equilibrio perfecto intensidad/descanso.
+*   **❌ CONTRAS:** Más vuelos internos (3 dentro del viaje). Requiere gestionar dos visados. Menos tiempo en cada país que los itinerarios individuales.
+*   **Ideal para:** Quien quiera variedad máxima, combinar aventura con descanso, y obtener el mejor valor por euro gastado.
+
 ---
 
 ## 💡 Recomendación Final (Opencode)
 
-1.  **Si buscáis CLIMA perfecto y RELAX:** Elegid **🇮🇩 Bali**. Agosto es su mejor mes, no llueve, hace fresco por la noche y podéis tener villas privadas increíbles. El itinerario "Anti-Crowd" elimina los problemas de masificación.
-2.  **Si buscáis AVENTURA y COMIDA:** Elegid **🇻🇳 Vietnam**. Es el viaje más dinámico y sorprendente. La ruta de las cuevas (Phong Nha) y la comida de calle son experiencias vitales.
-3.  **Si os gusta la HISTORIA:** Elegid **🇰🇭 Camboya**. Es el más "espiritual" y humano de los tres asiáticos continentales.
-4.  **Si toleráis el calor extremo:** Elegid **🇯🇵 Japón**. Es fascinante, pero en agosto el clima es un factor limitante muy serio para caminar por la calle.
+1.  **Si buscáis VARIEDAD y VALOR:** Elegid **🇻🇳+🇮🇩 Vietnam-Bali**. Es el más económico (~5.700€) y combina lo mejor de ambos mundos: aventura, gastronomía callejera, paisajes kársticos, buceo y relax en villas. Equilibrio perfecto entre intensidad y descanso.
+2.  **Si buscáis CLIMA perfecto y RELAX puro:** Elegid **🇮🇩 Bali**. Agosto es su mejor mes, no llueve, hace fresco por la noche y podéis tener villas privadas increíbles. El itinerario "Anti-Crowd" elimina los problemas de masificación.
+3.  **Si buscáis AVENTURA y COMIDA:** Elegid **🇻🇳 Vietnam**. Es el viaje más dinámico y sorprendente. La ruta de las cuevas (Phong Nha) y la comida de calle son experiencias vitales.
+4.  **Si os gusta la HISTORIA:** Elegid **🇰🇭 Camboya**. Es el más "espiritual" y humano de los tres asiáticos continentales.
+5.  **Si toleráis el calor extremo:** Elegid **🇯🇵 Japón**. Es fascinante, pero en agosto el clima es un factor limitante muy serio para caminar por la calle.

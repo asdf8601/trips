@@ -1,0 +1,915 @@
+# Vietnam + Bali 2026: "De los Arrozales al Paraiso"
+# Generado para importar en Wander App
+# Estructura: Una parada por día con posts asignados
+
+title: "Vietnam + Bali 2026: Slow & Deep"
+start_date: "2026-07-30"
+end_date: "2026-08-26"
+description: |
+  Viaje combinado de 28 días: 15 días en Vietnam + 13 días en Bali.
+  
+  ## Filosofía
+  "Menos destinos, más profundidad. Madrugamos para evitar masas."
+  
+  ## Highlights Vietnam
+  - Hanoi: El caos controlado, street food real
+  - Ninh Binh: La bahía terrestre
+  - Bahía de Halong: Crucero en el karst
+  - Hoi An: Estrategia periférica (dormir fuera, visitar dentro)
+  - Hue: Slow life imperial
+  - Ho Chi Minh: Túneles Cu Chi
+  
+  ## Highlights Bali
+  - Ubud: Corazón cultural, arrozales, templos
+  - Monte Batur: Amanecer volcánico
+  - Amed: Costa salvaje, buceo
+  - Munduk: Lagos y cascadas
+  - Uluwatu: Acantilados y surf
+  
+  ## Logística
+  Entrada: Hanoi (HAN) → Salida: Bali (DPS)
+  Vuelo intermedio: Ho Chi Minh → Bali
+public: true
+budget_total: 5700.00
+local_currency: "EUR"
+
+# ============================================
+# STOPS (Una parada por día - 28 días)
+# ============================================
+stops:
+  # ========== HANOI (Días 1-4) ==========
+  - name: "Día 1: Llegada a Hanoi"
+    location: "Hanoi, Vietnam"
+    visit_date: "2026-07-30"
+    arrival_date: "2026-07-30"
+    notes: |
+      Llegada a Noi Bai. Alojamiento en Old Quarter.
+      
+      Explorar:
+      - [Lago Hoan Kiem](https://www.google.com/search?q=Hoan+Kiem+Lake+Hanoi)
+      - [Pho callejero Old Quarter](https://www.google.com/search?q=best+pho+Old+Quarter+Hanoi)
+    latitude: 21.0285
+    longitude: 105.8542
+    google_search_url: "https://www.google.com/search?q=Hanoi+Old+Quarter+things+to+do"
+
+  - name: "Día 2: Hanoi Cultural"
+    location: "Old Quarter, Hanoi, Vietnam"
+    visit_date: "2026-07-31"
+    notes: |
+      Explorar:
+      - [Templo de la Literatura](https://www.google.com/search?q=Temple+of+Literature+Hanoi) - ir 7:30
+      - [Pagoda Un Solo Pilar](https://www.google.com/search?q=One+Pillar+Pagoda+Hanoi)
+      - [Mausoleo Ho Chi Minh](https://www.google.com/search?q=Ho+Chi+Minh+Mausoleum) (exterior)
+      - [Bia Hoi Corner](https://www.google.com/search?q=Bia+Hoi+Corner+Hanoi) - cerveza ~0.20€
+    latitude: 21.0340
+    longitude: 105.8500
+    google_search_url: "https://www.google.com/search?q=Hanoi+Temple+of+Literature+One+Pillar+Pagoda"
+
+  - name: "Día 3: Cocina y Mercados"
+    location: "Old Quarter, Hanoi, Vietnam"
+    visit_date: "2026-08-01"
+    notes: |
+      Explorar:
+      - [Clase de cocina Hanoi](https://www.google.com/search?q=Hanoi+cooking+class)
+      - [Dong Xuan Market](https://www.google.com/search?q=Dong+Xuan+Market+Hanoi) - mercado nocturno vie-dom
+      - [Masajes Hanoi](https://www.google.com/search?q=Hanoi+massage+spa)
+    latitude: 21.0340
+    longitude: 105.8500
+    google_search_url: "https://www.google.com/search?q=Hanoi+cooking+class+night+market"
+
+  - name: "Día 4: Traslado Ninh Binh"
+    location: "Ninh Binh, Vietnam"
+    visit_date: "2026-08-02"
+    notes: |
+      Traslado a Ninh Binh. Check-in Tam Coc.
+      
+      Explorar:
+      - [Hang Mua Peak](https://www.google.com/search?q=Hang+Mua+Peak+Ninh+Binh) - 500 escalones, vistas TOP
+      - [Tam Coc area](https://www.google.com/search?q=Tam+Coc+Ninh+Binh)
+    latitude: 20.2539
+    longitude: 105.9750
+    google_search_url: "https://www.google.com/search?q=Ninh+Binh+Tam+Coc+things+to+do"
+
+  # ========== NINH BINH (Días 4-6) ==========
+  - name: "Día 5: Trang An y Bich Dong"
+    location: "Trang An, Ninh Binh, Vietnam"
+    visit_date: "2026-08-03"
+    notes: |
+      Explorar:
+      - [Trang An barca](https://www.google.com/search?q=Trang+An+boat+tour+Ninh+Binh) - 3h, UNESCO
+      - [Pagoda Bich Dong](https://www.google.com/search?q=Bich+Dong+Pagoda+Ninh+Binh) - cueva-templo
+    latitude: 20.2500
+    longitude: 105.9333
+    google_search_url: "https://www.google.com/search?q=Trang+An+boat+tour+Bich+Dong+Pagoda"
+
+  - name: "Día 6: Hacia Halong"
+    location: "Ha Long Bay, Vietnam"
+    visit_date: "2026-08-04"
+    notes: |
+      Traslado a Halong. Embarque crucero mediodía.
+      
+      Explorar:
+      - [Crucero Halong Bay](https://www.google.com/search?q=Ha+Long+Bay+cruise+2+days)
+      - [Cueva Sung Sot](https://www.google.com/search?q=Sung+Sot+Cave+Halong+Bay)
+      - [Kayak Halong](https://www.google.com/search?q=Halong+Bay+kayaking)
+    latitude: 20.9101
+    longitude: 107.1839
+    google_search_url: "https://www.google.com/search?q=Ha+Long+Bay+cruise+embark"
+
+  # ========== HALONG BAY (Días 6-8) ==========
+  - name: "Día 7: Crucero Halong"
+    location: "Ha Long Bay, Vietnam"
+    visit_date: "2026-08-05"
+    notes: |
+      Día completo en crucero.
+      
+      Explorar:
+      - [Kayak entre islotes](https://www.google.com/search?q=Halong+Bay+kayaking)
+      - [Cueva Thien Cung](https://www.google.com/search?q=Thien+Cung+Cave+Halong+Bay)
+      - [Tai Chi cubierta](https://www.google.com/search?q=Halong+Bay+cruise+tai+chi)
+    latitude: 20.9101
+    longitude: 107.1839
+    google_search_url: "https://www.google.com/search?q=Ha+Long+Bay+kayak+caves+tour"
+
+  - name: "Día 8: Tren Nocturno a Hoi An"
+    location: "Hanoi Station, Vietnam"
+    visit_date: "2026-08-06"
+    notes: |
+      Desembarque Halong, traslado Hanoi, tarde libre.
+      
+      Transporte:
+      - [Tren SE3 Reunification Express](https://www.google.com/search?q=Vietnam+Reunification+Express+SE3+train) 19:30
+      - Cabina cama blanda 4 literas
+      - Llegada Da Nang 10:00 día siguiente
+      - [Reservar en 12go.asia](https://www.google.com/search?q=12go+asia+train+Hanoi+Da+Nang)
+    latitude: 21.0245
+    longitude: 105.8412
+    google_search_url: "https://www.google.com/search?q=Hanoi+to+Da+Nang+night+train+SE3+Reunification+Express"
+
+  # ========== HOI AN (Días 8-12) ==========
+  - name: "Día 9: Llegada Hoi An"
+    location: "Hoi An, Vietnam"
+    visit_date: "2026-08-07"
+    notes: |
+      Llegada Da Nang 10:00, traslado Hoi An, descanso.
+      
+      Explorar:
+      - [Puente Japonés](https://www.google.com/search?q=Japanese+Bridge+Hoi+An) - atardecer
+      - [Casco antiguo](https://www.google.com/search?q=Hoi+An+Ancient+Town) - lanternas encendidas
+    latitude: 15.8801
+    longitude: 108.3380
+    google_search_url: "https://www.google.com/search?q=Hoi+An+Ancient+Town+things+to+do"
+
+  - name: "Día 10: Playa An Bang"
+    location: "An Bang Beach, Hoi An, Vietnam"
+    visit_date: "2026-08-08"
+    notes: |
+      Explorar:
+      - [Casco antiguo 6:30 AM](https://www.google.com/search?q=Hoi+An+Ancient+Town+early+morning) - sin turistas
+      - [Clase cocina Hoi An](https://www.google.com/search?q=Hoi+An+cooking+class) - Cao Lau, White Rose
+      - [Sastrerías Hoi An](https://www.google.com/search?q=Hoi+An+tailor+shops)
+      - [Playa An Bang](https://www.google.com/search?q=An+Bang+Beach+Hoi+An)
+    latitude: 15.9100
+    longitude: 108.3600
+    google_search_url: "https://www.google.com/search?q=An+Bang+Beach+Cham+Islands+snorkel"
+
+  - name: "Día 11: Bici y Aldeas"
+    location: "Cam Thanh, Hoi An, Vietnam"
+    visit_date: "2026-08-09"
+    notes: |
+      Explorar:
+      - [Cam Thanh aldea](https://www.google.com/search?q=Cam+Thanh+coconut+village+Hoi+An)
+      - [Basket boat tour](https://www.google.com/search?q=Hoi+An+basket+boat+tour)
+      - [Islas Cham snorkel](https://www.google.com/search?q=Cham+Islands+snorkeling+day+trip)
+      - [Masajes Hoi An](https://www.google.com/search?q=Hoi+An+massage+spa)
+    latitude: 15.8700
+    longitude: 108.3500
+    google_search_url: "https://www.google.com/search?q=Hoi+An+basket+boat+bike+tour"
+
+  - name: "Día 12: Hacia Hue"
+    location: "Hue, Vietnam"
+    visit_date: "2026-08-10"
+    notes: |
+      Traslado por Hai Van Pass. Llegada Hue.
+      
+      Explorar:
+      - [Hai Van Pass](https://www.google.com/search?q=Hai+Van+Pass+scenic+drive) - vistas espectaculares
+      - [Río del Perfume](https://www.google.com/search?q=Perfume+River+Hue+boat)
+      - [Bun Bo Hue](https://www.google.com/search?q=Bun+Bo+Hue+best+restaurant) - sopa típica
+    latitude: 16.4637
+    longitude: 107.5909
+    google_search_url: "https://www.google.com/search?q=Hai+Van+Pass+scenic+drive+Hue"
+
+  # ========== HUE (Días 12-14) ==========
+  - name: "Día 13: Ciudadela y Tumbas"
+    location: "Hue, Vietnam"
+    visit_date: "2026-08-11"
+    notes: |
+      Explorar:
+      - [Ciudadela Imperial](https://www.google.com/search?q=Imperial+City+Hue) - ir 7:00 AM
+      - [Tumba Tu Duc](https://www.google.com/search?q=Tu+Duc+Tomb+Hue)
+      - [Tumba Khai Dinh](https://www.google.com/search?q=Khai+Dinh+Tomb+Hue)
+      - [Pagoda Thien Mu](https://www.google.com/search?q=Thien+Mu+Pagoda+Hue) - atardecer
+    latitude: 16.4637
+    longitude: 107.5909
+    google_search_url: "https://www.google.com/search?q=Hue+Imperial+City+Tu+Duc+Tomb+Thien+Mu"
+
+  - name: "Día 14: Vuelo Ho Chi Minh"
+    location: "Ho Chi Minh City, Vietnam"
+    visit_date: "2026-08-12"
+    notes: |
+      Vuelo a Ho Chi Minh. Paseo Distrito 1.
+      
+      Explorar:
+      - [Catedral Notre Dame](https://www.google.com/search?q=Notre+Dame+Cathedral+Ho+Chi+Minh)
+      - [Oficina de Correos](https://www.google.com/search?q=Central+Post+Office+Ho+Chi+Minh)
+      - [Palacio Reunificación](https://www.google.com/search?q=Reunification+Palace+Ho+Chi+Minh) ~2€
+      - [Ben Thanh Market](https://www.google.com/search?q=Ben+Thanh+Market+Ho+Chi+Minh)
+      - [Bui Vien Street](https://www.google.com/search?q=Bui+Vien+Street+Ho+Chi+Minh) - cervezas
+    latitude: 10.8231
+    longitude: 106.6297
+    google_search_url: "https://www.google.com/search?q=Ho+Chi+Minh+City+District+1+things+to+do"
+
+  # ========== HO CHI MINH (Días 14-15) ==========
+  - name: "Día 15: Túneles Cu Chi"
+    location: "Cu Chi, Vietnam"
+    visit_date: "2026-08-13"
+    notes: |
+      Explorar:
+      - [Túneles Cu Chi Ben Duoc](https://www.google.com/search?q=Cu+Chi+Tunnels+Ben+Duoc+tour) - menos turístico
+      - [Museo de la Guerra](https://www.google.com/search?q=War+Remnants+Museum+Ho+Chi+Minh) ~2€
+      - [Nha Hang Ngon](https://www.google.com/search?q=Nha+Hang+Ngon+Ho+Chi+Minh) - cena excelente
+      
+      Preparar maletas para Bali.
+    latitude: 11.1333
+    longitude: 106.4500
+    google_search_url: "https://www.google.com/search?q=Cu+Chi+Tunnels+Ben+Duoc+tour"
+
+  # ========== BALI - UBUD (Días 16-20) ==========
+  - name: "Día 16: Llegada a Bali"
+    location: "Ubud, Bali, Indonesia"
+    visit_date: "2026-08-14"
+    notes: |
+      Vuelo SGN-DPS. Traslado Ubud.
+      
+      Explorar:
+      - [Transfer aeropuerto Ubud](https://www.google.com/search?q=Bali+airport+to+Ubud+transfer)
+      - [Perwiti Bisma hotel](https://www.google.com/search?q=Perwiti+Bisma+Ubud+Bali)
+    latitude: -8.5069
+    longitude: 115.2625
+    google_search_url: "https://www.google.com/search?q=Ubud+Bali+things+to+do"
+
+  - name: "Día 17: Día Libre Ubud"
+    location: "Ubud, Bali, Indonesia"
+    visit_date: "2026-08-15"
+    notes: |
+      Día de descanso y spa.
+      
+      Explorar:
+      - [Spa tradicional Ubud](https://www.google.com/search?q=Ubud+spa+massage+traditional)
+      - [Ubud Art Market](https://www.google.com/search?q=Ubud+Art+Market) - artesanías
+      - [Centro de Ubud](https://www.google.com/search?q=Ubud+center+walking)
+    latitude: -8.5069
+    longitude: 115.2625
+    google_search_url: "https://www.google.com/search?q=Ubud+Bali+spa+massage"
+
+  - name: "Día 18: Monte Batur Amanecer"
+    location: "Mount Batur, Bali, Indonesia"
+    visit_date: "2026-08-16"
+    notes: |
+      Salida 2:00 AM. Trekking nocturno.
+      
+      Explorar:
+      - [Monte Batur trek amanecer](https://www.google.com/search?q=Mount+Batur+sunrise+trek)
+      - [Desayuno en la cima](https://www.google.com/search?q=Mount+Batur+breakfast+summit)
+      - [Spa post-trek](https://www.google.com/search?q=Ubud+spa+after+Batur+trek)
+    latitude: -8.2422
+    longitude: 115.3750
+    google_search_url: "https://www.google.com/search?q=Mount+Batur+sunrise+trek+tour"
+
+  - name: "Día 19: Ubud Profundo"
+    location: "Ubud, Bali, Indonesia"
+    visit_date: "2026-08-17"
+    notes: |
+      Explorar:
+      - [Campuhan Ridge Walk](https://www.google.com/search?q=Campuhan+Ridge+Walk+Ubud) - amanecer
+      - [Sacred Monkey Forest](https://www.google.com/search?q=Sacred+Monkey+Forest+Ubud)
+      - [Clase cocina balinesa](https://www.google.com/search?q=Ubud+cooking+class)
+      - [Ubud Palace](https://www.google.com/search?q=Ubud+Royal+Palace)
+    latitude: -8.5069
+    longitude: 115.2625
+    google_search_url: "https://www.google.com/search?q=Ubud+Campuhan+Ridge+Monkey+Forest+cooking+class"
+
+  - name: "Día 20: Hacia Amed"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-18"
+    notes: |
+      Traslado costa este (~2.5h).
+      
+      Explorar:
+      - [Amed costa](https://www.google.com/search?q=Amed+Bali+coast)
+      - [Vistas volcán Agung](https://www.google.com/search?q=Mount+Agung+view+Amed)
+      - [Jemeluk Beach snorkel](https://www.google.com/search?q=Jemeluk+Beach+Amed+snorkeling)
+    latitude: -8.3486
+    longitude: 115.6392
+    google_search_url: "https://www.google.com/search?q=Amed+Bali+things+to+do+Mount+Agung"
+
+  # ========== AMED (Días 20-22) ==========
+  - name: "Día 21: Buceo Amed"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-19"
+    notes: |
+      Explorar:
+      - [USS Liberty buceo](https://www.google.com/search?q=USS+Liberty+shipwreck+diving+Amed) - barco WWII
+      - [Pura Vida diving](https://www.google.com/search?q=Pura+Vida+diving+Amed+spanish) - español
+      - [Lipah Beach](https://www.google.com/search?q=Lipah+Beach+Amed) - snorkel
+    latitude: -8.3486
+    longitude: 115.6392
+    google_search_url: "https://www.google.com/search?q=Amed+USS+Liberty+diving+Jemeluk+snorkel"
+
+  - name: "Día 22: Hacia Munduk"
+    location: "Munduk, Bali, Indonesia"
+    visit_date: "2026-08-20"
+    notes: |
+      Traslado a montañas (~3h).
+      
+      Explorar:
+      - [Munduk pueblo](https://www.google.com/search?q=Munduk+Bali+village)
+      - [Vistas montañas](https://www.google.com/search?q=Munduk+mountain+view)
+    latitude: -8.2667
+    longitude: 115.0833
+    google_search_url: "https://www.google.com/search?q=Munduk+Bali+things+to+do+waterfalls"
+
+  # ========== MUNDUK (Días 22-24) ==========
+  - name: "Día 23: Café y Senderismo Munduk"
+    location: "Munduk, Bali, Indonesia"
+    visit_date: "2026-08-21"
+    notes: |
+      Explorar:
+      - [Plantación café Munduk](https://www.google.com/search?q=Munduk+coffee+plantation+tour) - café Luwak
+      - [Cascada Munduk](https://www.google.com/search?q=Munduk+waterfall+trekking)
+      - [Cascada Melanting](https://www.google.com/search?q=Melanting+Waterfall+Munduk)
+      - [Senderismo Munduk](https://www.google.com/search?q=Munduk+trekking+trails)
+    latitude: -8.2667
+    longitude: 115.0833
+    google_search_url: "https://www.google.com/search?q=Munduk+coffee+plantation+trekking"
+
+  - name: "Día 24: Hacia Uluwatu"
+    location: "Uluwatu, Bali, Indonesia"
+    visit_date: "2026-08-22"
+    notes: |
+      Traslado sur (~3.5h).
+      
+      Explorar:
+      - [Tanah Lot atardecer](https://www.google.com/search?q=Tanah+Lot+Temple+sunset) - parada obligada
+      - [Padang Padang Beach](https://www.google.com/search?q=Padang+Padang+Beach+Uluwatu)
+      - [Bingin Beach](https://www.google.com/search?q=Bingin+Beach+Uluwatu)
+    latitude: -8.8291
+    longitude: 115.0849
+    google_search_url: "https://www.google.com/search?q=Tanah+Lot+sunset+Uluwatu"
+
+  # ========== ULUWATU (Días 24-28) ==========
+  - name: "Día 25: Playas y Templo"
+    location: "Uluwatu, Bali, Indonesia"
+    visit_date: "2026-08-23"
+    notes: |
+      Explorar:
+      - [Balangan Beach](https://www.google.com/search?q=Balangan+Beach+Uluwatu)
+      - [Dreamland Beach](https://www.google.com/search?q=Dreamland+Beach+Uluwatu)
+      - [Clases surf Uluwatu](https://www.google.com/search?q=Uluwatu+surf+lessons+beginners)
+      - [Templo Uluwatu](https://www.google.com/search?q=Uluwatu+Temple)
+      - [Danza Kecak atardecer](https://www.google.com/search?q=Uluwatu+Kecak+dance+sunset)
+    latitude: -8.8291
+    longitude: 115.0849
+    google_search_url: "https://www.google.com/search?q=Uluwatu+Temple+Kecak+dance+beaches"
+
+  - name: "Día 26: Playa y Relax"
+    location: "Subulan Beach, Uluwatu, Bali"
+    visit_date: "2026-08-24"
+    notes: |
+      Día libre.
+      
+      Explorar:
+      - [Suluban Beach](https://www.google.com/search?q=Suluban+Beach+Uluwatu) - surferos
+      - [Yoga Uluwatu](https://www.google.com/search?q=Uluwatu+yoga+classes)
+      - [Karma Beach Club](https://www.google.com/search?q=Karma+Beach+Uluwatu)
+      - [FINNS Beach Club](https://www.google.com/search?q=Finns+Beach+Club+Bali)
+      - [Restaurantes vistas mar](https://www.google.com/search?q=Uluwatu+restaurants+ocean+view)
+    latitude: -8.8000
+    longitude: 115.1000
+    google_search_url: "https://www.google.com/search?q=Uluwatu+beaches+surf+beach+clubs"
+
+  - name: "Día 27: Día Flexible"
+    location: "Uluwatu, Bali, Indonesia"
+    visit_date: "2026-08-25"
+    notes: |
+      Opción 1: Excursión Nusa Penida
+      - [Nusa Penida day trip](https://www.google.com/search?q=Nusa+Penida+day+trip+from+Bali)
+      - [Kelingking Beach](https://www.google.com/search?q=Kelingking+Beach+Nusa+Penida) - T-Rex
+      - [Angel's Billabong](https://www.google.com/search?q=Angels+Billabong+Nusa+Penida)
+      - [Broken Beach](https://www.google.com/search?q=Broken+Beach+Nusa+Penida)
+      - [Snorkel mantarrayas](https://www.google.com/search?q=Nusa+Penida+manta+ray+snorkeling)
+      
+      Opción 2: Día libre Uluwatu
+    latitude: -8.8291
+    longitude: 115.0849
+    google_search_url: "https://www.google.com/search?q=Nusa+Penida+day+trip+from+Uluwatu"
+
+  - name: "Día 28: Regreso"
+    location: "Ngurah Rai Airport, Bali"
+    visit_date: "2026-08-26"
+    notes: |
+      Fin del viaje.
+      
+      - [Aeropuerto Bali](https://www.google.com/search?q=Ngurah+Rai+Airport+Bali) (~20 min desde Uluwatu)
+      - Vuelo DPS -> MAD
+    latitude: -8.7467
+    longitude: 115.1667
+    google_search_url: "https://www.google.com/search?q=Bali+airport+DPS+departure"
+
+# ============================================
+# FLIGHTS (Vuelos) & TRAINS (Trenes)
+# ============================================
+flights:
+  - airline: "Turkish Airlines"
+    flight_number: "TK"
+    origin: "Madrid (MAD)"
+    destination: "Hanoi (HAN)"
+    departure_date: "2026-07-29T00:00:00"
+    arrival_date: "2026-07-30T00:00:00"
+    price: 1400.00
+    cabin_class: "economy"
+    notes: "Vuelo internacional. Escala en Estambul."
+
+  - airline: "Vietnam Railways"
+    flight_number: "SE3"
+    type: "train"
+    origin: "Hanoi Station"
+    destination: "Da Nang Station"
+    departure_date: "2026-08-06T19:30:00"
+    arrival_date: "2026-08-07T10:00:00"
+    price: 120.00
+    cabin_class: "soft_sleeper_4"
+    notes: "Tren nocturno ~14.5h. Cabina cama blanda 4 literas. Reservar en 12go.asia o baolau.com"
+    booking_url: "https://www.google.com/search?q=Vietnam+train+SE3+Hanoi+Da+Nang+soft+sleeper+booking"
+
+  - airline: "VietJet"
+    flight_number: "VJ"
+    origin: "Da Nang (DAD)"
+    destination: "Ho Chi Minh (SGN)"
+    departure_date: "2026-08-12T10:00:00"
+    arrival_date: "2026-08-12T11:15:00"
+    price: 60.00
+    cabin_class: "economy"
+    notes: "Vuelo interno ~1h15."
+
+  - airline: "AirAsia"
+    flight_number: "AK"
+    origin: "Ho Chi Minh (SGN)"
+    destination: "Bali (DPS)"
+    departure_date: "2026-08-14T08:00:00"
+    arrival_date: "2026-08-14T13:00:00"
+    price: 150.00
+    cabin_class: "economy"
+    notes: "Vuelo internacional ~3h. Diferencia horaria."
+
+  - airline: "Turkish Airlines"
+    flight_number: "TK"
+    origin: "Bali (DPS)"
+    destination: "Madrid (MAD)"
+    departure_date: "2026-08-26T22:00:00"
+    arrival_date: "2026-08-27T10:00:00"
+    price: 1200.00
+    cabin_class: "economy"
+    notes: "Vuelo internacional. Escalas IST."
+
+# ============================================
+# ACCOMMODATIONS (Alojamientos)
+# ============================================
+accommodations:
+  - stop: "Día 1: Llegada a Hanoi"
+    name: "Hotel Old Quarter"
+    type: "hotel"
+    address: "Old Quarter, Hanoi"
+    price_per_night: 50.00
+    nights: 4
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Old+Quarter+Hanoi+Vietnam"
+    notes: "Zona céntrica con acceso a pie."
+
+  - stop: "Día 4: Traslado Ninh Binh"
+    name: "Tam Coc Garden Resort"
+    type: "hotel"
+    address: "Tam Coc, Ninh Binh"
+    price_per_night: 55.00
+    nights: 2
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Tam+Coc+Garden+Resort+Ninh+Binh"
+    notes: "Rodeado de arrozales."
+
+  - stop: "Día 6: Hacia Halong"
+    name: "Crucero Halong Bay"
+    type: "other"
+    address: "Ha Long Bay"
+    price_per_night: 180.00
+    nights: 1
+    booking_platform: "Direct"
+    booking_url: "https://www.google.com/search?q=Ha+Long+Bay+cruise+2+days+1+night+booking"
+    notes: "Crucero 2D/1N incluido."
+
+  - stop: "Día 9: Llegada Hoi An"
+    name: "Hotel An Bang Beach"
+    type: "hotel"
+    address: "An Bang Beach, Hoi An"
+    price_per_night: 55.00
+    nights: 4
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=An+Bang+Beach+Hoi+An+Vietnam"
+    notes: "Fuera del centro, junto a la playa."
+
+  - stop: "Día 12: Hacia Hue"
+    name: "Hotel Río Perfume"
+    type: "hotel"
+    address: "Hue"
+    price_per_night: 60.00
+    nights: 2
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Hue+Perfume+River+Hotel+Vietnam"
+    notes: "Cerca del río y ciudadela."
+
+  - stop: "Día 14: Vuelo Ho Chi Minh"
+    name: "Hotel District 1"
+    type: "hotel"
+    address: "District 1, Ho Chi Minh"
+    price_per_night: 50.00
+    nights: 1
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=District+1+Ho+Chi+Minh+City+Vietnam"
+    notes: "Zona céntrica."
+
+  - stop: "Día 16: Llegada a Bali"
+    name: "Perwiti Bisma Ubud"
+    type: "hotel"
+    address: "Ubud, Bali"
+    price_per_night: 60.00
+    nights: 4
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Perwiti+Bisma+Ubud+Bali"
+    notes: "Vistas arrozales, piscina."
+    rating: 5
+
+  - stop: "Día 20: Hacia Amed"
+    name: "Hotel Amed Beach"
+    type: "hotel"
+    address: "Amed, Bali"
+    price_per_night: 40.00
+    nights: 2
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Amed+Beach+Bali+Indonesia"
+    notes: "Frente al mar, vistas Agung."
+
+  - stop: "Día 22: Hacia Munduk"
+    name: "Hotel Munduk"
+    type: "hotel"
+    address: "Munduk, Bali"
+    price_per_night: 45.00
+    nights: 2
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Munduk+Bali+Indonesia+hotel"
+    notes: "Montaña, aire fresco."
+
+  - stop: "Día 24: Hacia Uluwatu"
+    name: "Hotel Uluwatu"
+    type: "hotel"
+    address: "Uluwatu, Bali"
+    price_per_night: 55.00
+    nights: 4
+    booking_platform: "Booking.com"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Uluwatu+Bali+Indonesia+hotel"
+    notes: "Cerca playas, ambiente surfero."
+
+# ============================================
+# POSTS (Experiencias por día)
+# ============================================
+posts:
+  # === VIETNAM ===
+  - stop: "Día 1: Llegada a Hanoi"
+    title: "Tip: E-Visa Vietnam"
+    content: |
+      Españoles: 15 días sin visa.
+      Si necesitas más: E-visa $25 en evisa.xuatnhapcanh.gov.vn
+    type: "tip"
+
+  - stop: "Día 1: Llegada a Hanoi"
+    title: "Tip: Grab"
+    content: "El Uber de Vietnam. Usarlo para todo en ciudades."
+    type: "tip"
+
+  - stop: "Día 2: Hanoi Cultural"
+    title: "Templo de la Literatura"
+    content: |
+      Primera universidad de Vietnam (1070).
+      Ir temprano (7:30) para evitar grupos.
+      
+      🔍 [Google](https://www.google.com/search?q=Temple+of+Literature+Hanoi)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+
+  - stop: "Día 3: Cocina y Mercados"
+    title: "Clase de Cocina"
+    content: |
+      Pho, spring rolls, banh mi.
+      Incluye visita al mercado.
+      
+      🔍 [Google](https://www.google.com/search?q=Hanoi+cooking+class)
+    type: "activity"
+    rating: 5
+    price: 35.00
+    duration: "4 hours"
+
+  - stop: "Día 5: Trang An y Bich Dong"
+    title: "Trang An"
+    content: |
+      Paseo en barca entre formaciones kársticas.
+      Mejor que Tam Coc (menos turístico).
+      
+      🔍 [Google](https://www.google.com/search?q=Trang+An+boat+tour+Ninh+Binh)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+    price: 15.00
+
+  - stop: "Día 7: Crucero Halong"
+    title: "Crucero Bahía de Halong"
+    content: |
+      Navegar entre miles de islotes kársticos.
+      Kayak, cuevas, noche en el barco.
+      
+      🔍 [Google](https://www.google.com/search?q=Ha+Long+Bay+cruise+2+days)
+    type: "activity"
+    rating: 5
+    duration: "2 days"
+    price: 180.00
+
+  - stop: "Día 8: Tren Nocturno a Hoi An"
+    title: "Tren Nocturno SE3 Hanoi-Da Nang"
+    content: |
+      El mítico Reunification Express.
+      Cabina cama blanda (soft sleeper) 4 literas.
+      Salida 19:30, llegada 10:00 (~14.5h).
+      
+      Tips:
+      - Reservar con antelación en 12go.asia o baolau.com
+      - Llevar snacks, agua y tapones oídos
+      - Hay restaurante en el tren
+      - Sábanas incluidas, aire acondicionado
+      
+      🔍 [Reservar](https://www.google.com/search?q=Vietnam+train+SE3+Hanoi+Da+Nang+soft+sleeper+booking)
+    type: "transport"
+    rating: 5
+    price: 60.00
+    duration: "14.5 hours"
+
+  - stop: "Día 9: Llegada Hoi An"
+    title: "Hoi An Ancient Town (Tarde)"
+    content: |
+      Visitar por la tarde tras descansar del tren.
+      Menos calor, luz bonita para fotos.
+      
+      🔍 [Google](https://www.google.com/search?q=Hoi+An+Ancient+Town+afternoon)
+    type: "place"
+    rating: 5
+    duration: "3 hours"
+
+  - stop: "Día 10: Playa An Bang"
+    title: "Clase de Cocina Hoi An"
+    content: |
+      Cao Lau, White Rose, Banh Mi.
+      Capital culinaria de Vietnam.
+      
+      🔍 [Google](https://www.google.com/search?q=Hoi+An+cooking+class)
+    type: "activity"
+    rating: 5
+    price: 40.00
+    duration: "4 hours"
+
+  - stop: "Día 12: Hacia Hue"
+    title: "Hai Van Pass"
+    content: |
+      El paso de montaña más espectacular de Vietnam.
+      Vistas al mar y montañas.
+      
+      🔍 [Google](https://www.google.com/search?q=Hai+Van+Pass+tour)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+
+  - stop: "Día 13: Ciudadela y Tumbas"
+    title: "Ciudadela Imperial Hue"
+    content: |
+      Ir a las 7:00 AM para evitar grupos.
+      Ciudad Púrpura Prohibida.
+      
+      🔍 [Google](https://www.google.com/search?q=Imperial+City+Hue)
+    type: "place"
+    rating: 5
+    duration: "3 hours"
+    price: 10.00
+
+  - stop: "Día 13: Ciudadela y Tumbas"
+    title: "Pagoda Thien Mu"
+    content: |
+      La más famosa de Hue, junto al río Perfume.
+      Mejor al atardecer.
+      
+      🔍 [Google](https://www.google.com/search?q=Thien+Mu+Pagoda+Hue)
+    type: "place"
+    rating: 5
+    duration: "1.5 hours"
+
+  - stop: "Día 15: Túneles Cu Chi"
+    title: "Túneles de Cu Chi"
+    content: |
+      Red de túneles de la guerra.
+      Ir a Ben Duoc (menos turístico que Ben Dinh).
+      
+      🔍 [Google](https://www.google.com/search?q=Cu+Chi+Tunnels+Ben+Duoc)
+    type: "place"
+    rating: 5
+    duration: "4 hours"
+    price: 20.00
+
+  # === BALI ===
+  - stop: "Día 16: Llegada a Bali"
+    title: "Tip: Visa Bali"
+    content: |
+      VOA (Visa on Arrival): 30 días, ~35 USD.
+      Se tramita en el aeropuerto.
+    type: "tip"
+
+  - stop: "Día 16: Llegada a Bali"
+    title: "Tip: GoJek/Grab"
+    content: "Apps para transporte en Bali. Mucho más baratas que taxis."
+    type: "tip"
+
+  - stop: "Día 17: Día Libre Ubud"
+    title: "Spa Day Ubud"
+    content: |
+      Día de relax y spa balinés.
+      Masajes tradicionales, tratamientos con flores.
+      
+      🔍 [Google](https://www.google.com/search?q=Ubud+spa+massage+best)
+    type: "activity"
+    rating: 5
+    duration: "Half day"
+    price: 40.00
+
+  - stop: "Día 18: Monte Batur Amanecer"
+    title: "Trekking Monte Batur"
+    content: |
+      Salida 2:00 AM. Trekking nocturno.
+      Amanecer desde la cima del volcán.
+      Desayuno con vistas al lago.
+      
+      🔍 [Google](https://www.google.com/search?q=Mount+Batur+sunrise+trek)
+    type: "activity"
+    rating: 5
+    duration: "6 hours"
+    price: 50.00
+
+  - stop: "Día 19: Ubud Profundo"
+    title: "Campuhan Ridge Walk"
+    content: |
+      Paseo entre arrozales y naturaleza.
+      Mejor al amanecer.
+      
+      🔍 [Google](https://www.google.com/search?q=Campuhan+Ridge+Walk+Ubud)
+    type: "activity"
+    rating: 5
+    duration: "1.5 hours"
+
+  - stop: "Día 19: Ubud Profundo"
+    title: "Sacred Monkey Forest"
+    content: |
+      Bosque lleno de monos.
+      Cuidar pertenencias (te las quitan).
+      
+      🔍 [Google](https://www.google.com/search?q=Sacred+Monkey+Forest+Ubud)
+    type: "place"
+    rating: 4
+    duration: "2 hours"
+    price: 5.00
+
+  - stop: "Día 19: Ubud Profundo"
+    title: "Clase de Cocina Balinesa"
+    content: |
+      Mercado local + cocina tradicional.
+      Nasi Goreng, satay, sambals.
+      
+      🔍 [Google](https://www.google.com/search?q=Ubud+cooking+class)
+    type: "activity"
+    rating: 5
+    price: 35.00
+    duration: "4 hours"
+
+  - stop: "Día 21: Buceo Amed"
+    title: "Buceo USS Liberty"
+    content: |
+      Barco hundido WWII. Tortugas, barracudas.
+      Escuela Pura Vida para buceo en español.
+      
+      🔍 [Google](https://www.google.com/search?q=USS+Liberty+shipwreck+diving+Amed)
+    type: "activity"
+    rating: 5
+    duration: "4 hours"
+    price: 80.00
+
+  - stop: "Día 23: Café y Senderismo Munduk"
+    title: "Plantaciones de Café Munduk"
+    content: |
+      Visita a plantaciones de café y cacao.
+      Cata de café Luwak tradicional.
+      
+      - [Plantación café Munduk](https://www.google.com/search?q=Munduk+coffee+plantation+tour)
+      - [Café Luwak](https://www.google.com/search?q=Luwak+coffee+Munduk+Bali)
+    type: "activity"
+    rating: 5
+    duration: "3 hours"
+    price: 25.00
+
+  - stop: "Día 23: Café y Senderismo Munduk"
+    title: "Cascadas de Munduk"
+    content: |
+      Senderismo entre cascadas escondidas.
+      
+      - [Cascada Munduk](https://www.google.com/search?q=Munduk+Waterfall+Bali)
+      - [Cascada Melanting](https://www.google.com/search?q=Melanting+Waterfall+Munduk)
+    type: "place"
+    rating: 5
+    duration: "3 hours"
+
+  - stop: "Día 24: Hacia Uluwatu"
+    title: "Tanah Lot"
+    content: |
+      Templo icónico en el mar.
+      **Ir al atardecer** (evitar mediodía).
+      
+      🔍 [Google](https://www.google.com/search?q=Tanah+Lot+Temple+sunset)
+    type: "place"
+    rating: 5
+    duration: "2 hours"
+    price: 5.00
+
+  - stop: "Día 25: Playas y Templo"
+    title: "Templo Uluwatu"
+    content: |
+      Sobre acantilado con vistas al mar.
+      Danza Kecak al atardecer (espectáculo).
+      
+      🔍 [Google](https://www.google.com/search?q=Uluwatu+Temple+Kecak+dance)
+    type: "place"
+    rating: 5
+    duration: "3 hours"
+    price: 15.00
+
+  - stop: "Día 25: Playas y Templo"
+    title: "Playas Uluwatu"
+    content: |
+      Mejores playas surf: Padang Padang, Bingin, Balangan.
+      Para principiantes hay clases.
+      
+      🔍 [Google](https://www.google.com/search?q=Uluwatu+beaches+surf)
+    type: "place"
+    rating: 5
+    duration: "Half day"
+
+  - stop: "Día 27: Día Flexible"
+    title: "Opción: Nusa Penida"
+    content: |
+      Ferry 45 min. Acantilados espectaculares.
+      Kelingking Beach, Angel's Billabong.
+      Snorkel con mantarrayas.
+      
+      🔍 [Google](https://www.google.com/search?q=Nusa+Penida+day+trip+Kelingking)
+    type: "activity"
+    rating: 5
+    duration: "Full day"
+    price: 60.00
+
+  # === TIPS GENERALES ===
+  - stop: "Día 1: Llegada a Hanoi"
+    title: "Tip: Ética Animales"
+    content: |
+      - NO montar elefantes ni búfalos
+      - NO alimentar monos salvajes
+      - Protector solar biodegradable para buceo
+    type: "tip"
+
+  - stop: "Día 16: Llegada a Bali"
+    title: "Tip: Moto en Bali"
+    content: |
+      Alquiler: 40.000-80.000 IDR/día (~4-7 EUR).
+      Carnet internacional recomendado.
+      Policía puede multar sin él.
+    type: "tip"
