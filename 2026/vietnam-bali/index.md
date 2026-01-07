@@ -1,8 +1,12 @@
 # Vietnam + Bali 2026: "De los Arrozales al Paraiso" (Slow & Deep)
 
-Un viaje de 28 dias que combina lo mejor de dos mundos: la autenticidad cultural de Vietnam con sus paisajes karsticos y gastronomia legendaria, y el paraiso tropical de Bali con sus templos hinduistas, arrozales y playas de ensueno.
+Un viaje de 28 dias que combina lo mejor de dos mundos: la autenticidad
+cultural de Vietnam con sus paisajes karsticos y gastronomia legendaria, y el
+paraiso tropical de Bali con sus templos hinduistas, arrozales y playas de
+ensueno.
 
-**Filosofia:** "Menos destinos, mas profundidad. Madrugamos para evitar masas, priorizamos alternativas menos conocidas."
+**Filosofia:** "Menos destinos, mas profundidad. Madrugamos para evitar masas,
+priorizamos alternativas menos conocidas."
 
 ---
 
