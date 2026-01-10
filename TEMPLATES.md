@@ -65,13 +65,9 @@
 | **Masificación** | Alta | Baja |
 ```
 
-### 3. Snippets Éticos
+### 4. Wander App YAML (`wanderapp.yaml`)
+Consulte el archivo [WANDERAPP_SCHEMA.md](WANDERAPP_SCHEMA.md) para conocer la estructura técnica y las reglas de generación del archivo de sincronización de la aplicación.
 
-**Animales:**
-```markdown
-🐃 **Nota Ética:** Observación pasiva solamente. **NO montar** elefantes/búfalos.
-Mantener distancia de 3m.
-```
 
 **Mercados:**
 ```markdown
