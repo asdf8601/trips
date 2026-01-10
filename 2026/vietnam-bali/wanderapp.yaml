@@ -524,13 +524,14 @@ accommodations:
     notes: "Confirmado. Precio total 2 noches: VND 1.209.600."
 
   - stop: "Día 4 (Ninh Binh): Traslado"
-    name: "Tam Coc Garden Resort"
+    name: "Cao Thạch Homestay"
     type: "hotel"
-    address: "Tam Coc, Ninh Binh"
-    price_per_night: 55.00
+    address: "Hai Nham Village, Ninh Hai Commune, Ninh Binh"
+    price_per_night: 20.00
     nights: 2
     booking_platform: "Booking.com"
-    booking_url: "https://www.booking.com/searchresults.html?ss=Tam+Coc+Garden+Resort+Ninh+Binh"
+    booking_url: "https://www.booking.com/searchresults.html?ss=Cao+Thach+Homestay+Ninh+Binh"
+    notes: "Confirmado. Homestay con ambiente local."
 
   - stop: "Día 6 (Halong): Crucero Día 1"
     name: "Crucero Halong Bay"
