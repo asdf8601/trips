@@ -1,8 +1,7 @@
 # Lista de Tareas Pendientes - Vietnam + Bali 2026
 
 ## 🔴 Prioridad Alta (Próximo Mes)
-- [ ] **Reservar Crucero Bahía de Halong** (2 noches: 2 Ago - 4 Ago).
-  - *Nota:* Esperar al mes que viene según instrucciones.
+- [ ] **Contactar con Swan Cruises:** Coordinar Shuttle Bus desde Hanói (requiere aviso previo).
 - [ ] **Definir fechas exactas vuelo Bali:** Confirmar si se mantiene el vuelo del 11 de Agosto o se extiende la estancia en Vietnam.
 
 ## 🏨 Alojamientos (Por Reservar)
@@ -18,6 +17,7 @@
 *Reservados:*
 - [x] Hanoi: Amanda Boutique Hotel (29-31 Jul).
 - [x] Ninh Binh: Cao Thạch Homestay (31 Jul-2 Ago).
+- [x] Halong Bay: Swan Cruises (2 Ago-4 Ago).
 
 ## ✈️🚂 Transporte Interno
 - [ ] **Tren Nocturno (Hanoi -> Da Nang):** SE3 para la noche del 4 de Agosto.
@@ -27,7 +27,7 @@
 - [ ] **Traslados Privados:**
   - [ ] Hanoi -> Ninh Binh.
   - [ ] Ninh Binh -> Halong Bay.
-  - [ ] Halong Bay -> Hanoi.
+  - [ ] Halong Bay -> Hanoi (Shuttle Bus Swan Cruises).
   - [ ] Da Nang -> Hoi An.
   - [ ] Hoi An -> Hue (vía Hai Van Pass con conductor/jeep).
 

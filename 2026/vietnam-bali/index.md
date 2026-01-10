@@ -14,16 +14,17 @@ priorizamos alternativas menos conocidas."
 
 | Destinos | Fechas | Vuelos |
 | :--- | :--- | :--- |
-| **Hanoi** | 28 Jul - 31 Jul | **IDA:** 28 Jul MAD -> HAN |
+| **En Transito** | 28 Jul | **SALIDA:** 28 Jul MAD -> HAN |
+| **Hanoi** | 29 Jul - 31 Jul | **LLEGADA:** 29 Jul 07:15 |
 | **Ninh Binh** | 31 Jul - 2 Ago | - |
 | **Bahia de Halong** | 2 Ago - 4 Ago | - |
-| **Hoi An** | 5 Ago - 8 Ago | **INTERNO:** 4 Ago Tren SE3 Hanoi-Da Nang |
-| **Hue** | 8 Ago - 10 Ago | - |
-| **Ho Chi Minh** | 10 Ago - 11 Ago | **INTERNO:** 10 Ago DAD -> SGN |
-| **Ubud (Bali)** | 11 Ago - 15 Ago | **INTERNO:** 11 Ago SGN -> DPS (Kuta) |
-| **Amed** | 15 Ago - 17 Ago | - |
-| **Munduk** | 17 Ago - 19 Ago | - |
-| **Uluwatu** | 19 Ago - 28 Ago | - |
+| **Hoi An** | 5 Ago - 7 Ago | **INTERNO:** 4 Ago Tren SE3 |
+| **Hue** | 7 Ago - 9 Ago | - |
+| **Ho Chi Minh** | 9 Ago - 11 Ago | **INTERNO:** 9 Ago HUE -> SGN |
+| **Ubud (Bali)** | 11 Ago - 16 Ago | **INTERNO:** 11 Ago SGN -> DPS |
+| **Amed** | 16 Ago - 18 Ago | - |
+| **Munduk** | 17 Ago - 20 Ago | - |
+| **Uluwatu** | 20 Ago - 28 Ago | - |
 | **Salida** | 28 Ago | **VUELTA:** 28 Ago DPS -> MAD |
 
 ---
@@ -34,7 +35,7 @@ priorizamos alternativas menos conocidas."
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IDA** | 28 Jul 09:05 | MAD -> HAN | QR148/QR982 | Qatar Airways | 17J,17J / 17K,17K | XG63OJ |
 | **INTERNO** | 4 Ago 19:30 | Hanoi -> Da Nang | SE3 | VN Railways | - | - |
-| **INTERNO** | 10 Ago 10:00 | DAD -> SGN | VJ... | VietJet | - | - |
+| **INTERNO** | 9 Ago 10:00 | HUE -> SGN | VJ... | VietJet | - | - |
 | **INTERNO** | 11 Ago 10:10 | SGN -> DPS | VN641 | VN Airlines | 30B / 30A | XGDT9W |
 | **VUELTA** | 28 Ago 00:35 | DPS -> MAD | EK399/EK141 | Emirates | 16J,53J / 16K,53K | C5Z6VN |
 
@@ -80,128 +81,94 @@ priorizamos alternativas menos conocidas."
 ### **Base 1: [Hanoi](https://mundo-nomada.com/vietnam/que-visitar-en-hanoi-mis-favoritos-de-la-capital-de-vietnam/) - Capital Milenaria (Dias 1-4)**
 *Alojamiento: Casco antiguo (Old Quarter) para acceso a pie a todo.*
 
-* **Dia 1 (28 Jul): Llegada**
-  * Llegada a Noi Bai, traslado al hotel
+* **Dia 1 (28 Jul): Vuelo Internacional**
+  * Salida de Madrid Barajas (09:05).
+  * Dia en transito (Escala en Doha).
+
+* **Dia 2 (29 Jul): Llegada y Exploracion Inicial**
+  * Llegada a Noi Bai (07:15), traslado al hotel Amanda Boutique.
   * Tarde: Paseo de adaptacion por el [lago Hoan Kiem](https://www.google.com/search?q=Hoan+Kiem+Lake+Hanoi)
   * Cena: [Pho callejero Old Quarter](https://www.google.com/search?q=best+pho+Old+Quarter+Hanoi)
 
-* **Dia 2 (29 Jul): Exploracion Cultural**
-  * Manana: [Templo de la Literatura](https://www.google.com/search?q=Temple+of+Literature+Hanoi) (abrir 7:30, ir temprano)
-  * [Pagoda de Un Solo Pilar](https://www.google.com/search?q=One+Pillar+Pagoda+Hanoi) + [Mausoleo Ho Chi Minh](https://www.google.com/search?q=Ho+Chi+Minh+Mausoleum) (exterior)
-  * Tarde: [Casco antiguo](https://www.google.com/search?q=Hanoi+Old+Quarter+walking), calles por gremios
-  * Noche: [Bia Hoi Corner](https://www.google.com/search?q=Bia+Hoi+Corner+Hanoi) (cerveza local ~0.20 EUR)
-
 * **Dia 3 (30 Jul): Cocina y Mercados**
-  * 👩‍🍳 **Clase de Cocina:** [Cooking class Hanoi](https://www.google.com/search?q=Hanoi+cooking+class) - mercado + cocina vietnamita (pho, spring rolls, banh mi)
+  * 👩‍🍳 **Clase de Cocina:** [Cooking class Hanoi](https://www.google.com/search?q=Hanoi+cooking+class)
   * Tarde libre: Compras, [masajes Hanoi](https://www.google.com/search?q=Hanoi+massage+spa)
-  * 🏮 **Mercado Nocturno:** [Dong Xuan Market](https://www.google.com/search?q=Dong+Xuan+Market+Hanoi) area (viernes-domingo)
+  * 🏮 **Mercado Nocturno:** [Dong Xuan Market](https://www.google.com/search?q=Dong+Xuan+Market+Hanoi) area
 
 * **Dia 4 (31 Jul): Traslado a Ninh Binh**
-  * Manana: Traslado a Ninh Binh (~2h en coche privado o Grab)
-  * Llegada y check-in en Tam Coc area
+  * Manana: Traslado a Ninh Binh (~2h)
+  * Llegada y check-in en Cao Thach Homestay (Tam Coc area)
+  * Tarde: Paseo en bici por los arrozales
 
 ---
 
 ### **Base 2: [Ninh Binh](https://mundo-nomada.com/vietnam/ninh-binh/) - Halong Terrestre (Dias 4-6)**
-*Alojamiento: Tam Coc, zona tranquila con vistas a los karsts.*
-
-* **Dia 4 (31 Jul): Llegada y Primera Exploracion**
-  * Tarde: Paseo en bici por los arrozales
-  * Atardecer desde [Hang Mua Peak](https://www.google.com/search?q=Hang+Mua+Peak+Ninh+Binh) (subir 500 escalones, vistas espectaculares)
 
 * **Dia 5 (1 Ago): Trang An y Bich Dong**
-  * Manana temprano: [Trang An](https://www.google.com/search?q=Trang+An+boat+tour+Ninh+Binh) en barca (2-3h, cuevas y paisajes karsticos)
-  * Tarde: Pagodas de [Bich Dong](https://www.google.com/search?q=Bich+Dong+Pagoda+Ninh+Binh) (cueva-templo)
-  * 🐃 **Nota Etica:** En Tam Coc evitar paseos en barca donde reman con los pies. Preferir Trang An.
+  * Manana temprano: [Trang An](https://www.google.com/search?q=Trang+An+boat+tour+Ninh+Binh) en barca
+  * Tarde: Pagodas de [Bich Dong](https://www.google.com/search?q=Bich+Dong+Pagoda+Ninh+Binh)
+  * Atardecer: [Hang Mua Peak](https://www.google.com/search?q=Hang+Mua+Peak+Ninh+Binh)
 
 * **Dia 6 (2 Ago): Hacia Halong**
   * Traslado temprano a [Halong Bay](https://www.google.com/search?q=Ha+Long+Bay+cruise) (~3h)
-  * Embarque crucero mediodia
+  * Embarque crucero **Swan Cruises** mediodia
 
 ---
 
 ### **Base 3: [Bahia de Halong](https://mundo-nomada.com/vietnam/guia-bahia-de-halong/) - Magia Karstica (Dias 6-8)**
-*Crucero de 2 dias/1 noche en barco tradicional.*
 
 * **Dia 6 (2 Ago): Crucero Dia 1**
-  * Embarque, almuerzo a bordo
-  * Navegacion entre islotes, [cuevas Sung Sot](https://www.google.com/search?q=Sung+Sot+Cave+Halong+Bay)
-  * [Kayak al atardecer](https://www.google.com/search?q=Halong+Bay+kayaking)
-  * Cena y noche en el barco
+  * Embarque, almuerzo a bordo. Navegacion Bai Tu Long Bay.
+  * Kayak y relax. Cena en cubierta.
 
 * **Dia 7 (3 Ago): Crucero Dia 2**
-  * Amanecer en la bahia (salir a cubierta 5:30)
-  * [Tai Chi en cubierta](https://www.google.com/search?q=Halong+Bay+cruise+tai+chi) opcional
-  * Desayuno, visita [cueva Thien Cung](https://www.google.com/search?q=Thien+Cung+Cave+Halong+Bay)
-  * Desembarque mediodia, traslado a Hanoi
+  * Amanecer en la bahia. Dia completo de navegacion por zonas tranquilas.
+  * Visita a aldeas flotantes o cuevas menos turisticas.
 
 * **Dia 8 (4 Ago): Tren Nocturno a Hoi An**
-  * Dia libre en Hanoi, ultimas compras
-  * Noche: [Tren SE3 Reunification Express](https://www.google.com/search?q=Vietnam+Reunification+Express+SE3+train) (19:30)
-  * Cabina cama blanda 4 literas, llegada Da Nang 10:00 dia siguiente
+  * Desembarque mediodia, traslado a Hanoi.
+  * Tarde libre en Hanoi.
+  * Noche: [Tren SE3](https://www.google.com/search?q=Vietnam+train+SE3+Hanoi+Da+Nang) (19:30).
 
 ---
 
-### **Base 4: [Hoi An](https://mundo-nomada.com/vietnam/hoi-an-y-su-precioso-casco-antiguo-una-de-las-joyas-de-vietnam/) - La Joya del Centro (Dias 9-12)**
-*Alojamiento: Fuera del casco antiguo ([Cam Thanh](https://www.google.com/search?q=Cam+Thanh+Hoi+An+homestay)) para mas tranquilidad, bici al centro.*
+### **Base 4: [Hoi An](https://mundo-nomada.com/vietnam/hoi-an-y-su-precioso-casco-antiguo-una-de-las-joyas-de-vietnam/) - La Joya del Centro (Dias 9-11)**
 
-* **Dia 9 (5 Ago): Llegada desde Da Nang**
-  * Llegada tren 10:00, traslado [Da Nang a Hoi An](https://www.google.com/search?q=Da+Nang+to+Hoi+An+transfer) (~40 min)
-  * Instalacion, descanso
-  * Atardecer: [Puente Japones](https://www.google.com/search?q=Japanese+Bridge+Hoi+An) y lanternas encendidas
+* **Dia 9 (5 Ago): Llegada**
+  * Llegada Da Nang 10:00, traslado Hoi An.
+  * Atardecer: [Puente Japones](https://www.google.com/search?q=Japanese+Bridge+Hoi+An).
 
 * **Dia 10 (6 Ago): Casco Historico**
-  * Manana temprano (6:30-8:00): [Casco antiguo sin turistas](https://www.google.com/search?q=Hoi+An+Ancient+Town+early+morning)
-  * Comprar ticket (5 lugares): [casas antiguas](https://www.google.com/search?q=Hoi+An+old+houses+museum), templos, museo
-  * 👩‍🍳 **Clase de Cocina:** [Cooking class Hoi An](https://www.google.com/search?q=Hoi+An+cooking+class) - Cao Lau, Banh Mi, White Rose
-  * Tarde: [Sastrerias Hoi An](https://www.google.com/search?q=Hoi+An+tailor+shops) (medidas para ropa)
+  * Manana temprano (6:30): Casco antiguo sin turistas.
+  * 👩‍🍳 **Clase de Cocina:** [Hoi An cooking class](https://www.google.com/search?q=Hoi+An+cooking+class).
 
-* **Dia 11 (7 Ago): Playa y Relax**
-  * Manana: [Playa An Bang](https://www.google.com/search?q=An+Bang+Beach+Hoi+An) (4 km, ir en bici)
-  * Snorkel opcional en [Cham Islands](https://www.google.com/search?q=Cham+Islands+snorkeling+day+trip)
-  * Tarde: Recoger ropa sastreria, [masajes Hoi An](https://www.google.com/search?q=Hoi+An+massage+spa)
-
-* **Dia 12 (8 Ago): Bici y Aldeas + Hacia Hue**
-  * Manana: Ruta en bici por [Cam Thanh](https://www.google.com/search?q=Cam+Thanh+coconut+village+Hoi+An) (aldea de palma)
-  * [Paseo en barco cesto](https://www.google.com/search?q=Hoi+An+basket+boat+tour) - evitar el show turistico
-  * Tarde: Traslado por [Hai Van Pass](https://www.google.com/search?q=Hai+Van+Pass+scenic+drive) (~4h) - paisajes espectaculares
-  * Llegada Hue, paseo por [Rio del Perfume](https://www.google.com/search?q=Perfume+River+Hue)
+* **Dia 11 (7 Ago): Hacia Hue**
+  * Traslado por [Hai Van Pass](https://www.google.com/search?q=Hai+Van+Pass+scenic+drive).
+  * Llegada Hue, paseo por [Rio del Perfume](https://www.google.com/search?q=Perfume+River+Hue).
 
 ---
 
-### **Base 5: [Hue](https://mundo-nomada.com/vietnam/que-ver-en-hue/) - Capital Imperial (Dias 12-14)**
-*Alojamiento: Cerca del rio para acceso a ciudadela.*
+### **Base 5: [Hue](https://mundo-nomada.com/vietnam/que-ver-en-hue/) - Capital Imperial (Dias 11-13)**
 
-* **Dia 12 (8 Ago): Llegada**
-  * Tarde: Paseo por el [Rio del Perfume](https://www.google.com/search?q=Perfume+River+Hue+boat)
-  * Cena: [Bun Bo Hue](https://www.google.com/search?q=Bun+Bo+Hue+best+restaurant) (sopa tipica local)
+* **Dia 12 (8 Ago): Ciudadela y Tumbas**
+  * [Ciudadela Imperial](https://www.google.com/search?q=Imperial+City+Hue).
+  * Tarde: [Tumba de Tu Duc](https://www.google.com/search?q=Tu+Duc+Tomb+Hue).
 
-* **Dia 13 (9 Ago): Ciudadela y Tumbas**
-  * Manana: [Ciudadela Imperial](https://www.google.com/search?q=Imperial+City+Hue) y Ciudad Purpura Prohibida (ir a las 7:00)
-  * Almuerzo: [Bun Bo Hue](https://www.google.com/search?q=Bun+Bo+Hue+local+restaurant)
-  * Tarde: [Tumba de Tu Duc](https://www.google.com/search?q=Tu+Duc+Tomb+Hue) o [Khai Dinh](https://www.google.com/search?q=Khai+Dinh+Tomb+Hue) (elegir una, menos masificadas que Minh Mang)
-  * Atardecer: [Pagoda Thien Mu](https://www.google.com/search?q=Thien+Mu+Pagoda+Hue) junto al rio
-
-* **Dia 14 (10 Ago): Vuelo a Ho Chi Minh**
-  * Manana: Vuelo DAD/HUE -> SGN (~1h15)
-  * Llegada Ho Chi Minh, instalacion en [Distrito 1](https://www.google.com/search?q=District+1+Ho+Chi+Minh+City)
-  * Tarde: Paseo inicial por la ciudad
+* **Dia 13 (9 Ago): Vuelo a Ho Chi Minh**
+  * Manana: Vuelo Hue -> SGN.
+  * Tarde: [Catedral Notre Dame](https://www.google.com/search?q=Notre+Dame+Cathedral+Ho+Chi+Minh).
 
 ---
 
-### **Base 6: [Ho Chi Minh](https://mundo-nomada.com/vietnam/ideas-de-cosas-que-hacer-y-ver-en-ho-chi-minh/) - La Gran Urbe del Sur (Dias 14-15)**
-*Alojamiento: [Distrito 1](https://www.google.com/search?q=District+1+Ho+Chi+Minh+hotels) para acceso a atracciones principales.*
+### **Base 6: [Ho Chi Minh](https://mundo-nomada.com/vietnam/ideas-de-cosas-que-hacer-y-ver-en-ho-chi-minh/) - La Gran Urbe del Sur (Dias 13-15)**
 
-* **Dia 14 (10 Ago): Llegada y Ciudad**
-  * [Catedral de Notre Dame](https://www.google.com/search?q=Notre+Dame+Cathedral+Ho+Chi+Minh), [Oficina de Correos](https://www.google.com/search?q=Central+Post+Office+Ho+Chi+Minh)
-  * [Palacio de la Reunificacion](https://www.google.com/search?q=Reunification+Palace+Ho+Chi+Minh) (~2 EUR)
-  * 🏮 **Mercado:** [Ben Thanh Market](https://www.google.com/search?q=Ben+Thanh+Market+Ho+Chi+Minh) (dia) o mercado nocturno alrededor
-  * Noche: [Bui Vien Street](https://www.google.com/search?q=Bui+Vien+Street+Ho+Chi+Minh) (cervezas baratas)
+* **Dia 14 (10 Ago): Historia y Ciudad**
+  * [Palacio de la Reunificacion](https://www.google.com/search?q=Reunification+Palace+Ho+Chi+Minh).
+  * Mercado Ben Thanh.
 
 * **Dia 15 (11 Ago): Salida a Bali**
-  * Manana: Traslado al aeropuerto
-  * Vuelo SGN -> DPS (Kuta)
-  * Llegada a Bali, traslado a Ubud
+  * Vuelo SGN -> DPS (10:10).
+  * Llegada a Bali, traslado a Ubud.
 
 ---
 
@@ -210,95 +177,42 @@ priorizamos alternativas menos conocidas."
 ---
 
 ### **Base 7: [Ubud](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Corazon Cultural (Dias 15-20)**
-*Alojamiento: Con vistas a arrozales ([Perwiti Bisma](https://www.google.com/search?q=Perwiti+Bisma+Ubud+Bali) o similar).*
 
-* **Dia 15 (11 Ago): Llegada a Bali**
-  * Vuelo SGN -> DPS (~3h)
-  * Traslado [aeropuerto a Ubud](https://www.google.com/search?q=Bali+airport+to+Ubud+transfer) (~1.5h)
-  * Instalacion, primer contacto con la magia de Bali
-
-* **Dia 16 (12 Ago): Spa Day Ubud**
-  * Dia de relax y descanso
-  * [Spa balines tradicional](https://www.google.com/search?q=Ubud+spa+massage+traditional) - masajes, tratamientos flores
-  * Paseo tranquilo por el centro de Ubud
-
-* **Dia 17 (13 Ago): Exploracion Arrozales**
-  * Manana: [Tegalalang Rice Terrace](https://www.google.com/search?q=Tegalalang+Rice+Terrace+Ubud) (ir a las 7:00 AM)
-  * [Pura Tirta Empul](https://www.google.com/search?q=Tirta+Empul+Temple+Bali) (templo del agua sagrada)
-  * Tarde libre en Ubud
-
+* **Dia 16 (12 Ago): Spa Day**
+* **Dia 17 (13 Ago): Tegalalang y Tirta Empul**
 * **Dia 18 (14 Ago): Monte Batur al Amanecer**
-  * 2:00 AM: Salida hacia [Monte Batur](https://www.google.com/search?q=Mount+Batur+sunrise+trek)
-  * Trekking nocturno (2h subida)
-  * **Amanecer espectacular** desde la cima del volcan
-  * Regreso y tarde de descanso
-
 * **Dia 19 (15 Ago): Ubud Profundo**
-  * [Sacred Monkey Forest Sanctuary](https://www.google.com/search?q=Sacred+Monkey+Forest+Ubud)
-  * 👩‍🍳 **Clase de Cocina Balinesa:** [Cooking class Ubud](https://www.google.com/search?q=Ubud+cooking+class)
-  * Tarde: Compras de artesanias
-
 * **Dia 20 (16 Ago): Hacia Amed**
-  * Traslado a [Amed](https://www.google.com/search?q=Amed+Bali+coast) (~2.5h)
-  * Check-in con vistas al [volcan Agung](https://www.google.com/search?q=Mount+Agung+view+Amed)
 
 ---
 
 ### **Base 8: [Amed](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Costa Salvaje (Dias 20-22)**
-*Alojamiento: Frente al mar, sencillo pero con vistas.*
 
-* **Dia 21 (17 Ago): Buceo/Snorkel**
-  * Buceo en el [USS Liberty](https://www.google.com/search?q=USS+Liberty+shipwreck+diving+Amed)
-  * Tarde: [Lipah Beach](https://www.google.com/search?q=Lipah+Beach+Amed)
-
+* **Dia 21 (17 Ago): Buceo USS Liberty**
 * **Dia 22 (18 Ago): Hacia Munduk**
-  * Traslado hacia el norte-centro (~3h)
-  * Paisajes de volcan y pueblos tradicionales
 
 ---
 
 ### **Base 9: [Munduk](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Montanas y Cascadas (Dias 22-24)**
-*Alojamiento: En las montanas, aire fresco, menos turistas.*
 
-* **Dia 23 (19 Ago): Cafe y Senderismo Munduk**
-  * [Plantaciones de cafe](https://www.google.com/search?q=Munduk+coffee+plantation+tour)
-  * Senderismo entre [cascadas de Munduk](https://www.google.com/search?q=Munduk+waterfall+trekking)
-
+* **Dia 23 (19 Ago): Senderismo y Cascadas**
 * **Dia 24 (20 Ago): Hacia Uluwatu**
-  * Traslado largo hacia el sur (~3.5h)
-  * Parada en [Tanah Lot](https://www.google.com/search?q=Tanah+Lot+Temple+sunset) al atardecer
 
 ---
 
 ### **Base 10: [Uluwatu](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Acantilados y Surf (Dias 24-32)**
-*Alojamiento: Cerca delle playas, ambiente surfero/yoga.*
 
-* **Dias 25-31 (21-27 Ago): Relax Total y Playas**
-  * Exploracion de playas: Padang Padang, Bingin, Balangan.
-  * Atardecer en el Templo de Uluwatu con Danza Kecak.
-  * Opcion de excursion a Nusa Penida.
-  * Tiempo para yoga, surf y "slow travel".
-
+* **Dias 25-31 (21-27 Ago): Playas y Relax**
 * **Dia 32 (28 Ago): Regreso**
-  * Traslado al aeropuerto de Bali (DPS)
-  * Vuelo de vuelta a Madrid (MAD)
-  * Fin del viaje
+  * Vuelo de vuelta a Madrid (MAD) 00:35.
 
 ---
 
 ## Guia Practica
 
 ### 1. Visados
-
-**Vietnam:**
-* Espanoles: 15 dias sin visado (entrada unica). Suficiente para este itinerario.
-
-**Indonesia (Bali):**
-* VOA (Visa on Arrival): 30 dias, ~35 USD. Se tramita en el aeropuerto.
-
-### 2. Transporte
-* **Vietnam:** Grab (App), Baolau (Trenes), Vuelos internos.
-* **Bali:** Grab/GoJek, Conductor privado para traslados largos.
+**Vietnam:** 15 dias sin visado (confirmar si en 2026 son 45 dias).
+**Indonesia:** VOA 30 dias (~35 USD).
 
 ---
 
@@ -306,16 +220,11 @@ priorizamos alternativas menos conocidas."
 
 | Concepto | Coste | Notas |
 | :--- | :--- | :--- |
-| **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | **REALES** (Incluye extras de cancelacion) |
-| **Vuelo SGN-DPS** | 309,44 € | **REAL** (Vietnam Airlines) |
-| **Otros Vuelos/Trenes Internos** | ~200,00 € | Tren SE3 + Vuelo DAD-SGN |
-| **Alojamiento (31 noches)** | ~1.500,00 € | ~50 €/noche promedio |
-| **Comida (32 dias)** | ~1.200,00 € | ~20 €/dia x2 personas |
-| **Transporte Local** | ~400,00 € | Grab, traslados privados |
-| **Actividades** | ~600,00 € | Crucero, buceo, tours, clases |
-| **Varios** | ~300,00 € | Visados, SIMs, propinas |
-| **TOTAL** | **~8.742,26 €** | **~4.371,13 € por persona** |
+| **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | **REALES** |
+| **Vuelo SGN-DPS** | 309,44 € | **REAL** |
+| **Alojamiento (31 noches)** | ~1.500,00 € | - |
+| **Actividades** | ~750,00 € | Crucero Swan (550€) |
+| **TOTAL** | **~8.892,26 €** | **~4.446,13 € p/p** |
 
 ---
-
-*Ultima actualizacion: 10 de enero de 2026 (Datos de vuelos confirmados)*
+*Ultima actualizacion: 10 de enero de 2026*
