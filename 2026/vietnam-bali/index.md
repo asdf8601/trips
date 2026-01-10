@@ -222,8 +222,8 @@ priorizamos alternativas menos conocidas."
 | :--- | :--- | :--- |
 | **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | **REALES** |
 | **Vuelo SGN-DPS** | 309,44 € | **REAL** |
-| **Alojamiento (31 noches)** | ~1.500,00 € | - |
-| **Actividades** | ~750,00 € | Crucero Swan (550€) |
+| **Alojamiento (28 noches)** | ~1.500,00 € | Confirmados: Hanoi (39,58€), Ninh Binh (25,57€) |
+| **Actividades** | ~750,00 € | Crucero Swan (550,00€), buceo, tours |
 | **TOTAL** | **~8.892,26 €** | **~4.446,13 € p/p** |
 
 ---

@@ -215,15 +215,15 @@ accommodations:
 - stop: 'Día 2 (Hanoi): Llegada y Exploración'
   name: Amanda Boutique Hotel & Travel
   address: 62E Phố Cầu Gỗ, Hoan Kiem, Hanoi
-  notes: 'Confirmado. Precio total 2 noches: VND 1.209.600.'
+  notes: 'Confirmado. Precio total 2 noches: 39,58 € (VND 1.209.600).'
 - stop: 'Día 4 (Ninh Binh): Traslado'
   name: Cao Thạch Homestay
   address: Hai Nham Village, Ninh Hai Commune, Ninh Binh
-  notes: Confirmado. Homestay con ambiente local.
+  notes: 'Confirmado. Precio total 2 noches: 25,57 € (VND 781.488).'
 - stop: 'Día 6 (Halong): Crucero Día 1'
   name: Swan Cruises Halong
   address: Hon Gai Wharf, Ha Long
-  notes: 'Confirmado. Suite con balcón. Pensión completa. Precio total ~550 EUR.'
+  notes: 'Confirmado. Suite con balcón. Pensión completa. Precio total 550,00 € (VND 16.807.084).'
 transports:
 - transport_type: flight
   origin: Madrid (MAD)
