@@ -5,9 +5,9 @@
 - [ ] **Definir fechas exactas vuelo Bali:** Confirmar si se mantiene el vuelo del 11 de Agosto o se extiende la estancia en Vietnam.
 
 ## 🏨 Alojamientos (Por Reservar)
-*Fechas estimadas según el último plan:*
-- [ ] **Hoi An:** 5 Ago - 7 Ago (2 noches).
-- [ ] **Hue:** 7 Ago - 9 Ago (2 noches).
+*Fechas estimadas según el itinerario lineal (Norte -> Sur):*
+- [ ] **Hue:** 5 Ago - 7 Ago (2 noches).
+- [ ] **Hoi An:** 7 Ago - 9 Ago (2 noches).
 - [ ] **Ho Chi Minh:** 9 Ago - 11 Ago (2 noches).
 - [ ] **Ubud (Bali):** 11 Ago - 16 Ago (5 noches).
 - [ ] **Amed (Bali):** 16 Ago - 18 Ago (2 noches).
@@ -20,16 +20,16 @@
 - [x] Halong Bay: Swan Cruises (2 Ago-4 Ago).
 
 ## ✈️🚂 Transporte Interno
-- [ ] **Tren Nocturno (Hanoi -> Da Nang):** SE3 para la noche del 4 de Agosto.
+- [ ] **Tren Nocturno (Hanoi -> Hue):** SE3 para la noche del 4 de Agosto. Bajarse en Hue.
   - *Reservar en Baolau o 12go.asia (abren ~60-90 días antes).*
-- [ ] **Vuelo Interno (Hue -> Ho Chi Minh):** Para la mañana del 9 de Agosto.
+- [ ] **Vuelo Interno (Da Nang -> Ho Chi Minh):** Para la mañana del 9 de Agosto.
   - *Aerolíneas:* Vietnam Airlines, VietJet o Bamboo.
 - [ ] **Traslados Privados:**
   - [ ] Hanoi -> Ninh Binh.
   - [ ] Ninh Binh -> Halong Bay.
   - [ ] Halong Bay -> Hanoi (Shuttle Bus Swan Cruises).
-  - [ ] Da Nang -> Hoi An.
-  - [ ] Hoi An -> Hue (vía Hai Van Pass con conductor/jeep).
+  - [ ] Hue -> Hoi An (vía Hai Van Pass con conductor/jeep el 7 de agosto).
+  - [ ] Hoi An -> Da Nang Airport (9 de agosto).
 
 ## 🛂 Burocracia y Salud
 - [ ] **Pasaportes:** Verificar validez (mínimo 6 meses desde la fecha de salida).

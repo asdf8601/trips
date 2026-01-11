@@ -18,12 +18,12 @@ priorizamos alternativas menos conocidas."
 | **Hanoi** | 29 Jul - 31 Jul | **LLEGADA:** 29 Jul 07:15 |
 | **Ninh Binh** | 31 Jul - 2 Ago | - |
 | **Bahia de Halong** | 2 Ago - 4 Ago | - |
-| **Hoi An** | 5 Ago - 7 Ago | **INTERNO:** 4 Ago Tren SE3 |
-| **Hue** | 7 Ago - 9 Ago | - |
-| **Ho Chi Minh** | 9 Ago - 11 Ago | **INTERNO:** 9 Ago HUE -> SGN |
-| **Ubud (Bali)** | 11 Ago - 16 Ago | **INTERNO:** 11 Ago SGN -> DPS |
+| **Hue** | 5 Ago - 7 Ago | **INTERNO:** 4 Ago Tren SE3 (Hanoi-Hue) |
+| **Hoi An** | 7 Ago - 9 Ago | **INTERNO:** 9 Ago DAD -> SGN |
+| **Ho Chi Minh** | 9 Ago - 11 Ago | **INTERNO:** 11 Ago SGN -> DPS |
+| **Ubud (Bali)** | 11 Ago - 16 Ago | - |
 | **Amed** | 16 Ago - 18 Ago | - |
-| **Munduk** | 17 Ago - 20 Ago | - |
+| **Munduk** | 18 Ago - 20 Ago | - |
 | **Uluwatu** | 20 Ago - 28 Ago | - |
 | **Salida** | 28 Ago | **VUELTA:** 28 Ago DPS -> MAD |
 
@@ -34,8 +34,8 @@ priorizamos alternativas menos conocidas."
 | Tipo | Fecha/Hora | Ruta | Vuelo | Aerolinea | Asientos (M/M) | Ref |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IDA** | 28 Jul 09:05 | MAD -> HAN | QR148/QR982 | Qatar Airways | 17J,17J / 17K,17K | XG63OJ |
-| **INTERNO** | 4 Ago 19:30 | Hanoi -> Da Nang | SE3 | VN Railways | - | - |
-| **INTERNO** | 9 Ago 10:00 | HUE -> SGN | VJ... | VietJet | - | - |
+| **INTERNO** | 4 Ago 19:30 | Hanoi -> Hue | SE3 | VN Railways | - | - |
+| **INTERNO** | 9 Ago 10:00 | DAD -> SGN | VJ... | VietJet | - | - |
 | **INTERNO** | 11 Ago 10:10 | SGN -> DPS | VN641 | VN Airlines | 30B / 30A | XGDT9W |
 | **VUELTA** | 28 Ago 00:35 | DPS -> MAD | EK399/EK141 | Emirates | 16J,53J / 16K,53K | C5Z6VN |
 
@@ -125,37 +125,41 @@ priorizamos alternativas menos conocidas."
   * Amanecer en la bahia. Dia completo de navegacion por zonas tranquilas.
   * Visita a aldeas flotantes o cuevas menos turisticas.
 
-* **Dia 8 (4 Ago): Tren Nocturno a Hoi An**
+* **Dia 8 (4 Ago): Tren Nocturno a Hue**
   * Desembarque mediodia, traslado a Hanoi.
   * Tarde libre en Hanoi.
-  * Noche: [Tren SE3](https://www.google.com/search?q=Vietnam+train+SE3+Hanoi+Da+Nang) (19:30).
+  * Noche: [Tren SE3](https://www.google.com/search?q=Vietnam+train+SE3+Hanoi+Hue) (19:30).
 
 ---
 
-### **Base 4: [Hoi An](https://mundo-nomada.com/vietnam/hoi-an-y-su-precioso-casco-antiguo-una-de-las-joyas-de-vietnam/) - La Joya del Centro (Dias 9-11)**
+### **Base 4: [Hue](https://mundo-nomada.com/vietnam/que-ver-en-hue/) - Capital Imperial (Dias 9-11)**
 
 * **Dia 9 (5 Ago): Llegada**
-  * Llegada Da Nang 10:00, traslado Hoi An.
-  * Atardecer: [Puente Japones](https://www.google.com/search?q=Japanese+Bridge+Hoi+An).
+  * Llegada a Hue (~08:30) en tren SE3.
+  * Tarde: [Rio del Perfume](https://www.google.com/search?q=Perfume+River+Hue).
+  * Cena: Bun Bo Hue (sopa tipica).
 
-* **Dia 10 (6 Ago): Casco Historico**
-  * Manana temprano (6:30): Casco antiguo sin turistas.
-  * 👩‍🍳 **Clase de Cocina:** [Hoi An cooking class](https://www.google.com/search?q=Hoi+An+cooking+class).
+* **Dia 10 (6 Ago): Ciudadela y Tumbas**
+  * Manana temprano (7:00): [Ciudadela Imperial](https://www.google.com/search?q=Imperial+City+Hue).
+  * Tarde: [Tumba de Tu Duc](https://www.google.com/search?q=Tu+Duc+Tomb+Hue).
 
-* **Dia 11 (7 Ago): Hacia Hue**
-  * Traslado por [Hai Van Pass](https://www.google.com/search?q=Hai+Van+Pass+scenic+drive).
-  * Llegada Hue, paseo por [Rio del Perfume](https://www.google.com/search?q=Perfume+River+Hue).
+* **Dia 11 (7 Ago): Hai Van Pass hacia Hoi An**
+  * Traslado espectacular por el [Hai Van Pass](https://www.google.com/search?q=Hai+Van+Pass+scenic+drive).
+  * Parada en Da Nang (Lady Buddha).
+  * Llegada a Hoi An al atardecer.
 
 ---
 
-### **Base 5: [Hue](https://mundo-nomada.com/vietnam/que-ver-en-hue/) - Capital Imperial (Dias 11-13)**
+### **Base 5: [Hoi An](https://mundo-nomada.com/vietnam/hoi-an-y-su-precioso-casco-antiguo-una-de-las-joyas-de-vietnam/) - La Joya del Centro (Dias 11-13)**
 
-* **Dia 12 (8 Ago): Ciudadela y Tumbas**
-  * [Ciudadela Imperial](https://www.google.com/search?q=Imperial+City+Hue).
-  * Tarde: [Tumba de Tu Duc](https://www.google.com/search?q=Tu+Duc+Tomb+Hue).
+* **Dia 12 (8 Ago): Casco Historico y Cocina**
+  * Manana temprano (6:30): Casco antiguo sin turistas.
+  * 👩‍🍳 **Clase de Cocina:** [Hoi An cooking class](https://www.google.com/search?q=Hoi+An+cooking+class).
+  * Atardecer: [Puente Japones](https://www.google.com/search?q=Japanese+Bridge+Hoi+An).
 
 * **Dia 13 (9 Ago): Vuelo a Ho Chi Minh**
-  * Manana: Vuelo Hue -> SGN.
+  * Manana: Traslado al aeropuerto de Da Nang (DAD).
+  * Vuelo Da Nang -> SGN.
   * Tarde: [Catedral Notre Dame](https://www.google.com/search?q=Notre+Dame+Cathedral+Ho+Chi+Minh).
 
 ---
@@ -227,4 +231,4 @@ priorizamos alternativas menos conocidas."
 | **TOTAL** | **~8.892,26 €** | **~4.446,13 € p/p** |
 
 ---
-*Ultima actualizacion: 10 de enero de 2026*
+*Ultima actualizacion: 11 de enero de 2026*

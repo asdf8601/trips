@@ -64,37 +64,37 @@ stops:
 - name: 'Día 8 (Hanoi): Tren Nocturno'
   location: Hanoi Station, Vietnam
   visit_date: '2026-08-04'
-  notes: 'Regreso a Hanoi. Tren SE3 19:30.'
+  notes: 'Regreso a Hanoi. Tren SE3 19:30 hacia Hue.'
   latitude: 21.0245
   longitude: 105.8412
-- name: 'Día 9 (Hoi An): Llegada'
-  location: Hoi An, Vietnam
-  visit_date: '2026-08-05'
-  notes: 'Llegada 10:00, traslado Hoi An.'
-  latitude: 15.8801
-  longitude: 108.338
-- name: 'Día 10 (Hoi An): Casco Histórico'
-  location: Hoi An, Vietnam
-  visit_date: '2026-08-06'
-  notes: 'Hoi An sin turistas 6:30 AM.'
-  latitude: 15.91
-  longitude: 108.36
-- name: 'Día 11 (Hue): Traslado'
+- name: 'Día 9 (Hue): Llegada'
   location: Hue, Vietnam
-  visit_date: '2026-08-07'
-  notes: 'Hai Van Pass y Río del Perfume.'
+  visit_date: '2026-08-05'
+  notes: 'Llegada 08:30, traslado hotel, Río del Perfume.'
   latitude: 16.4637
   longitude: 107.5909
-- name: 'Día 12 (Hue): Ciudadela'
+- name: 'Día 10 (Hue): Ciudadela'
   location: Hue, Vietnam
-  visit_date: '2026-08-08'
+  visit_date: '2026-08-06'
   notes: 'Ciudadela Imperial y Tumbas.'
   latitude: 16.4637
   longitude: 107.5909
+- name: 'Día 11 (Hoi An): Traslado'
+  location: Hoi An, Vietnam
+  visit_date: '2026-08-07'
+  notes: 'Hai Van Pass desde Hue.'
+  latitude: 15.8801
+  longitude: 108.338
+- name: 'Día 12 (Hoi An): Casco Histórico'
+  location: Hoi An, Vietnam
+  visit_date: '2026-08-08'
+  notes: 'Hoi An sin turistas 6:30 AM.'
+  latitude: 15.91
+  longitude: 108.36
 - name: 'Día 13 (HCMC): Llegada'
   location: Ho Chi Minh City, Vietnam
   visit_date: '2026-08-09'
-  notes: 'Vuelo Hue -> SGN.'
+  notes: 'Vuelo Da Nang -> SGN.'
   latitude: 10.8231
   longitude: 106.6297
 - name: 'Día 14 (HCMC): Ciudad'
@@ -242,22 +242,22 @@ transports:
   notes: 'Ref: XG63OJ. Escala en Doha.'
 - transport_type: flight
   origin: Hanoi Station
-  destination: Da Nang Station
+  destination: Hue Station
   operator: Vietnam Railways
   reference_number: SE3
   departure_date: '2026-08-04T19:30:00+00:00'
-  arrival_date: '2026-08-05T10:00:00+00:00'
+  arrival_date: '2026-08-05T08:30:00+00:00'
   price: 120.0
-  notes: 'Tren nocturno.'
+  notes: 'Tren nocturno. Bajarse en Hue.'
 - transport_type: flight
-  origin: Hue (HUE)
+  origin: Da Nang (DAD)
   destination: Ho Chi Minh (SGN)
   operator: VietJet
   reference_number: VJ
   departure_date: '2026-08-09T10:00:00+00:00'
   arrival_date: '2026-08-09T11:15:00+00:00'
   price: 60.0
-  notes: 'Vuelo interno.'
+  notes: 'Vuelo interno desde Da Nang.'
 - transport_type: flight
   origin: Ho Chi Minh (SGN)
   destination: Bali (DPS)
@@ -296,7 +296,7 @@ posts:
   content: Navegar entre miles de islotes kársticos.
   type: activity
   rating: 5
-- stop: 'Día 10 (Hoi An): Casco Histórico'
+- stop: 'Día 12 (Hoi An): Casco Histórico'
   title: Hoi An 6:30 AM
   content: Disfrutar del pueblo sin turistas.
   type: place
