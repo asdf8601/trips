@@ -8,8 +8,8 @@
 *Fechas estimadas según el itinerario lineal (Norte -> Sur):*
 - [ ] **Hue:** 5 Ago - 7 Ago (2 noches).
 - [ ] **Hoi An:** 7 Ago - 9 Ago (2 noches).
-- [ ] **Ho Chi Minh:** 9 Ago - 11 Ago (2 noches).
-- [ ] **Ubud (Bali):** 11 Ago - 16 Ago (5 noches).
+- [ ] **Ho Chi Minh:** 9 Ago - 13 Ago (4 noches).
+- [ ] **Ubud (Bali):** 13 Ago - 16 Ago (3 noches).
 - [ ] **Amed (Bali):** 16 Ago - 18 Ago (2 noches).
 - [ ] **Munduk (Bali):** 18 Ago - 20 Ago (2 noches).
 - [ ] **Uluwatu (Bali):** 20 Ago - 28 Ago (8 noches).

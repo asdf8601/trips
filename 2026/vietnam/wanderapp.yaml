@@ -1,861 +1,265 @@
-# Vietnam 2026: The "Anti-Crowd" Challenge (Slow & Deep)
-# Generado para importar en Wander App
-# Estructura: Una parada por día con posts asignados
-
 title: "Vietnam 2026: Slow & Deep"
 start_date: "2026-07-29"
 end_date: "2026-08-25"
 description: |
   Viaje de 29 días por Vietnam con filosofía **"Huír de los grupos de banderas"**.
-  
-  ## Filosofía
-  Se han eliminado los "puntos negros" de turismo masivo y se han sustituido 
-  por alternativas auténticas y relajadas.
+  Eliminando puntos de turismo masivo en favor de experiencias auténticas.
   
   ## Highlights
-  - Hanoi: El caos controlado, street food real
-  - Lan Ha Bay: Silencio en el karst (alternativa a Ha Long)
-  - Ninh Binh: La bahía terrestre
-  - Phong Nha: Aventura real en cuevas
-  - Hue: Slow life imperial
-  - Hoi An: Estrategia periférica (dormir fuera, visitar dentro)
-  - Ho Chi Minh & Delta del Mekong
-  
-  ## Logística
-  Open-Jaw: Entrada Norte (HAN) / Salida Sur (SGN)
+  - Hanoi: El caos controlado y street food real
+  - Lan Ha Bay: La alternativa tranquila a Ha Long
+  - Phong Nha: Aventura en las cuevas más grandes del mundo
+  - Hoi An: Estrategia periférica (alojarse en la playa, visitar pueblo al amanecer)
 public: true
 budget_total: 6189.00
 local_currency: "VND"
-
-# ============================================
-# STOPS (Una parada por día - 29 días)
-# ============================================
 stops:
-  # ========== HANOI (Días 1-5) ==========
-  - name: "Día 1: Llegada a Hanoi"
+  - name: "Hanoi"
     location: "Hanoi, Vietnam"
     visit_date: "2026-07-29"
     arrival_date: "2026-07-29"
-    notes: "Llegada. Alojamiento cerca de la Catedral (más tranquilo)."
+    departure_date: "2026-08-01"
+    notes: "Días 1-4: Base en zona tranquila. Street food, historia y cultura."
     latitude: 21.0285
     longitude: 105.8542
+    activities:
+      - title: "Tips: E-Visa & Grab"
+        content: "Visa obligatoria ($25). Descargar Grab (Uber local)."
+        type: "tip"
+      - title: "Hanoi Alternativo"
+        content: "Museo Etnología (vacío), Puente Long Bien y Night Market."
+        type: "place"
+        rating: 5
+      - title: "Tour Street Food"
+        content: "Bun Cha, Egg Coffee y callejones ocultos."
+        type: "activity"
+        rating: 5
+        price: 30.00
 
-  - name: "Día 2: Hanoi Alternativo"
-    location: "Old Quarter, Hanoi, Vietnam"
-    visit_date: "2026-07-30"
-    notes: "Museo Etnología, Puente Long Bien, Night Market (si es fin de semana)."
-    latitude: 21.0340
-    longitude: 105.8500
-
-  - name: "Día 3: Street Food"
-    location: "Old Quarter, Hanoi, Vietnam"
-    visit_date: "2026-07-31"
-    notes: "Tour privado de comida callejera: Bun Cha, Egg Coffee."
-    latitude: 21.0340
-    longitude: 105.8500
-
-  - name: "Día 4: Mañana Libre + Traslado"
-    location: "Hanoi, Vietnam"
-    visit_date: "2026-08-01"
-    notes: "Mañana libre. Traslado privado al puerto por la tarde."
-    latitude: 21.0285
-    longitude: 105.8542
-
-  # ========== LAN HA BAY (Días 4-5) ==========
-  - name: "Día 4-5: Crucero Lan Ha Bay"
+  - name: "Lan Ha Bay"
     location: "Lan Ha Bay, Vietnam"
     visit_date: "2026-08-01"
-    notes: "Crucero 2D/1N. Kayak, playas privadas, noche bajo las estrellas."
+    arrival_date: "2026-08-01"
+    departure_date: "2026-08-02"
+    notes: "Días 4-5: Crucero entre karsts. Noche a bordo."
     latitude: 20.7833
     longitude: 107.0500
+    activities:
+      - title: "Crucero Lan Ha"
+        content: "Kayak, baño en playas privadas y noche en el barco."
+        type: "activity"
+        rating: 5
+        price: 200.00
 
-  # ========== NINH BINH (Días 5-8) ==========
-  - name: "Día 5: Llegada a Ninh Binh"
+  - name: "Ninh Binh"
     location: "Ninh Binh, Vietnam"
     visit_date: "2026-08-02"
-    notes: "Traslado directo desde crucero. Check-in Tam Coc Garden."
+    arrival_date: "2026-08-02"
+    departure_date: "2026-08-05"
+    notes: "Días 5-8: La 'Bahía de Halong terrestre'. Arrozales y reservas naturales."
     latitude: 20.2539
     longitude: 105.9750
+    activities:
+      - title: "Van Long Nature Reserve"
+        content: "Paseo en barca al atardecer. Espejo de agua."
+        type: "activity"
+        rating: 5
+      - title: "Bich Dong Pagoda"
+        content: "Templo en cueva. Thung Nham Bird Garden."
+        type: "place"
+        rating: 5
 
-  - name: "Día 6: Van Long"
-    location: "Van Long, Ninh Binh, Vietnam"
-    visit_date: "2026-08-03"
-    notes: "Van Long Nature Reserve. Paseo en barca al atardecer."
-    latitude: 20.3833
-    longitude: 105.8667
-
-  - name: "Día 7: Bich Dong"
-    location: "Bich Dong, Ninh Binh, Vietnam"
-    visit_date: "2026-08-04"
-    notes: "Pagoda en cueva + Thung Nham (parque aves). Bici por caminos."
-    latitude: 20.2167
-    longitude: 105.9333
-
-  - name: "Día 8: Tren Nocturno"
-    location: "Ninh Binh, Vietnam"
-    visit_date: "2026-08-05"
-    notes: "Día libre. Tren nocturno VIP a Dong Hoi por la noche."
-    latitude: 20.2539
-    longitude: 105.9750
-
-  # ========== PHONG NHA (Días 9-12) ==========
-  - name: "Día 9: Llegada a Phong Nha"
+  - name: "Phong Nha"
     location: "Phong Nha, Vietnam"
     visit_date: "2026-08-06"
-    notes: "Llegada por la mañana. Desayuno en el río Son. Relax."
+    arrival_date: "2026-08-06"
+    departure_date: "2026-08-09"
+    notes: "Días 9-12: Parque Nacional. Cuevas espectaculares y selva."
     latitude: 17.5920
     longitude: 106.2833
+    activities:
+      - title: "Llegada Phong Nha"
+        content: "Desayuno en el río. Relax."
+        type: "tip"
+      - title: "Trekking Elephant Cave"
+        content: "Jungle Boss tour. Baño en cuevas sin gente."
+        type: "activity"
+        rating: 5
+        price: 60.00
+      - title: "Paradise Cave"
+        content: "Inmensidad subterránea. Ir 8:00 AM."
+        type: "place"
+        rating: 5
+        price: 15.00
 
-  - name: "Día 10: Trekking Privado"
-    location: "Phong Nha, Vietnam"
-    visit_date: "2026-08-07"
-    notes: "Elephant Cave o Ma Da Valley con Jungle Boss."
-    latitude: 17.5920
-    longitude: 106.2833
-
-  - name: "Día 11: Paradise Cave"
-    location: "Paradise Cave, Phong Nha, Vietnam"
-    visit_date: "2026-08-08"
-    notes: "Paradise Cave a las 8AM. Inmensidad sin gente."
-    latitude: 17.5333
-    longitude: 106.2167
-
-  - name: "Día 12: Traslado a Hue"
-    location: "Phong Nha, Vietnam"
-    visit_date: "2026-08-09"
-    notes: "Traslado privado o Limousine Bus a Hue."
-    latitude: 17.5920
-    longitude: 106.2833
-
-  # ========== HUE (Días 12-15) ==========
-  - name: "Día 12: Llegada a Hue"
+  - name: "Hue"
     location: "Hue, Vietnam"
     visit_date: "2026-08-09"
-    notes: "Llegada por la tarde. Atardecer en Pagoda Thien Mu."
+    arrival_date: "2026-08-09"
+    departure_date: "2026-08-12"
+    notes: "Días 12-15: Capital Imperial. Tumbas, pagodas y vida lenta."
     latitude: 16.4637
     longitude: 107.5909
+    activities:
+      - title: "Tumbas Imperiales"
+        content: "Minh Mang y Tu Duc. Arquitectura y naturaleza."
+        type: "place"
+        rating: 5
+      - title: "Laguna Tam Giang"
+        content: "Atardecer en barca de pescadores. Cena marisco."
+        type: "activity"
+        rating: 5
 
-  - name: "Día 13: Tumbas Imperiales"
-    location: "Hue, Vietnam"
-    visit_date: "2026-08-10"
-    notes: "Tumbas de Minh Mang y Tu Duc (las más atmosféricas)."
-    latitude: 16.4637
-    longitude: 107.5909
-
-  - name: "Día 14: Laguna Tam Giang"
-    location: "Tam Giang, Hue, Vietnam"
-    visit_date: "2026-08-11"
-    notes: "Excursión atardecer a laguna de pescadores. Cena sobre el agua."
-    latitude: 16.5500
-    longitude: 107.5000
-
-  - name: "Día 15: Hai Van Pass"
-    location: "Hai Van Pass, Vietnam"
-    visit_date: "2026-08-12"
-    notes: "Viaje escénico en jeep/moto a Hoi An."
-    latitude: 16.2000
-    longitude: 108.1333
-
-  # ========== HOI AN (Días 15-21) ==========
-  - name: "Día 15: Llegada a Hoi An"
+  - name: "Hoi An"
     location: "Hoi An, Vietnam"
     visit_date: "2026-08-12"
-    notes: "Llegada tras Hai Van Pass. Check-in An Bang Beach."
+    arrival_date: "2026-08-12"
+    departure_date: "2026-08-18"
+    notes: "Días 15-21: Playa, arrozales y casco antiguo (madrugando)."
     latitude: 15.8801
     longitude: 108.3380
+    activities:
+      - title: "Hai Van Pass"
+        content: "Paso de montaña espectacular (Jeep/Moto) camino a Hoi An."
+        type: "activity"
+        rating: 5
+      - title: "Vida en Arrozales"
+        content: "Bici por Cam Thanh entre búfalos."
+        type: "activity"
+        rating: 5
+      - title: "Islas Cham (Snorkel)"
+        content: "Tour privado. Coral y peces."
+        type: "activity"
+        rating: 4
+      - title: "Ancient Town (6:30 AM)"
+        content: "Mercado local y calles vacías. Imprescindible madrugar."
+        type: "place"
+        rating: 5
+      - title: "Clase de Cocina"
+        content: "Mercado orgánico y cocinar platos locales."
+        type: "activity"
+        rating: 5
 
-  - name: "Día 16: Vida en Arrozales"
-    location: "Cam Thanh, Hoi An, Vietnam"
-    visit_date: "2026-08-13"
-    notes: "Bicicleta entre búfalos de agua. Zona cocoteros."
-    latitude: 15.8700
-    longitude: 108.3500
-
-  - name: "Día 17: Islas Cham"
-    location: "Islas Cham, Vietnam"
-    visit_date: "2026-08-14"
-    notes: "Buceo/snorkel privado. Evitar barco grande turístico."
-    latitude: 15.9500
-    longitude: 108.5000
-
-  - name: "Día 18: Ancient Town Early"
-    location: "Hoi An Ancient Town, Vietnam"
-    visit_date: "2026-08-15"
-    notes: "Visitar a las 6:30AM. Mercado local real. Volver antes de las 10AM."
-    latitude: 15.8775
-    longitude: 108.3280
-
-  - name: "Día 19: Clase de Cocina"
-    location: "Tra Que, Hoi An, Vietnam"
-    visit_date: "2026-08-16"
-    notes: "Clase cocina con visita a mercado orgánico Tra Que."
-    latitude: 15.9000
-    longitude: 108.3167
-
-  - name: "Día 20: Día Libre Playa"
-    location: "An Bang Beach, Hoi An, Vietnam"
-    visit_date: "2026-08-17"
-    notes: "Día de relax en la playa. Atardecer."
-    latitude: 15.9100
-    longitude: 108.3600
-
-  - name: "Día 21: Vuelo a Ho Chi Minh"
-    location: "Da Nang, Vietnam"
-    visit_date: "2026-08-18"
-    notes: "Traslado a Da Nang. Vuelo interno a Ho Chi Minh."
-    latitude: 16.0544
-    longitude: 108.2022
-
-  # ========== HO CHI MINH & DELTA (Días 21-25) ==========
-  - name: "Día 21: Llegada a Ho Chi Minh"
+  - name: "Ho Chi Minh City"
     location: "Ho Chi Minh City, Vietnam"
     visit_date: "2026-08-18"
-    notes: "Llegada. Check-in District 1. Paseo nocturno."
+    arrival_date: "2026-08-18"
+    departure_date: "2026-08-20"
+    notes: "Días 21-23: La metrópolis del sur y Túneles de Cu Chi."
     latitude: 10.8231
     longitude: 106.6297
+    activities:
+      - title: "Túneles Cu Chi (Ben Duoc)"
+        content: "Los túneles lejanos y originales (menos turistas)."
+        type: "place"
+        rating: 5
 
-  - name: "Día 22: Túneles Cu Chi"
-    location: "Cu Chi, Vietnam"
-    visit_date: "2026-08-19"
-    notes: "Ir a Ben Duoc (lejano), NO a Ben Dinh (turístico)."
-    latitude: 11.1333
-    longitude: 106.4500
-
-  - name: "Día 23: Delta - Can Tho"
+  - name: "Can Tho (Delta)"
     location: "Can Tho, Vietnam"
     visit_date: "2026-08-20"
-    notes: "Traslado a Can Tho. Noche en el Delta."
+    arrival_date: "2026-08-20"
+    departure_date: "2026-08-22"
+    notes: "Días 23-25: Delta del Mekong. Mercados flotantes y regreso."
     latitude: 10.0452
     longitude: 105.7469
+    activities:
+      - title: "Mercado Flotante Cai Rang"
+        content: "Amanecer (5:30 AM). Desayuno en el río."
+        type: "activity"
+        rating: 5
 
-  - name: "Día 24: Mercado Flotante"
-    location: "Cai Rang, Can Tho, Vietnam"
-    visit_date: "2026-08-21"
-    notes: "Cai Rang al amanecer (5:30AM). Desayunar sopa en el río."
-    latitude: 10.0167
-    longitude: 105.7667
+accommodations:
+  - stop: "Hanoi"
+    name: "Hotel cerca de la Catedral"
+    address: "Old Quarter, Hanoi"
+    rating: 4
+    notes: "Zona más tranquila que el centro del caos. 3 noches."
 
-  - name: "Día 25: Vuelta a Ho Chi Minh"
-    location: "Ho Chi Minh City, Vietnam"
-    visit_date: "2026-08-22"
-    notes: "Vuelta a la ciudad. Mercado Ben Thanh. Última cena. Vuelo nocturno."
-    latitude: 10.8231
-    longitude: 106.6297
+  - stop: "Lan Ha Bay"
+    name: "Crucero Indochine"
+    address: "Cat Ba Island"
+    rating: 5
+    notes: "Barco premium. 1 noche."
 
-# ============================================
-# FLIGHTS (Vuelos)
-# ============================================
-flights:
-  - airline: "Turkish Airlines"
-    flight_number: "TK"
+  - stop: "Ninh Binh"
+    name: "Tam Coc Garden Resort"
+    address: "Tam Coc, Ninh Binh"
+    rating: 5
+    notes: "Rodeado de arrozales, paz total. 3 noches."
+
+  - stop: "Phong Nha"
+    name: "Hotel en Phong Nha"
+    address: "Son Trach, Phong Nha"
+    rating: 3
+    notes: "Junto al río Son. 3 noches."
+
+  - stop: "Hue"
+    name: "Pilgrimage Village"
+    address: "130 Minh Mang Road, Hue"
+    rating: 5
+    notes: "Resort en la selva. 3 noches."
+
+  - stop: "Hoi An"
+    name: "Hotel en An Bang Beach"
+    address: "An Bang Beach, Hoi An"
+    rating: 4
+    notes: "Junto a la playa, lejos del centro turístico. 6 noches."
+
+  - stop: "Ho Chi Minh City"
+    name: "Hotel District 1"
+    address: "District 1, Ho Chi Minh City"
+    rating: 4
+    notes: "Céntrico. 2 noches."
+
+  - stop: "Can Tho (Delta)"
+    name: "Hotel en Can Tho"
+    address: "Can Tho"
+    rating: 3
+    notes: "Base para el mercado flotante. 1 noche (la última noche se vuela)."
+
+transports:
+  - transport_type: "flight"
     origin: "Madrid (MAD)"
     destination: "Hanoi (HAN)"
-    departure_date: "2026-07-28T00:00:00"
-    arrival_date: "2026-07-29T00:00:00"
+    operator: "Turkish Airlines"
     price: 1144.50
-    cabin_class: "economy"
-    notes: "Vuelo internacional. Escala en Estambul."
+    notes: "Ida y vuelta."
 
-  - airline: "Vietnam Airlines"
-    flight_number: "VN"
-    origin: "Da Nang (DAD)"
-    destination: "Ho Chi Minh (SGN)"
-    departure_date: "2026-08-18T10:00:00"
-    arrival_date: "2026-08-18T11:30:00"
+  - transport_type: "bus"
+    origin: "Hanoi"
+    destination: "Lan Ha Bay"
+    notes: "Traslado privado."
+
+  - transport_type: "bus"
+    origin: "Lan Ha Bay"
+    destination: "Ninh Binh"
+    notes: "Traslado privado."
+
+  - transport_type: "train"
+    origin: "Ninh Binh"
+    destination: "Dong Hoi (Phong Nha)"
+    operator: "Vietnam Railways"
+    price: 50.00
+    notes: "Tren nocturno VIP."
+
+  - transport_type: "bus"
+    origin: "Phong Nha"
+    destination: "Hue"
+    notes: "Limousine Bus."
+
+  - transport_type: "flight"
+    origin: "Da Nang"
+    destination: "Ho Chi Minh City"
+    operator: "VietJet"
     price: 75.00
-    cabin_class: "economy"
-    notes: "Vuelo interno ~1h30."
+    notes: "Vuelo interno."
 
-  - airline: "Turkish Airlines"
-    flight_number: "TK"
-    origin: "Ho Chi Minh (SGN)"
-    destination: "Madrid (MAD)"
-    departure_date: "2026-08-22T22:05:00"
-    arrival_date: "2026-08-23T10:00:00"
-    price: 1144.50
-    cabin_class: "economy"
-    notes: "Vuelo internacional. Llegada día siguiente."
+  - transport_type: "bus"
+    origin: "Ho Chi Minh City"
+    destination: "Can Tho"
+    notes: "Van al Delta."
 
-# ============================================
-# ACCOMMODATIONS (Alojamientos)
-# ============================================
-accommodations:
-  - stop: "Día 1: Llegada a Hanoi"
-    name: "Hotel cerca de la Catedral"
-    type: "hotel"
-    address: "Old Quarter, Hanoi"
-    price_per_night: 50.00
-    nights: 4
-    booking_platform: "Booking.com"
-    notes: "Zona más tranquila que el centro del Old Quarter."
-
-  - stop: "Día 4-5: Crucero Lan Ha Bay"
-    name: "Crucero Indochine"
-    type: "other"
-    address: "Cat Ba Island"
-    price_per_night: 200.00
-    nights: 1
-    booking_platform: "Direct"
-    notes: "Barco premium. Alternativa: Ylang."
-    rating: 5
-
-  - stop: "Día 5: Llegada a Ninh Binh"
-    name: "Tam Coc Garden Resort"
-    type: "hotel"
-    address: "Tam Coc, Ninh Binh"
-    price_per_night: 60.00
-    nights: 3
-    booking_platform: "Booking.com"
-    notes: "Rodeado de arrozales, paz total."
-    rating: 5
-
-  - stop: "Día 9: Llegada a Phong Nha"
-    name: "Hotel en Phong Nha"
-    type: "hotel"
-    address: "Son Trach, Phong Nha"
-    price_per_night: 40.00
-    nights: 3
-    booking_platform: "Booking.com"
-    notes: "Pueblo pequeño junto al río Son."
-
-  - stop: "Día 12: Llegada a Hue"
-    name: "Pilgrimage Village"
-    type: "hotel"
-    address: "130 Minh Mang Road, Hue"
-    price_per_night: 80.00
-    nights: 3
-    booking_platform: "Booking.com"
-    notes: "Resort en la selva, paz absoluta."
-    rating: 5
-
-  - stop: "Día 15: Llegada a Hoi An"
-    name: "Hotel en An Bang Beach"
-    type: "hotel"
-    address: "An Bang Beach, Hoi An"
-    price_per_night: 60.00
-    nights: 6
-    booking_platform: "Booking.com"
-    notes: "Fuera del centro turístico, junto a la playa."
-
-  - stop: "Día 21: Llegada a Ho Chi Minh"
-    name: "Hotel District 1"
-    type: "hotel"
-    address: "District 1, Ho Chi Minh City"
-    price_per_night: 50.00
-    nights: 2
-    booking_platform: "Booking.com"
-    notes: "Zona céntrica."
-
-  - stop: "Día 23: Delta - Can Tho"
-    name: "Hotel en Can Tho"
-    type: "hotel"
-    address: "Can Tho"
-    price_per_night: 40.00
-    nights: 1
-    booking_platform: "Booking.com"
-    notes: "Una noche para el mercado flotante."
-
-# ============================================
-# POSTS (Experiencias por día)
-# ============================================
-posts:
-  # === DÍA 1 ===
-  - stop: "Día 1: Llegada a Hanoi"
-    title: "Descanso tras vuelo"
-    content: "Llegada. Check-in y paseo suave por la zona."
-    type: "tip"
-
-  - stop: "Día 1: Llegada a Hanoi"
-    title: "Tip: E-Visa Vietnam"
-    content: |
-      Obligatorio. Tramitar en web oficial (evisa.xuatnhapcanh.gov.vn).
-      Al menos 3 semanas antes. Coste $25.
-    type: "tip"
-
-  - stop: "Día 1: Llegada a Hanoi"
-    title: "Tip: Grab"
-    content: "El Uber de Vietnam. Usarlo para todo en ciudades."
-    type: "tip"
-
-  # === DÍA 2 ===
-  - stop: "Día 2: Hanoi Alternativo"
-    title: "Museo de Etnología"
-    content: |
-      Impresionante y vacío.
-      Historia de las 54 etnias de Vietnam.
-      Jardines con casas tradicionales.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Vietnam+Museum+of+Ethnology+Hanoi)
-    type: "place"
-    rating: 5
-    duration: "3 hours"
-    price: 5.00
-
-  - stop: "Día 2: Hanoi Alternativo"
-    title: "Puente Long Bien"
-    content: |
-      Puente histórico sobre el río Rojo.
-      Vistas de la ciudad. Mejor al atardecer.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Long+Bien+Bridge+Hanoi)
-    type: "place"
-    rating: 4
-    duration: "1 hour"
-
-  - stop: "Día 2: Hanoi Alternativo"
-    title: "Weekend Night Market"
-    content: |
-      Viernes a Domingo. Recorre el Old Quarter.
-      Ropa, artesanía y comida callejera.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hanoi+Night+Market+Old+Quarter)
-    type: "place"
-    rating: 4
-    duration: "2 hours"
-
-  # === DÍA 3 ===
-  - stop: "Día 3: Street Food"
-    title: "Tour Street Food"
-    content: |
-      Tour privado enfocado en callejones ocultos.
-      
-      Platos imprescindibles:
-      - *Bun Cha*: Cerdo a la parrilla con fideos
-      - *Egg Coffee*: Café con crema de huevo
-      - *Pho*: La sopa nacional
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hanoi+street+food+tour+Bun+Cha)
-    type: "activity"
-    rating: 5
-    price: 30.00
-    duration: "3 hours"
-
-  # === DÍA 4 ===
-  - stop: "Día 4: Mañana Libre + Traslado"
-    title: "Mañana libre"
-    content: "Últimas compras o paseo por Hanoi."
-    type: "tip"
-
-  - stop: "Día 4: Mañana Libre + Traslado"
-    title: "Traslado al puerto"
-    content: |
-      Traslado privado para el crucero Lan Ha Bay.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hanoi+to+Lan+Ha+Bay+cruise+transfer)
-    type: "transport"
-    duration: "3 hours"
-
-  # === DÍA 4-5 ===
-  - stop: "Día 4-5: Crucero Lan Ha Bay"
-    title: "Crucero Lan Ha"
-    content: |
-      Elegir barcos premium: Indochine o Ylang (van más lejos).
-      
-      Incluido:
-      - Kayak en lagunas cerradas
-      - Baño en playas sin nadie
-      - Noche bajo las estrellas
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Lan+Ha+Bay+cruise+Indochine+Ylang)
-    type: "activity"
-    rating: 5
-    duration: "2 days"
-    price: 200.00
-
-  # === DÍA 5 ===
-  - stop: "Día 5: Llegada a Ninh Binh"
-    title: "Traslado a Ninh Binh"
-    content: |
-      Traslado directo desde el crucero. Check-in.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Lan+Ha+Bay+to+Ninh+Binh+transfer)
-    type: "transport"
-    duration: "3 hours"
-
-  # === DÍA 6 ===
-  - stop: "Día 6: Van Long"
-    title: "Van Long Nature Reserve"
-    content: |
-      Paseo en barca al atardecer (16:30).
-      Espejo de agua perfecto.
-      
-      **Nota ética:** Observación de langures y aves.
-      Mantener silencio. No alimentar fauna.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Van+Long+Nature+Reserve+Ninh+Binh)
-    type: "activity"
-    rating: 5
-    duration: "2 hours"
-    price: 10.00
-
-  # === DÍA 7 ===
-  - stop: "Día 7: Bich Dong"
-    title: "Bich Dong (Pagoda en cueva)"
-    content: |
-      Templo dentro de una cueva natural.
-      Escaleras empinadas pero vale la pena.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Bich+Dong+Pagoda+Ninh+Binh)
-    type: "place"
-    rating: 5
-    duration: "1.5 hours"
-
-  - stop: "Día 7: Bich Dong"
-    title: "Thung Nham (Parque de aves)"
-    content: |
-      Bicicleta por caminos de tierra. Observación de aves.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Thung+Nham+Bird+Garden+Ninh+Binh)
-    type: "activity"
-    rating: 4
-    duration: "3 hours"
-
-  # === DÍA 8 ===
-  - stop: "Día 8: Tren Nocturno"
-    title: "Día libre"
-    content: "Relax antes del tren. Explorar Tam Coc en bici."
-    type: "tip"
-
-  - stop: "Día 8: Tren Nocturno"
-    title: "Tren nocturno a Dong Hoi"
-    content: |
-      Cabina VIP privada 2 pax.
-      Experiencia única de viaje.
-      Reservar en 12Go Asia.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Ninh+Binh+to+Dong+Hoi+sleeper+train)
-    type: "transport"
-    price: 50.00
-    duration: "8 hours"
-
-  # === DÍA 9 ===
-  - stop: "Día 9: Llegada a Phong Nha"
-    title: "Llegada y descanso"
-    content: "Desayuno junto al río Son. Día de adaptación."
-    type: "tip"
-
-  # === DÍA 10 ===
-  - stop: "Día 10: Trekking Privado"
-    title: "Trekking Elephant Cave o Ma Da Valley"
-    content: |
-      Tour con Jungle Boss (operador local).
-      Baño en cuevas cristalinas sin nadie más.
-      
-      **Aviso:** Evitar tours que involucran acoso a animales.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Jungle+Boss+Phong+Nha+Elephant+Cave+trek)
-    type: "activity"
-    rating: 5
-    duration: "8 hours"
-    price: 60.00
-
-  # === DÍA 11 ===
-  - stop: "Día 11: Paradise Cave"
-    title: "Paradise Cave"
-    content: |
-      Una de las cuevas más grandes del mundo.
-      
-      **Tip:** Ir a las 8:00 AM para estar solos en la inmensidad.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Paradise+Cave+Phong+Nha+Vietnam)
-    type: "place"
-    rating: 5
-    duration: "3 hours"
-    price: 15.00
-
-  # === DÍA 12 ===
-  - stop: "Día 12: Traslado a Hue"
-    title: "Traslado a Hue"
-    content: |
-      Limousine Bus o van privada. Paisajes bonitos.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Phong+Nha+to+Hue+transfer)
-    type: "transport"
-    duration: "4 hours"
-
-  - stop: "Día 12: Llegada a Hue"
-    title: "Pagoda Thien Mu"
-    content: |
-      Atardecer en la pagoda más famosa de Hue.
-      A orillas del río Perfume.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Thien+Mu+Pagoda+Hue+Vietnam)
-    type: "place"
-    rating: 5
-    duration: "1.5 hours"
-
-  # === DÍA 13 ===
-  - stop: "Día 13: Tumbas Imperiales"
-    title: "Tumba de Minh Mang"
-    content: |
-      La más atmosférica. Jardines y lagos.
-      Ir temprano para evitar grupos.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Minh+Mang+Tomb+Hue+Vietnam)
-    type: "place"
-    rating: 5
-    duration: "2 hours"
-    price: 10.00
-
-  - stop: "Día 13: Tumbas Imperiales"
-    title: "Tumba de Tu Duc"
-    content: |
-      Arquitectura refinada. 
-      El emperador diseñó su propia tumba como retiro.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tu+Duc+Tomb+Hue+Vietnam)
-    type: "place"
-    rating: 5
-    duration: "1.5 hours"
-    price: 5.00
-
-  # === DÍA 14 ===
-  - stop: "Día 14: Laguna Tam Giang"
-    title: "Laguna Tam Giang"
-    content: |
-      Excursión al atardecer a laguna de pescadores.
-      Cena de marisco local sobre el agua.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tam+Giang+Lagoon+Hue+sunset+tour)
-    type: "activity"
-    rating: 5
-    duration: "4 hours"
-    price: 30.00
-
-  # === DÍA 15 ===
-  - stop: "Día 15: Hai Van Pass"
-    title: "Hai Van Pass"
-    content: |
-      El paso de montaña más espectacular de Vietnam.
-      En jeep o moto. Vistas mar y montañas.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hai+Van+Pass+motorcycle+tour)
-    type: "activity"
-    rating: 5
-    duration: "4 hours"
-
-  - stop: "Día 15: Llegada a Hoi An"
-    title: "Check-in An Bang Beach"
-    content: "Llegada. Atardecer en la playa."
-    type: "tip"
-
-  # === DÍA 16 ===
-  - stop: "Día 16: Vida en Arrozales"
-    title: "Bicicleta entre arrozales"
-    content: |
-      Zona de Cam Thanh. Búfalos de agua.
-      
-      **Nota ética:** NO montar en búfalos (práctica dañina).
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Cam+Thanh+bicycle+tour+Hoi+An+rice+fields)
-    type: "activity"
-    rating: 5
-    duration: "3 hours"
-
-  # === DÍA 17 ===
-  - stop: "Día 17: Islas Cham"
-    title: "Islas Cham - Snorkel/Buceo"
-    content: |
-      Reservar tour privado (evitar barco grande).
-      Coral y peces tropicales.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Cham+Islands+snorkeling+diving+Hoi+An)
-    type: "activity"
-    rating: 4
-    duration: "1 day"
-    price: 50.00
-
-  # === DÍA 18 ===
-  - stop: "Día 18: Ancient Town Early"
-    title: "Ancient Town (6:30 AM)"
-    content: |
-      Visitar temprano para ver mercado local real.
-      Fotos sin gente.
-      Volver al hotel antes de las 10AM (llegan buses).
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hoi+An+Ancient+Town+early+morning)
-    type: "place"
-    rating: 5
-    duration: "3 hours"
-
-  - stop: "Día 18: Ancient Town Early"
-    title: "Hoi An Central Market"
-    content: |
-      Arquitectura colonial. Sección de telas y sastres.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hoi+An+Central+Market+tailors)
-    type: "place"
-    rating: 4
-    duration: "1 hour"
-
-  - stop: "Día 18: Ancient Town Early"
-    title: "Hoi An Night Market"
-    content: |
-      Cientos de farolillos encendidos. Turístico pero bonito.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hoi+An+Lantern+Night+Market)
-    type: "place"
-    rating: 4
-    duration: "1.5 hours"
-
-  # === DÍA 19 ===
-  - stop: "Día 19: Clase de Cocina"
-    title: "Clase de Cocina Hoi An"
-    content: |
-      Hoi An es la capital culinaria de Vietnam.
-      
-      Incluye:
-      - Visita a mercado orgánico Tra Que
-      - Paseo en barca cesta
-      
-      Recomendado: Red Bridge o Thuan Tinh Island.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hoi+An+cooking+class+Red+Bridge)
-    type: "activity"
-    rating: 5
-    price: 40.00
-    duration: "4 hours"
-
-  # === DÍA 20 ===
-  - stop: "Día 20: Día Libre Playa"
-    title: "Día de playa"
-    content: |
-      An Bang Beach. Relax merecido.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=An+Bang+Beach+Hoi+An)
-    type: "activity"
-    rating: 5
-
-  - stop: "Día 20: Día Libre Playa"
-    title: "Cena en restaurantes escondidos"
-    content: |
-      - *Tok.*: Cocina vietnamita moderna
-      - *The Field*: Ambiente arrozales
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tok+restaurant+Hoi+An)
-    type: "restaurant"
-    rating: 5
-    price: 25.00
-
-  # === DÍA 21 ===
-  - stop: "Día 21: Vuelo a Ho Chi Minh"
-    title: "Vuelo Da Nang → Ho Chi Minh"
-    content: |
-      Traslado a aeropuerto. Vuelo interno ~1h30.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Da+Nang+to+Ho+Chi+Minh+flight)
-    type: "transport"
-    duration: "3 hours"
-
-  - stop: "Día 21: Llegada a Ho Chi Minh"
-    title: "Paseo nocturno"
-    content: |
-      Explorar District 1. Walking street.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Ho+Chi+Minh+District+1+walking+street)
-    type: "activity"
-    duration: "2 hours"
-
-  # === DÍA 22 ===
-  - stop: "Día 22: Túneles Cu Chi"
-    title: "Túneles de Cu Chi (Ben Duoc)"
-    content: |
-      Ir a los túneles lejanos (Ben Duoc), NO a Ben Dinh.
-      Menos gente, túneles originales.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Cu+Chi+Tunnels+Ben+Duoc)
-    type: "place"
-    rating: 5
-    duration: "4 hours"
-    price: 20.00
-
-  # === DÍA 23 ===
-  - stop: "Día 23: Delta - Can Tho"
-    title: "Traslado a Can Tho"
-    content: |
-      Van al Delta del Mekong. 4 horas de viaje.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Ho+Chi+Minh+to+Can+Tho+transfer)
-    type: "transport"
-    duration: "4 hours"
-
-  - stop: "Día 23: Delta - Can Tho"
-    title: "Cacao Farm Tour"
-    content: |
-      Visita a plantación de cacao local.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Mekong+Delta+cacao+farm+tour)
-    type: "activity"
-    rating: 4
-    duration: "2 hours"
-
-  # === DÍA 24 ===
-  - stop: "Día 24: Mercado Flotante"
-    title: "Mercado Flotante Cai Rang"
-    content: |
-      **Al amanecer (5:30 AM)** en barca privada pequeña.
-      Desayunar sopa en el río entre barcos de sandías y piñas.
-      Experiencia única.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Cai+Rang+Floating+Market+sunrise)
-    type: "activity"
-    rating: 5
-    duration: "3 hours"
-    price: 20.00
-
-  # === DÍA 25 ===
-  - stop: "Día 25: Vuelta a Ho Chi Minh"
-    title: "Vuelta a la ciudad"
-    content: |
-      Traslado de vuelta a Ho Chi Minh.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Can+Tho+to+Ho+Chi+Minh+transfer)
-    type: "transport"
-    duration: "4 hours"
-
-  - stop: "Día 25: Vuelta a Ho Chi Minh"
-    title: "Mercado Ben Thanh"
-    content: |
-      Icono de la ciudad (Arquitectura colonial).
-      Artesanía, café y souvenirs.
-      **Tip:** Regateo duro, empezar en 30% del precio.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Ben+Thanh+Market+Ho+Chi+Minh)
-    type: "place"
-    rating: 4
-    duration: "2 hours"
-
-  - stop: "Día 25: Vuelta a Ho Chi Minh"
-    title: "Última cena"
-    content: |
-      Cena de despedida. Pho o Banh Mi final.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=best+Pho+restaurant+Ho+Chi+Minh)
-    type: "restaurant"
-    price: 20.00
-
-  - stop: "Día 25: Vuelta a Ho Chi Minh"
-    title: "Vuelo de regreso"
-    content: |
-      Traslado al aeropuerto. Vuelo nocturno a Madrid.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tan+Son+Nhat+Airport+Ho+Chi+Minh)
-    type: "transport"
-
-  # === TIPS (asignados al día 1) ===
-  - stop: "Día 1: Llegada a Hanoi"
-    title: "Tip: 12Go Asia"
-    content: "Plataforma para reservar trenes y buses online."
-    type: "tip"
-
-  - stop: "Día 1: Llegada a Hanoi"
-    title: "Tip: Dengue"
-    content: "Usar repelente fuerte siempre. Vietnam tiene casos todo el año."
-    type: "tip"
-
-  - stop: "Día 1: Llegada a Hanoi"
-    title: "Tip: Ética Animales"
-    content: |
-      - No montar elefantes ni búfalos
-      - No comprar souvenirs de marfil o caparazón
-    type: "tip"
+  - transport_type: "bus"
+    origin: "Can Tho"
+    destination: "Ho Chi Minh City Airport"
+    notes: "Regreso para vuelo."

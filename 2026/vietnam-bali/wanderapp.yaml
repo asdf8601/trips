@@ -1,303 +1,350 @@
-title: 'Vietnam + Bali 2026: Slow & Deep'
-start_date: '2026-07-28'
-end_date: '2026-08-28'
-description: 'Viaje combinado de 32 días: 15 días en Vietnam + 18 días en Bali.
-
+title: "Vietnam + Bali 2026: Slow & Deep"
+start_date: "2026-07-28"
+end_date: "2026-08-28"
+description: |
+  Viaje combinado de 32 días: 15 días en Vietnam + 18 días en Bali.
+  
+  ## Reservas Confirmadas
+  - Vuelos Internacionales (Qatar/Emirates)
+  - Vuelo SGN-DPS (Vietnam Airlines)
+  - Hoteles: Hanoi, Ninh Binh y Crucero Halong
+  
   ## Filosofía
   "Menos destinos, más profundidad. Madrugamos para evitar masas."
-
-  ## Logística
-  Entrada: Hanoi (HAN) → Salida: Bali (DPS)
-  Vuelo intermedio: Ho Chi Minh → Bali (Kuta/DPS)
-  '
 public: true
 budget_total: 8892.26
-local_currency: EUR
+local_currency: "EUR"
 stops:
-- name: 'Día 1: Vuelo Internacional'
-  location: Madrid, Spain
-  visit_date: '2026-07-28'
-  notes: 'Vuelo MAD -> HAN. Salida 09:05.'
-  latitude: 40.4168
-  longitude: -3.7038
-- name: 'Día 2 (Hanoi): Llegada y Exploración'
-  location: Hanoi, Vietnam
-  visit_date: '2026-07-29'
-  notes: |
-    Llegada a Noi Bai (07:15). Traslado al hotel Amanda Boutique.
-    
-    Explorar:
-    - [Lago Hoan Kiem](https://www.google.com/search?q=Hoan+Kiem+Lake+Hanoi)
-    - [Pho callejero Old Quarter](https://www.google.com/search?q=best+pho+Old+Quarter+Hanoi)
-  latitude: 21.0285
-  longitude: 105.8542
-- name: 'Día 3 (Hanoi): Cocina y Mercados'
-  location: Old Quarter, Hanoi, Vietnam
-  visit_date: '2026-07-30'
-  notes: 'Clase de cocina, mercados locales y relax.'
-  latitude: 21.034
-  longitude: 105.85
-- name: 'Día 4 (Ninh Binh): Traslado'
-  location: Ninh Binh, Vietnam
-  visit_date: '2026-07-31'
-  notes: 'Traslado a Ninh Binh (~2h). Check-in Cao Thach Homestay.'
-  latitude: 20.2539
-  longitude: 105.975
-- name: 'Día 5 (Ninh Binh): Trang An'
-  location: Trang An, Ninh Binh, Vietnam
-  visit_date: '2026-08-01'
-  notes: 'Bote por Trang An y Pagoda Bich Dong.'
-  latitude: 20.25
-  longitude: 105.9333
-- name: 'Día 6 (Halong): Crucero Día 1'
-  location: Ha Long Bay, Vietnam
-  visit_date: '2026-08-02'
-  notes: 'Embarque Swan Cruises Halong.'
-  latitude: 20.9101
-  longitude: 107.1839
-- name: 'Día 7 (Halong): Crucero Día 2'
-  location: Ha Long Bay, Vietnam
-  visit_date: '2026-08-03'
-  notes: 'Día completo en crucero por Bai Tu Long.'
-  latitude: 20.9101
-  longitude: 107.1839
-- name: 'Día 8 (Hanoi): Tren Nocturno'
-  location: Hanoi Station, Vietnam
-  visit_date: '2026-08-04'
-  notes: 'Regreso a Hanoi. Tren SE3 19:30 hacia Hue.'
-  latitude: 21.0245
-  longitude: 105.8412
-- name: 'Día 9 (Hue): Llegada'
-  location: Hue, Vietnam
-  visit_date: '2026-08-05'
-  notes: 'Llegada 08:30, traslado hotel, Río del Perfume.'
-  latitude: 16.4637
-  longitude: 107.5909
-- name: 'Día 10 (Hue): Ciudadela'
-  location: Hue, Vietnam
-  visit_date: '2026-08-06'
-  notes: 'Ciudadela Imperial y Tumbas.'
-  latitude: 16.4637
-  longitude: 107.5909
-- name: 'Día 11 (Hoi An): Traslado'
-  location: Hoi An, Vietnam
-  visit_date: '2026-08-07'
-  notes: 'Hai Van Pass desde Hue.'
-  latitude: 15.8801
-  longitude: 108.338
-- name: 'Día 12 (Hoi An): Casco Histórico'
-  location: Hoi An, Vietnam
-  visit_date: '2026-08-08'
-  notes: 'Hoi An sin turistas 6:30 AM.'
-  latitude: 15.91
-  longitude: 108.36
-- name: 'Día 13 (HCMC): Llegada'
-  location: Ho Chi Minh City, Vietnam
-  visit_date: '2026-08-09'
-  notes: 'Vuelo Da Nang -> SGN.'
-  latitude: 10.8231
-  longitude: 106.6297
-- name: 'Día 14 (HCMC): Ciudad'
-  location: Ho Chi Minh City, Vietnam
-  visit_date: '2026-08-10'
-  notes: 'Historia y Ben Thanh Market.'
-  latitude: 10.8231
-  longitude: 106.6297
-- name: 'Día 15 (Ubud): Llegada a Bali'
-  location: Ubud, Bali, Indonesia
-  visit_date: '2026-08-11'
-  notes: 'Vuelo SGN-DPS (10:10).'
-  latitude: -8.5069
-  longitude: 115.2625
-- name: 'Día 16 (Ubud): Spa Day'
-  location: Ubud, Bali, Indonesia
-  visit_date: '2026-08-12'
-  notes: 'Relación y masajes.'
-  latitude: -8.5069
-  longitude: 115.2625
-- name: 'Día 17 (Ubud): Arrozales'
-  location: Tegalalang, Ubud, Bali
-  visit_date: '2026-08-13'
-  notes: 'Tegalalang y Tirta Empul.'
-  latitude: -8.4333
-  longitude: 115.2833
-- name: 'Día 18 (Ubud): Monte Batur'
-  location: Mount Batur, Bali, Indonesia
-  visit_date: '2026-08-14'
-  notes: 'Trekking amanecer.'
-  latitude: -8.2422
-  longitude: 115.375
-- name: 'Día 19 (Ubud): Profundo'
-  location: Ubud, Bali, Indonesia
-  visit_date: '2026-08-15'
-  notes: 'Monkey Forest y Cocina.'
-  latitude: -8.5069
-  longitude: 115.2625
-- name: 'Día 20 (Amed): Llegada'
-  location: Amed, Bali, Indonesia
-  visit_date: '2026-08-16'
-  notes: 'Traslado costa este.'
-  latitude: -8.3486
-  longitude: 115.6392
-- name: 'Día 21 (Amed): Buceo'
-  location: Amed, Bali, Indonesia
-  visit_date: '2026-08-17'
-  notes: 'USS Liberty.'
-  latitude: -8.3486
-  longitude: 115.6392
-- name: 'Día 22 (Munduk): Llegada'
-  location: Munduk, Bali, Indonesia
-  visit_date: '2026-08-18'
-  notes: 'Traslado montañas.'
-  latitude: -8.2667
-  longitude: 115.0833
-- name: 'Día 23 (Munduk): Cascadas'
-  location: Munduk, Bali, Indonesia
-  visit_date: '2026-08-19'
-  notes: 'Senderismo y café.'
-  latitude: -8.2667
-  longitude: 115.0833
-- name: 'Día 24 (Uluwatu): Llegada'
-  location: Uluwatu, Bali, Indonesia
-  visit_date: '2026-08-20'
-  notes: 'Traslado sur y Tanah Lot.'
-  latitude: -8.8291
-  longitude: 115.0849
-- name: 'Día 25 (Uluwatu): Templos'
-  location: Uluwatu, Bali, Indonesia
-  visit_date: '2026-08-21'
-  notes: 'Uluwatu Temple y Danza Kecak.'
-  latitude: -8.8291
-  longitude: 115.0849
-- name: 'Día 26 (Uluwatu): Playa'
-  location: Uluwatu, Bali
-  visit_date: '2026-08-22'
-  notes: 'Suluban Beach.'
-  latitude: -8.8
-  longitude: 115.1
-- name: 'Día 27 (Uluwatu): Nusa Penida'
-  location: Nusa Penida, Indonesia
-  visit_date: '2026-08-23'
-  notes: 'Excursión día completo.'
-  latitude: -8.7278
-  longitude: 115.5444
-- name: 'Día 28 (Uluwatu): Chill'
-  location: Uluwatu, Bali
-  visit_date: '2026-08-24'
-  notes: Playa.
-  latitude: -8.8291
-  longitude: 115.0849
-- name: 'Día 29 (Uluwatu): Chill'
-  location: Uluwatu, Bali
-  visit_date: '2026-08-25'
-  notes: Playa.
-  latitude: -8.8291
-  longitude: 115.0849
-- name: 'Día 30 (Uluwatu): Chill'
-  location: Uluwatu, Bali
-  visit_date: '2026-08-26'
-  notes: Playa.
-  latitude: -8.8291
-  longitude: 115.0849
-- name: 'Día 31 (Uluwatu): Chill'
-  location: Uluwatu, Bali
-  visit_date: '2026-08-27'
-  notes: Preparativos.
-  latitude: -8.8291
-  longitude: 115.0849
-- name: 'Día 32 (Bali): Regreso'
-  location: Ngurah Rai Airport, Bali
-  visit_date: '2026-08-28'
-  notes: 'Vuelo DPS -> MAD 00:35.'
-  latitude: -8.7467
-  longitude: 115.1667
+  - name: "Hanoi"
+    location: "Hanoi, Vietnam"
+    visit_date: "2026-07-29"
+    arrival_date: "2026-07-29"
+    departure_date: "2026-07-31"
+    notes: "Días 2-3: Llegada y exploración Old Quarter."
+    latitude: 21.0285
+    longitude: 105.8542
+    activities:
+      - title: "Paseo Lago Hoan Kiem"
+        content: "Paseo de adaptación a la llegada."
+        type: "place"
+        rating: 4
+      - title: "Clase de Cocina"
+        content: "Pho, spring rolls, banh mi."
+        type: "activity"
+        rating: 5
+      - title: "Mercado Nocturno Dong Xuan"
+        content: "Compras y ambiente local."
+        type: "place"
+        rating: 3
+
+  - name: "Ninh Binh"
+    location: "Ninh Binh, Vietnam"
+    visit_date: "2026-07-31"
+    arrival_date: "2026-07-31"
+    departure_date: "2026-08-02"
+    notes: "Días 4-5: Trang An y naturaleza."
+    latitude: 20.2539
+    longitude: 105.9750
+    activities:
+      - title: "Paseo en Bici Arrozales"
+        content: "Explorar la zona de Tam Coc."
+        type: "activity"
+        rating: 5
+      - title: "Trang An Boat Tour"
+        content: "Paseo en barca UNESCO (temprano)."
+        type: "activity"
+        rating: 5
+      - title: "Bich Dong Pagoda"
+        content: "Pagoda en la cueva."
+        type: "place"
+        rating: 4
+      - title: "Hang Mua Peak"
+        content: "Subida al atardecer para vistas panorámicas."
+        type: "place"
+        rating: 5
+
+  - name: "Halong Bay"
+    location: "Ha Long Bay, Vietnam"
+    visit_date: "2026-08-02"
+    arrival_date: "2026-08-02"
+    departure_date: "2026-08-04"
+    notes: "Días 6-7: Crucero Bai Tu Long. Confirmado."
+    latitude: 20.9101
+    longitude: 107.1839
+    activities:
+      - title: "Crucero Swan Cruises"
+        content: "Navegación 2D/1N por Bai Tu Long. Kayak y cuevas."
+        type: "activity"
+        rating: 5
+        price: 550.00
+
+  - name: "Hue"
+    location: "Hue, Vietnam"
+    visit_date: "2026-08-05"
+    arrival_date: "2026-08-05"
+    departure_date: "2026-08-07"
+    notes: "Días 9-10: Ciudadela Imperial."
+    latitude: 16.4637
+    longitude: 107.5909
+    activities:
+      - title: "Río del Perfume"
+        content: "Paseo al atardecer."
+        type: "place"
+        rating: 4
+      - title: "Ciudadela Imperial"
+        content: "Historia imperial de Vietnam."
+        type: "place"
+        rating: 5
+      - title: "Tumba de Tu Duc"
+        content: "La tumba más impresionante."
+        type: "place"
+        rating: 5
+
+  - name: "Hoi An"
+    location: "Hoi An, Vietnam"
+    visit_date: "2026-08-07"
+    arrival_date: "2026-08-07"
+    departure_date: "2026-08-09"
+    notes: "Días 11-12: Casco antiguo y farolillos."
+    latitude: 15.8801
+    longitude: 108.3380
+    activities:
+      - title: "Hai Van Pass"
+        content: "Traslado escénico desde Hue."
+        type: "activity"
+        rating: 5
+      - title: "Hoi An 6:30 AM"
+        content: "Disfrutar del pueblo sin turistas."
+        type: "place"
+        rating: 5
+      - title: "Clase de Cocina Hoi An"
+        content: "Famosa gastronomía local."
+        type: "activity"
+        rating: 5
+
+  - name: "Ho Chi Minh City"
+    location: "Ho Chi Minh City, Vietnam"
+    visit_date: "2026-08-09"
+    arrival_date: "2026-08-09"
+    departure_date: "2026-08-13"
+    notes: "Días 13-17: Vuelo desde Da Nang. Cu Chi, Mekong y ciudad."
+    latitude: 10.8231
+    longitude: 106.6297
+    activities:
+      - title: "Catedral Notre Dame y Correo Central"
+        content: "Visita exterior a la llegada."
+        type: "place"
+        rating: 3
+      - title: "Túneles de Cu Chi"
+        content: "Complejo subterráneo de la guerra. Tour de medio día (~20€/persona)."
+        type: "activity"
+        rating: 5
+        price: 40.00
+        duration: "5h"
+      - title: "Palacio Reunificación"
+        content: "Historia de la guerra."
+        type: "place"
+        rating: 4
+      - title: "Delta del Mekong"
+        content: "Excursión día completo: barcas, frutas, caramelos de coco, Templo Cao Dai (~25€/persona)."
+        type: "activity"
+        rating: 5
+        price: 50.00
+        duration: "8h"
+      - title: "Museo de la Guerra"
+        content: "Museo impactante sobre la guerra de Vietnam (~2€)."
+        type: "place"
+        rating: 5
+      - title: "Ben Thanh Market"
+        content: "Mercado central."
+        type: "place"
+        rating: 3
+      - title: "Bui Vien Street"
+        content: "Zona de bares y ambiente nocturno."
+        type: "place"
+        rating: 3
+
+  - name: "Ubud"
+    location: "Ubud, Bali, Indonesia"
+    visit_date: "2026-08-13"
+    arrival_date: "2026-08-13"
+    departure_date: "2026-08-16"
+    notes: "Días 17-20: Llegada a Bali. Arrozales y cultura."
+    latitude: -8.5069
+    longitude: 115.2625
+    activities:
+      - title: "Spa Day"
+        content: "Relax balinés a la llegada."
+        type: "activity"
+        rating: 5
+      - title: "Arrozales Tegalalang"
+        content: "Icono de Bali."
+        type: "place"
+        rating: 4
+      - title: "Trekking Monte Batur"
+        content: "Amanecer en el volcán."
+        type: "activity"
+        rating: 5
+
+  - name: "Amed"
+    location: "Amed, Bali, Indonesia"
+    visit_date: "2026-08-16"
+    arrival_date: "2026-08-16"
+    departure_date: "2026-08-18"
+    notes: "Días 20-21: Costa Este."
+    latitude: -8.3486
+    longitude: 115.6392
+    activities:
+      - title: "Buceo USS Liberty"
+        content: "Pecio en Tulamben."
+        type: "activity"
+        rating: 5
+
+  - name: "Munduk"
+    location: "Munduk, Bali, Indonesia"
+    visit_date: "2026-08-18"
+    arrival_date: "2026-08-18"
+    departure_date: "2026-08-20"
+    notes: "Días 22-23: Montañas."
+    latitude: -8.2667
+    longitude: 115.0833
+    activities:
+      - title: "Cascadas Munduk"
+        content: "Senderismo en la selva."
+        type: "activity"
+        rating: 5
+
+  - name: "Uluwatu"
+    location: "Uluwatu, Bali, Indonesia"
+    visit_date: "2026-08-20"
+    arrival_date: "2026-08-20"
+    departure_date: "2026-08-28"
+    notes: "Días 24-31: Surf y templos."
+    latitude: -8.8291
+    longitude: 115.0849
+    activities:
+      - title: "Templo Uluwatu & Kecak"
+        content: "Atardecer en el acantilado."
+        type: "place"
+        rating: 5
+      - title: "Nusa Penida Day Trip"
+        content: "Excursión a Kelingking Beach."
+        type: "activity"
+
 accommodations:
-- stop: 'Día 2 (Hanoi): Llegada y Exploración'
-  name: Amanda Boutique Hotel & Travel
-  address: 62E Phố Cầu Gỗ, Hoan Kiem, Hanoi
-  notes: |
-    Confirmado. Precio total 2 noches: 39,58 € (VND 1.209.600).
-    [Google Maps](https://www.google.com/maps/search/?api=1&query=Amanda+Boutique+Hotel+%26+Travel+Hanoi)
-- stop: 'Día 4 (Ninh Binh): Traslado'
-  name: Cao Thạch Homestay
-  address: Hai Nham Village, Ninh Hai Commune, Ninh Binh
-  notes: |
-    Confirmado. Precio total 2 noches: 25,57 € (VND 781.488).
-    [Google Maps](https://www.google.com/maps/search/?api=1&query=Cao+Thach+Homestay+Ninh+Binh)
-- stop: 'Día 6 (Halong): Crucero Día 1'
-  name: Swan Cruises Halong
-  address: Hon Gai Wharf, Ha Long
-  notes: |
-    Confirmado. Suite con balcón. Pensión completa. Precio total 550,00 € (VND 16.807.084).
-    [Google Maps (Puerto)](https://www.google.com/maps/search/?api=1&query=Hon+Gai+Wharf+Ha+Long)
+  - stop: "Hanoi"
+    name: "Amanda Boutique Hotel & Travel"
+    address: "62E Phố Cầu Gỗ, Hoan Kiem, Hanoi"
+    rating: 4
+    notes: "CONFIRMADO. Precio: 39.58 EUR (2 noches)."
+
+  - stop: "Ninh Binh"
+    name: "Cao Thạch Homestay"
+    address: "Hai Nham Village, Ninh Binh"
+    rating: 4
+    notes: "CONFIRMADO. Precio: 25.57 EUR (2 noches)."
+
+  - stop: "Halong Bay"
+    name: "Swan Cruises Halong"
+    address: "Hon Gai Wharf, Ha Long"
+    rating: 5
+    notes: "CONFIRMADO. Precio: 550.00 EUR (2 noches/pension completa)."
+
+  - stop: "Hue"
+    name: "Hotel en Hue"
+    address: "Hue, Vietnam"
+    rating: 4
+    notes: "Pendiente. Presupuesto ~50 EUR."
+
+  - stop: "Hoi An"
+    name: "Hotel en Hoi An"
+    address: "Hoi An, Vietnam"
+    rating: 4
+    notes: "Pendiente. Presupuesto ~60 EUR."
+
+  - stop: "Ho Chi Minh City"
+    name: "Hotel en HCMC"
+    address: "District 1, HCMC"
+    rating: 4
+    notes: "Pendiente. 4 noches. Presupuesto ~100 EUR."
+
+  - stop: "Ubud"
+    name: "Hotel en Ubud"
+    address: "Ubud, Bali"
+    rating: 4
+    notes: "Pendiente. 3 noches. Presupuesto ~90 EUR."
+
+  - stop: "Amed"
+    name: "Hotel en Amed"
+    address: "Amed, Bali"
+    rating: 4
+    notes: "Pendiente. Presupuesto ~60 EUR."
+
+  - stop: "Munduk"
+    name: "Hotel en Munduk"
+    address: "Munduk, Bali"
+    rating: 4
+    notes: "Pendiente. Presupuesto ~60 EUR."
+
+  - stop: "Uluwatu"
+    name: "Hotel en Uluwatu"
+    address: "Uluwatu, Bali"
+    rating: 5
+    notes: "Pendiente. Presupuesto ~400 EUR."
+
 transports:
-- transport_type: flight
-  origin: Madrid (MAD)
-  destination: Hanoi (HAN)
-  operator: Qatar Airways
-  reference_number: QR148/QR982
-  departure_date: '2026-07-28T09:05:00+00:00'
-  arrival_date: '2026-07-29T07:15:00+00:00'
-  price: 2149.28
-  notes: 'Ref: XG63OJ. Escala en Doha.'
-- transport_type: flight
-  origin: Hanoi Station
-  destination: Hue Station
-  operator: Vietnam Railways
-  reference_number: SE3
-  departure_date: '2026-08-04T19:30:00+00:00'
-  arrival_date: '2026-08-05T08:30:00+00:00'
-  price: 120.0
-  notes: 'Tren nocturno. Bajarse en Hue.'
-- transport_type: flight
-  origin: Da Nang (DAD)
-  destination: Ho Chi Minh (SGN)
-  operator: VietJet
-  reference_number: VJ
-  departure_date: '2026-08-09T10:00:00+00:00'
-  arrival_date: '2026-08-09T11:15:00+00:00'
-  price: 60.0
-  notes: 'Vuelo interno desde Da Nang.'
-- transport_type: flight
-  origin: Ho Chi Minh (SGN)
-  destination: Bali (DPS)
-  operator: Vietnam Airlines
-  reference_number: VN641
-  departure_date: '2026-08-11T10:10:00+00:00'
-  arrival_date: '2026-08-11T15:00:00+00:00'
-  price: 309.44
-  notes: 'Ref: XGDT9W.'
-- transport_type: flight
-  origin: Bali (DPS)
-  destination: Madrid (MAD)
-  operator: Emirates
-  reference_number: EK399/EK141
-  departure_date: '2026-08-28T00:35:00+00:00'
-  arrival_date: '2026-08-28T13:30:00+00:00'
-  price: 2083.54
-  notes: 'Ref: C5Z6VN.'
-posts:
-- stop: 'Día 2 (Hanoi): Llegada y Exploración'
-  title: 'Tip: E-Visa Vietnam'
-  content: Españoles 15 días sin visa.
-  type: tip
-- stop: 'Día 3 (Hanoi): Cocina y Mercados'
-  title: Clase de Cocina
-  content: Pho, spring rolls, banh mi.
-  type: activity
-  rating: 5
-- stop: 'Día 5 (Ninh Binh): Trang An'
-  title: Trang An
-  content: Paseo en barca UNESCO.
-  type: activity
-  rating: 5
-- stop: 'Día 7 (Halong): Crucero Día 2'
-  title: Crucero Bai Tu Long
-  content: Navegar entre miles de islotes kársticos.
-  type: activity
-  rating: 5
-- stop: 'Día 12 (Hoi An): Casco Histórico'
-  title: Hoi An 6:30 AM
-  content: Disfrutar del pueblo sin turistas.
-  type: place
-  rating: 5
+  - transport_type: "flight"
+    origin: "Madrid (MAD)"
+    destination: "Hanoi (HAN)"
+    operator: "Qatar Airways"
+    reference_number: "XG63OJ"
+    departure_date: "2026-07-28T09:05:00+02:00"
+    arrival_date: "2026-07-29T07:15:00+07:00"
+    price: 2116.41
+    notes: "CONFIRMADO. Ida. (Parte del total 4232.82 EUR)."
+
+  - transport_type: "bus"
+    origin: "Hanoi"
+    destination: "Ninh Binh"
+    price: 15.00
+    notes: "Traslado privado."
+
+  - transport_type: "bus"
+    origin: "Ninh Binh"
+    destination: "Halong Bay"
+    price: 20.00
+    notes: "Traslado privado."
+
+  - transport_type: "train"
+    origin: "Hanoi"
+    destination: "Hue"
+    operator: "Vietnam Railways"
+    reference_number: "SE3"
+    departure_date: "2026-08-04T19:30:00+07:00"
+    arrival_date: "2026-08-05T08:30:00+07:00"
+    price: 60.00
+    notes: "Tren nocturno."
+
+  - transport_type: "bus"
+    origin: "Hue"
+    destination: "Hoi An"
+    price: 20.00
+    notes: "Vía Hai Van Pass."
+
+  - transport_type: "flight"
+    origin: "Da Nang (DAD)"
+    destination: "Ho Chi Minh (SGN)"
+    operator: "VietJet"
+    departure_date: "2026-08-09T10:00:00+07:00"
+    price: 60.00
+    notes: "Pendiente."
+
+  - transport_type: "flight"
+    origin: "Bali (DPS)"
+    destination: "Madrid (MAD)"
+    operator: "Emirates"
+    reference_number: "C5Z6VN"
+    departure_date: "2026-08-28T00:35:00+08:00"
+    arrival_date: "2026-08-28T13:30:00+02:00"
+    price: 2116.41
+    notes: "CONFIRMADO. Vuelta. (Parte del total 4232.82 EUR)."

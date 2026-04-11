@@ -1,16 +1,15 @@
-# 📄 Wander App YAML Schema (v2.0)
+# 📄 Wander App YAML Schema (v3.1)
 
-Este documento define la estructura oficial para generar el archivo `wanderapp.yaml` compatible con la nueva versión de la aplicación.
+Este documento define la estructura oficial para generar el archivo `wanderapp.yaml` compatible con la versión 3.1 de la aplicación (Actividades anidadas en Stops).
 
 ---
 
 ## 1. Estructura Global
 El archivo debe contener las siguientes secciones principales:
 - **Metadata**: Información general del viaje.
-- **Stops**: Lista de paradas diarias (una por cada día del viaje).
-- **Accommodations**: Lista de alojamientos vinculados a las paradas.
-- **Transports**: Lista de transportes (vuelos, trenes, buses).
-- **Posts**: Experiencias, tips o lugares destacados por parada.
+- **Stops**: Lista de paradas principales, que ahora **contienen sus actividades**.
+- **Accommodations**: Lista de alojamientos vinculados a las paradas (Nivel Raíz).
+- **Transports**: Lista de transportes (Nivel Raíz).
 
 ---
 
@@ -19,59 +18,52 @@ El archivo debe contener las siguientes secciones principales:
 ### Metadata
 - `title`: Título del viaje.
 - `start_date` / `end_date`: Fechas en formato `'YYYY-MM-DD'`.
-- `description`: Bloque de texto (usar `|` para multilínea) con Markdown.
+- `description`: Bloque de texto con Markdown.
+- `public`: `true` o `false`.
 - `budget_total`: Número decimal.
-- `local_currency`: Código de moneda (ej: `EUR`).
+- `local_currency`: Código de moneda (ej: `EUR`, `JPY`).
 
-### Stops (Paradas Diarias)
-Cada parada debe seguir este formato:
+### Stops (Paradas con Actividades Anidadas)
+Las paradas deben agruparse por **estancia/ubicación** (no por día).
 ```yaml
-- name: 'Día X (Ciudad): Evento'
-  location: Nombre de la ubicación
-  visit_date: 'YYYY-MM-DD'
-  notes: |
-    Bloque de texto con links y detalles.
+- name: Nombre único (ej: "Bangkok")
+  location: Ciudad, País
+  visit_date: 'YYYY-MM-DD' (Inicio estancia)
+  arrival_date: 'YYYY-MM-DD'
+  departure_date: 'YYYY-MM-DD' (Fin estancia)
+  notes: 'Resumen.'
   latitude: decimal
   longitude: decimal
+  activities:
+    - title: Título
+      content: Descripción (Markdown)
+      type: activity | place | restaurant | general | tip
+      rating: 1-5
+      price: decimal
+      duration: string
+      image_urls: []
 ```
 
-### Accommodations (Simplificado)
+### Accommodations (Nivel Raíz)
 Se vinculan a la parada mediante el nombre exacto del `stop`.
 ```yaml
-- stop: 'Día X (Ciudad): Evento'
+- stop: Nombre exacto del stop
   name: Nombre del Hotel
-  address: Dirección completa
-  notes: 'Detalles de precio, confirmación y estado.'
+  address: Dirección
+  rating: 1-5
+  notes: Detalles.
 ```
 
-### Transports (Universal)
-Reemplaza la antigua sección de `flights`. Soporta cualquier medio de transporte.
+### Transports (Nivel Raíz)
+Sección independiente en la raíz.
 ```yaml
 - transport_type: flight | train | bus | boat
-  origin: Ciudad de origen
-  destination: Ciudad de destino
-  operator: Aerolínea o compañía
-  reference_number: Número de vuelo, tren o reserva
+  origin: Ciudad Origen
+  destination: Ciudad Destino
+  operator: Compañía
+  reference_number: Nº Vuelo/Billete
   departure_date: 'YYYY-MM-DDTHH:MM:SS+00:00'
   arrival_date: 'YYYY-MM-DDTHH:MM:SS+00:00'
   price: decimal
-  notes: |
-    Detalles de clase, asientos y escalas.
+  notes: Detalles.
 ```
-
-### Posts (Experiencias)
-```yaml
-- stop: 'Día X (Ciudad): Evento'
-  title: Título corto
-  content: Descripción breve
-  type: tip | place | activity
-  rating: 1-5 (opcional)
-```
-
----
-
-## 3. Reglas de Generación (CRÍTICO)
-1. **Sincronización:** El nombre del `stop` en `accommodations`, `transports` (si aplica) y `posts` debe coincidir **exactamente** con el definido en la sección `stops`.
-2. **Formato de Fechas:** Usar siempre comillas para fechas `'YYYY-MM-DD'`.
-3. **Bloques de Texto:** Usar el operador `|` en YAML para descripciones largas que contengan Markdown o saltos de línea.
-4. **Coordenadas:** Asegurarse de incluir `latitude` y `longitude` para que la app pueda posicionar la parada en el mapa.

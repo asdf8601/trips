@@ -1,7 +1,3 @@
-# Japón 2026: Naturaleza, Aventura y Cultura (Slow Travel)
-# Generado para importar en Wander App
-# Estructura: Una parada por día con posts asignados
-
 title: "Japón 2026: Naturaleza, Aventura y Cultura"
 start_date: "2026-07-30"
 end_date: "2026-08-20"
@@ -12,705 +8,261 @@ description: |
   - Ritmo relajado, sin prisas por "tachar" sitios turísticos
   - Aventura y naturaleza: escalada, senderismo, onsen
   - Comida callejera y cultura local
-  
-  ## Highlights
-  - Tokyo: Tradición y modernidad
-  - Alpes Japoneses: Matsumoto, Kamikochi, Hirayu Onsen
-  - Ruta Nakasendo: Magome-Tsumago (camino de los samuráis)
-  - Kyoto: El corazón cultural de Japón
 public: true
 budget_total: 6800.00
 local_currency: "JPY"
-
-# ============================================
-# STOPS (Una parada por día)
-# ============================================
 stops:
-  # ========== TOKYO (Días 1-5) ==========
-  - name: "Día 1: Llegada a Tokyo"
+  - name: "Tokyo (Inicio)"
     location: "Tokyo, Japón"
     visit_date: "2026-07-30"
     arrival_date: "2026-07-30"
-    departure_date: "2026-07-30"
-    notes: "Llegada a Haneda. Traslado al hotel en Asakusa. Cena ligera."
+    departure_date: "2026-08-04"
+    notes: "Días 1-5: Asakusa, Modernidad y Monte Mitake. Base en Old Tokyo."
     latitude: 35.7148
     longitude: 139.7967
+    activities:
+      - title: "Visit Japan Web & Suica"
+        content: |
+          Rellenar Visit Japan Web antes de volar.
+          Añadir Suica a Apple Wallet o comprar Pasmo Passport.
+        type: "tip"
+      - title: "Cena en Ramen Street"
+        content: "Tokyo Station. Varios restaurantes de ramen de distintas regiones."
+        type: "restaurant"
+        price: 15.00
+        duration: "1 hour"
+      - title: "Senso-ji Temple"
+        content: "El templo más antiguo. Ir a las 6:30 AM para silencio."
+        type: "place"
+        rating: 5
+        duration: "2 hours"
+      - title: "Parque Ueno"
+        content: "Museos, zoo y paseo tranquilo."
+        type: "place"
+        duration: "3 hours"
+      - title: "Senderismo Monte Mitake"
+        content: "Escapada verde. Tren directo 1.5h. Cedros sagrados."
+        type: "activity"
+        rating: 5
+        duration: "6 hours"
+      - title: "Gobierno Metropolitano & Shinjuku"
+        content: "Vistas gratis planta 45. Cena en Omoide Yokocho (callejón yakitori)."
+        type: "place"
+        rating: 5
+        duration: "3 hours"
+      - title: "B-Pump Ogikubo (Escalada)"
+        content: "Rocódromo boulder de clase mundial."
+        type: "activity"
+        price: 25.00
+        duration: "3 hours"
+      - title: "Takkyubin (Envío maletas)"
+        content: "Enviar maleta grande a Kyoto para viajar ligero a los Alpes."
+        type: "tip"
+        price: 20.00
 
-  - name: "Día 2: Tokyo Tradición"
-    location: "Asakusa, Tokyo, Japón"
-    visit_date: "2026-07-31"
-    notes: "Senso-ji temprano, Parque Ueno, paseo río Sumida."
-    latitude: 35.7148
-    longitude: 139.7967
-
-  - name: "Día 3: Monte Mitake"
-    location: "Monte Mitake, Tokyo, Japón"
-    visit_date: "2026-08-01"
-    notes: "Escapada verde. Tren directo 1.5h. Senderismo entre cedros sagrados."
-    latitude: 35.7833
-    longitude: 139.1500
-
-  - name: "Día 4: Tokyo Neón"
-    location: "Shinjuku, Tokyo, Japón"
-    visit_date: "2026-08-02"
-    notes: "Shinjuku, Shibuya, Omoide Yokocho."
-    latitude: 35.6938
-    longitude: 139.7034
-
-  - name: "Día 5: Tokyo Libre"
-    location: "Tokyo, Japón"
-    visit_date: "2026-08-03"
-    notes: "Escalada en B-Pump. Envío de maletas (Takkyubin) a Kyoto."
-    latitude: 35.6762
-    longitude: 139.6503
-
-  # ========== MATSUMOTO (Día 6) ==========
-  - name: "Día 6: Matsumoto"
+  - name: "Matsumoto"
     location: "Matsumoto, Nagano, Japón"
     visit_date: "2026-08-04"
-    notes: "Tren Azusa desde Tokyo (2.5h). Castillo de Matsumoto."
+    arrival_date: "2026-08-04"
+    departure_date: "2026-08-05"
+    notes: "Día 6: Castillo Negro y puerta de entrada a los Alpes."
     latitude: 36.2381
     longitude: 137.9720
+    activities:
+      - title: "Castillo de Matsumoto"
+        content: "El 'Cuervo Negro'. Castillo original de madera."
+        type: "place"
+        rating: 5
+        duration: "2 hours"
 
-  # ========== HIRAYU ONSEN / KAMIKOCHI (Días 7-9) ==========
-  - name: "Día 7: Hirayu Onsen"
+  - name: "Hirayu Onsen"
     location: "Hirayu Onsen, Gifu, Japón"
     visit_date: "2026-08-05"
-    notes: "Bus a Hirayu (1h). Relax en onsen al aire libre."
+    arrival_date: "2026-08-05"
+    departure_date: "2026-08-08"
+    notes: "Días 7-9: Alpes Japoneses. Kamikochi, Onsen y Shinhotaka Ropeway."
     latitude: 36.2283
     longitude: 137.5933
+    activities:
+      - title: "Relax en Onsen"
+        content: "Aguas termales al aire libre en los Alpes."
+        type: "activity"
+        rating: 5
+      - title: "Kamikochi Trekking"
+        content: "**Highlight.** Valle alpino del río Azusa. Paisaje espectacular."
+        type: "activity"
+        rating: 5
+        duration: "6 hours"
+      - title: "Shinhotaka Ropeway"
+        content: "Teleférico de dos pisos. Vistas a 2156m."
+        type: "activity"
+        rating: 5
+        price: 30.00
 
-  - name: "Día 8: Kamikochi"
-    location: "Kamikochi, Nagano, Japón"
-    visit_date: "2026-08-06"
-    notes: "La joya alpina. Senderismo por el valle del río Azusa."
-    latitude: 36.2478
-    longitude: 137.6478
-
-  - name: "Día 9: Shinhotaka Ropeway"
-    location: "Shinhotaka, Gifu, Japón"
-    visit_date: "2026-08-07"
-    notes: "Teleférico sobre las nubes. Bus a Takayama y tren a Nakatsugawa."
-    latitude: 36.2900
-    longitude: 137.5400
-
-  # ========== NAKASENDO (Días 10-12) ==========
-  - name: "Día 10: Nakatsugawa"
+  - name: "Nakatsugawa"
     location: "Nakatsugawa, Gifu, Japón"
     visit_date: "2026-08-08"
-    notes: "Llegada y relax. Preparar la caminata del día siguiente."
+    arrival_date: "2026-08-08"
+    departure_date: "2026-08-11"
+    notes: "Días 10-12: Ruta Nakasendo (Magome-Tsumago). La ruta de los samuráis."
     latitude: 35.4883
     longitude: 137.5006
+    activities:
+      - title: "Ruta Nakasendo (Magome-Tsumago)"
+        content: "Caminata histórica 8km entre pueblos postales de madera."
+        type: "activity"
+        rating: 5
+        duration: "4 hours"
 
-  - name: "Día 11: Ruta Magome-Tsumago"
-    location: "Magome, Gifu, Japón"
-    visit_date: "2026-08-09"
-    notes: "8km de sendero histórico empedrado. Bosques, cascadas, pueblos de madera."
-    latitude: 35.5283
-    longitude: 137.5667
-
-  - name: "Día 12: Traslado a Kyoto"
-    location: "Nakatsugawa, Gifu, Japón"
-    visit_date: "2026-08-10"
-    notes: "Tren a Kyoto vía Nagoya."
-    latitude: 35.4883
-    longitude: 137.5006
-
-  # ========== KYOTO (Días 13-18) ==========
-  - name: "Día 13: Llegada a Kyoto"
+  - name: "Kyoto"
     location: "Kyoto, Japón"
     visit_date: "2026-08-11"
-    notes: "Llegada. Paseo nocturno por Pontocho."
+    arrival_date: "2026-08-11"
+    departure_date: "2026-08-17"
+    notes: "Días 13-18: Corazón cultural. Templos, Gion, Nara y Arashiyama."
     latitude: 35.0116
     longitude: 135.7681
+    activities:
+      - title: "Paseo Pontocho"
+        content: "Callejón de geishas y restaurantes junto al río."
+        type: "place"
+        rating: 4
+      - title: "Kinkaku-ji & Ryoan-ji"
+        content: "Pabellón Dorado y jardín zen. Ir en bici."
+        type: "place"
+        rating: 5
+        duration: "3 hours"
+      - title: "Fushimi Inari Taisha"
+        content: "Mil toriis. Subir a la cima para evitar gente."
+        type: "place"
+        rating: 5
+        duration: "3 hours"
+      - title: "Excursión a Nara"
+        content: "Todai-ji (Gran Buda) y ciervos sagrados."
+        type: "activity"
+        rating: 5
+        duration: "5 hours"
+      - title: "Arashiyama (Adashino)"
+        content: "Templo Adashino Nenbutsu-ji (bambú sin turistas)."
+        type: "place"
+        rating: 5
+      - title: "Mercado Nishiki"
+        content: "Comida y compras antes de irse."
+        type: "place"
+        rating: 4
 
-  - name: "Día 14: Kyoto Norte en Bici"
-    location: "Kinkaku-ji, Kyoto, Japón"
-    visit_date: "2026-08-12"
-    notes: "Bicicleta. Kinkaku-ji (Pabellón Dorado) y Ryoan-ji."
-    latitude: 35.0394
-    longitude: 135.7292
-
-  - name: "Día 15: Fushimi Inari"
-    location: "Fushimi Inari, Kyoto, Japón"
-    visit_date: "2026-08-13"
-    notes: "Torii gates. Ir a las 7AM. Subida completa al monte (2h)."
-    latitude: 34.9671
-    longitude: 135.7727
-
-  - name: "Día 16: Excursión a Nara"
-    location: "Nara, Japón"
-    visit_date: "2026-08-14"
-    notes: "Gran Buda (Todai-ji) y ciervos de Nara Park."
-    latitude: 34.6851
-    longitude: 135.8048
-
-  - name: "Día 17: Arashiyama"
-    location: "Arashiyama, Kyoto, Japón"
-    visit_date: "2026-08-15"
-    notes: "Adashino Nenbutsu-ji (bambú sin turistas)."
-    latitude: 35.0168
-    longitude: 135.6713
-
-  - name: "Día 18: Mercado Nishiki"
-    location: "Nishiki Market, Kyoto, Japón"
-    visit_date: "2026-08-16"
-    notes: "Compras de última hora. Tren bala a Tokyo."
-    latitude: 35.0050
-    longitude: 135.7650
-
-  # ========== TOKYO FINAL (Días 19-21) ==========
-  - name: "Día 19: TeamLab Planets"
-    location: "Toyosu, Tokyo, Japón"
+  - name: "Tokyo (Final)"
+    location: "Shinjuku, Tokyo, Japón"
     visit_date: "2026-08-17"
-    notes: "Arte digital inmersivo. Reservar con 2 meses de antelación."
-    latitude: 35.6500
-    longitude: 139.7900
+    arrival_date: "2026-08-17"
+    departure_date: "2026-08-19"
+    notes: "Días 19-21: Compras finales, TeamLab y despedida."
+    latitude: 35.6938
+    longitude: 139.7034
+    activities:
+      - title: "TeamLab Planets"
+        content: "Arte digital inmersivo. Reservar con antelación."
+        type: "activity"
+        rating: 5
+        price: 35.00
+      - title: "Compras Finales"
+        content: "Uniqlo Ginza, Don Quijote, 7-Eleven snacks."
+        type: "activity"
 
-  - name: "Día 20: Compras Finales"
-    location: "Shibuya, Tokyo, Japón"
-    visit_date: "2026-08-18"
-    notes: "Uniqlo, Don Quijote. Preparar maletas."
-    latitude: 35.6595
-    longitude: 139.7004
-
-  - name: "Día 21: Vuelta a casa"
-    location: "Haneda Airport, Tokyo, Japón"
-    visit_date: "2026-08-19"
-    notes: "Vuelo de regreso a Madrid."
-    latitude: 35.5494
-    longitude: 139.7798
-
-# ============================================
-# FLIGHTS (Vuelos)
-# ============================================
-flights:
-  - airline: "Turkish Airlines"
-    flight_number: "TK9400"
-    origin: "Madrid (MAD)"
-    destination: "Estambul (IST)"
-    departure_date: "2026-07-29T09:10:00"
-    arrival_date: "2026-07-29T13:55:00"
-    price: 700.00
-    cabin_class: "economy"
-    notes: "Primer tramo. Operado por Air Europa."
-
-  - airline: "ANA (All Nippon Airways)"
-    flight_number: "NH220"
-    origin: "Estambul (IST)"
-    destination: "Tokyo Haneda (HND)"
-    departure_date: "2026-07-29T17:25:00"
-    arrival_date: "2026-07-30T10:50:00"
-    price: 700.00
-    cabin_class: "economy"
-    notes: "Escala 3h30 en Estambul. Llegada día siguiente."
-
-  - airline: "ANA (All Nippon Airways)"
-    flight_number: "NH219"
-    origin: "Tokyo Haneda (HND)"
-    destination: "Estambul (IST)"
-    departure_date: "2026-08-19T08:15:00"
-    arrival_date: "2026-08-19T15:25:00"
-    price: 700.00
-    cabin_class: "economy"
-    notes: "Vuelo largo 13h10."
-
-  - airline: "Turkish Airlines"
-    flight_number: "TK1359"
-    origin: "Estambul (IST)"
-    destination: "Madrid (MAD)"
-    departure_date: "2026-08-19T18:55:00"
-    arrival_date: "2026-08-19T22:40:00"
-    price: 700.00
-    cabin_class: "economy"
-    notes: "Escala 3h30 en Estambul."
-
-# ============================================
-# ACCOMMODATIONS (Alojamientos)
-# ============================================
 accommodations:
-  - stop: "Día 1: Llegada a Tokyo"
+  - stop: "Tokyo (Inicio)"
     name: "Hotel en Asakusa/Ueno"
-    type: "hotel"
     address: "Asakusa, Taito-ku, Tokyo"
-    price_per_night: 60.00
-    nights: 5
-    booking_platform: "Booking.com"
+    rating: 4
     notes: |
-      Zona Old Tokyo, cerca de Senso-ji.
+      Zona Old Tokyo, cerca de Senso-ji. 5 noches.
       [Buscar en Booking](https://www.booking.com/searchresults.es.html?ss=Asakusa%2C+Tokyo&checkin=2026-07-30&checkout=2026-08-04&group_adults=2)
 
-  - stop: "Día 6: Matsumoto"
+  - stop: "Matsumoto"
     name: "Hotel en Matsumoto"
-    type: "hotel"
     address: "Matsumoto, Nagano"
-    price_per_night: 60.00
-    nights: 1
-    booking_platform: "Booking.com"
-    notes: "Cerca del castillo."
+    rating: 4
+    notes: "Cerca del castillo. 1 noche."
 
-  - stop: "Día 7: Hirayu Onsen"
+  - stop: "Hirayu Onsen"
     name: "Ryokan en Hirayu Onsen"
-    type: "hotel"
     address: "Hirayu Onsen, Takayama, Gifu"
-    price_per_night: 80.00
-    nights: 3
-    booking_platform: "Booking.com"
-    notes: "Ryokan con onsen privado incluido."
     rating: 5
+    notes: "Ryokan con onsen privado incluido. 3 noches."
 
-  - stop: "Día 10: Nakatsugawa"
+  - stop: "Nakatsugawa"
     name: "Minshuku en Nakatsugawa"
-    type: "house"
     address: "Nakatsugawa, Gifu"
-    price_per_night: 50.00
-    nights: 3
-    booking_platform: "Booking.com"
-    notes: "Alojamiento tradicional cerca de la ruta Nakasendo."
+    rating: 3
+    notes: "Alojamiento tradicional cerca de la ruta Nakasendo. 3 noches."
 
-  - stop: "Día 13: Llegada a Kyoto"
+  - stop: "Kyoto"
     name: "Hotel en Kyoto"
-    type: "hotel"
     address: "Higashiyama, Kyoto"
-    price_per_night: 70.00
-    nights: 6
-    booking_platform: "Booking.com"
-    notes: "Zona tradicional cerca de Gion."
     rating: 4
+    notes: "Zona tradicional cerca de Gion. 6 noches."
 
-  - stop: "Día 19: TeamLab Planets"
-    name: "Hotel en Tokyo"
-    type: "hotel"
+  - stop: "Tokyo (Final)"
+    name: "Hotel en Shinjuku"
     address: "Shinjuku, Tokyo"
-    price_per_night: 60.00
-    nights: 2
-    booking_platform: "Booking.com"
-    notes: "Zona céntrica para compras finales."
-
-# ============================================
-# POSTS (Experiencias por día)
-# ============================================
-posts:
-  # === DÍA 1 ===
-  - stop: "Día 1: Llegada a Tokyo"
-    title: "Traslado Haneda → Asakusa"
-    content: |
-      Monorraíl + Yamanote. Traslado escénico y rápido.
-      Comprar Suica/Pasmo en el aeropuerto.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Haneda+Airport+to+Asakusa+transfer+Tokyo)
-    type: "transport"
-    duration: "1.5 hours"
-
-  - stop: "Día 1: Llegada a Tokyo"
-    title: "Cena en Ramen Street"
-    content: |
-      En Tokyo Station. Varios restaurantes de ramen de distintas regiones.
-      Perfecto para la primera cena tras llegar.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tokyo+Station+Ramen+Street)
-    type: "restaurant"
-    price: 15.00
-    duration: "1 hour"
-
-  - stop: "Día 1: Llegada a Tokyo"
-    title: "Tip: Suica/Pasmo"
-    content: |
-      Tarjeta monedero para todo: tren, bus, konbini.
-      iPhone: Añadir en Apple Wallet. Android: tarjeta física.
-    type: "tip"
-
-  # === DÍA 2 ===
-  - stop: "Día 2: Tokyo Tradición"
-    title: "Senso-ji Temple"
-    content: |
-      El templo más antiguo de Tokyo.
-      **Tip:** Ir a las 6:30 AM para silencio y fotos perfectas.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Senso-ji+Temple+Asakusa+Tokyo)
-    type: "place"
-    rating: 5
-    duration: "2 hours"
-    latitude: 35.7148
-    longitude: 139.7967
-
-  - stop: "Día 2: Tokyo Tradición"
-    title: "Parque Ueno"
-    content: |
-      Museos y paseo tranquilo.
-      Museo Nacional de Tokyo y zoo.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Ueno+Park+Tokyo)
-    type: "place"
-    duration: "3 hours"
-
-  - stop: "Día 2: Tokyo Tradición"
-    title: "Paseo Río Sumida"
-    content: |
-      Atardecer junto al río. Vistas al Tokyo Skytree.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Sumida+River+walk+Tokyo+Skytree)
-    type: "place"
-    duration: "1.5 hours"
-
-  # === DÍA 3 ===
-  - stop: "Día 3: Monte Mitake"
-    title: "Senderismo Monte Mitake"
-    content: |
-      Tren directo desde Shinjuku (1.5h).
-      Senderismo entre cedros sagrados y santuarios.
-      Escapada perfecta del caos urbano.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Mount+Mitake+hiking+Tokyo)
-    type: "activity"
-    rating: 5
-    duration: "6 hours"
-
-  # === DÍA 4 ===
-  - stop: "Día 4: Tokyo Neón"
-    title: "Gobierno Metropolitano de Tokyo"
-    content: |
-      Vistas gratis desde la planta 45.
-      Mejor al atardecer.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tokyo+Metropolitan+Government+Building+observation+deck)
-    type: "place"
-    duration: "1 hour"
-
-  - stop: "Día 4: Tokyo Neón"
-    title: "Shibuya Crossing"
-    content: |
-      El cruce más famoso del mundo. Mejor visto desde Starbucks.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Shibuya+Crossing+Tokyo)
-    type: "place"
-    duration: "30 minutes"
-
-  - stop: "Día 4: Tokyo Neón"
-    title: "Cena en Omoide Yokocho"
-    content: |
-      Callejón de yakitori (brochetas) en Shinjuku.
-      Ambiente auténtico y ruidoso.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Omoide+Yokocho+Shinjuku+Tokyo)
-    type: "restaurant"
-    rating: 5
-    price: 20.00
-    duration: "1.5 hours"
-
-  # === DÍA 5 ===
-  - stop: "Día 5: Tokyo Libre"
-    title: "B-Pump Ogikubo (Escalada)"
-    content: |
-      Rocódromo boulder. Buena opción para día activo.
-      Alquiler de pies de gato disponible.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=B-Pump+Ogikubo+bouldering+Tokyo)
-    type: "activity"
-    price: 25.00
-    duration: "3 hours"
-
-  - stop: "Día 5: Tokyo Libre"
-    title: "Takkyubin - Envío de equipaje"
-    content: |
-      Enviar maleta grande de Tokyo a Kyoto (~20€).
-      Preguntar en recepción: "Yamato Transport".
-      Imprescindible para viajar ligero por los Alpes.
-    type: "tip"
-    price: 20.00
-
-  # === DÍA 6 ===
-  - stop: "Día 6: Matsumoto"
-    title: "Tren Azusa"
-    content: |
-      Tren escénico Tokyo → Matsumoto (2.5h). Vistas de montañas.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Azusa+train+Tokyo+Matsumoto)
-    type: "transport"
-    duration: "2.5 hours"
-
-  - stop: "Día 6: Matsumoto"
-    title: "Castillo de Matsumoto"
-    content: |
-      El "Cuervo Negro". Uno de los pocos castillos originales.
-      No es reconstrucción de hormigón.
-      **Tip:** Ir temprano para evitar colas.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Matsumoto+Castle+Japan)
-    type: "place"
-    rating: 5
-    duration: "2 hours"
-    latitude: 36.2381
-    longitude: 137.9720
-
-  # === DÍA 7 ===
-  - stop: "Día 7: Hirayu Onsen"
-    title: "Bus a Hirayu"
-    content: |
-      Bus desde Matsumoto (1h). Paisajes de montaña.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Matsumoto+to+Hirayu+Onsen+bus)
-    type: "transport"
-    duration: "1 hour"
-
-  - stop: "Día 7: Hirayu Onsen"
-    title: "Onsen al aire libre"
-    content: |
-      Relax en aguas termales rodeado de montañas.
-      Experiencia japonesa auténtica.
-      Incluido en el ryokan.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Hirayu+Onsen+outdoor+bath+Japan)
-    type: "activity"
-    rating: 5
-    duration: "2 hours"
-
-  # === DÍA 8 ===
-  - stop: "Día 8: Kamikochi"
-    title: "Senderismo Kamikochi"
-    content: |
-      **La joya alpina.** El paisaje más bonito de Japón.
-      Senderismo plano por el valle del río Azusa.
-      
-      **Nota ética:** Macacos salvajes. No acercarse ni mostrar comida.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Kamikochi+hiking+Japanese+Alps)
-    type: "activity"
-    rating: 5
-    duration: "6 hours"
-
-  # === DÍA 9 ===
-  - stop: "Día 9: Shinhotaka Ropeway"
-    title: "Shinhotaka Ropeway"
-    content: |
-      Teleférico sobre las nubes. Subida a 2,156m.
-      Vistas espectaculares de los Alpes Japoneses.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Shinhotaka+Ropeway+Japan)
-    type: "activity"
-    rating: 5
-    price: 30.00
-    duration: "3 hours"
-
-  - stop: "Día 9: Shinhotaka Ropeway"
-    title: "Traslado a Nakatsugawa"
-    content: |
-      Bus a Takayama + tren a Nakatsugawa.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Shinhotaka+to+Nakatsugawa+via+Takayama)
-    type: "transport"
-    duration: "4 hours"
-
-  # === DÍA 10 ===
-  - stop: "Día 10: Nakatsugawa"
-    title: "Día de descanso"
-    content: |
-      Llegada y relax. Explorar el pueblo.
-      Preparar la caminata del día siguiente.
-    type: "tip"
-
-  # === DÍA 11 ===
-  - stop: "Día 11: Ruta Magome-Tsumago"
-    title: "Caminata Nakasendo"
-    content: |
-      **La antigua ruta de los samuráis.**
-      8km de sendero histórico empedrado.
-      Bosques, cascadas y pueblos de madera preservados.
-      
-      Bus de vuelta disponible desde Tsumago.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Magome+Tsumago+Nakasendo+trail+Japan)
-    type: "activity"
-    rating: 5
-    duration: "4 hours"
-
-  # === DÍA 12 ===
-  - stop: "Día 12: Traslado a Kyoto"
-    title: "Tren a Kyoto"
-    content: |
-      Tren vía Nagoya. Shinkansen desde Nagoya a Kyoto.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Nakatsugawa+to+Kyoto+train+via+Nagoya)
-    type: "transport"
-    duration: "3 hours"
-
-  # === DÍA 13 ===
-  - stop: "Día 13: Llegada a Kyoto"
-    title: "Paseo nocturno Pontocho"
-    content: |
-      Callejón tradicional con restaurantes y geishas.
-      Perfecto para la primera noche en Kyoto.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Pontocho+alley+Kyoto)
-    type: "place"
     rating: 4
-    duration: "2 hours"
+    notes: "Zona céntrica para compras finales. 2 noches."
 
-  # === DÍA 14 ===
-  - stop: "Día 14: Kyoto Norte en Bici"
-    title: "Kinkaku-ji (Pabellón Dorado)"
-    content: |
-      Templo cubierto de pan de oro reflejado en el lago.
-      Icono de Kyoto.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Kinkaku-ji+Golden+Pavilion+Kyoto)
-    type: "place"
-    rating: 5
-    duration: "1.5 hours"
+transports:
+  - transport_type: "flight"
+    origin: "Madrid (MAD)"
+    destination: "Tokyo Haneda (HND)"
+    operator: "Turkish Airlines"
+    departure_date: "2026-07-29T09:10:00+00:00"
+    arrival_date: "2026-07-30T10:50:00+09:00"
+    price: 1400.00
+    notes: "Escala en Estambul. Ida y vuelta."
+  
+  - transport_type: "train"
+    origin: "Tokyo Haneda"
+    destination: "Asakusa"
+    operator: "Tokyo Monorail / Yamanote"
+    price: 10.00
+    notes: "Traslado llegada."
 
-  - stop: "Día 14: Kyoto Norte en Bici"
-    title: "Ryoan-ji"
-    content: |
-      El jardín zen de piedras más famoso del mundo.
-      15 rocas, solo puedes ver 14 desde cualquier ángulo.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Ryoan-ji+zen+garden+Kyoto)
-    type: "place"
-    rating: 5
-    duration: "1 hour"
+  - transport_type: "train"
+    origin: "Tokyo (Shinjuku)"
+    destination: "Matsumoto"
+    operator: "JR East (Azusa)"
+    departure_date: "2026-08-04T08:00:00+09:00"
+    arrival_date: "2026-08-04T10:30:00+09:00"
+    notes: "Tren escénico."
 
-  # === DÍA 15 ===
-  - stop: "Día 15: Fushimi Inari"
-    title: "Fushimi Inari Taisha"
-    content: |
-      Miles de torii gates naranjas.
-      
-      **Tip:** Ir a las 7:00 AM. Subida completa al monte (2h) 
-      para huir de la multitud de la base.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Fushimi+Inari+Taisha+Kyoto)
-    type: "place"
-    rating: 5
-    duration: "3 hours"
-    latitude: 34.9671
-    longitude: 135.7727
+  - transport_type: "bus"
+    origin: "Matsumoto"
+    destination: "Hirayu Onsen"
+    operator: "Nohi Bus"
+    notes: "Bus de montaña."
 
-  # === DÍA 16 ===
-  - stop: "Día 16: Excursión a Nara"
-    title: "Todai-ji (Gran Buda)"
-    content: |
-      La estatua de bronce más grande del mundo.
-      Edificio de madera impresionante.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Todai-ji+Great+Buddha+Nara)
-    type: "place"
-    rating: 5
-    duration: "2 hours"
+  - transport_type: "train"
+    origin: "Takayama"
+    destination: "Nakatsugawa"
+    operator: "JR Central"
+    notes: "Vía Nagoya."
 
-  - stop: "Día 16: Excursión a Nara"
-    title: "Nara Park"
-    content: |
-      Ciervos sagrados por todo el parque.
-      
-      **Nota ética:** No comprar galletas "shika-senbei". 
-      Los ciervos se vuelven agresivos y muerden.
-      Mejor observarlos descansando lejos de los puestos.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Nara+Park+deer+Japan)
-    type: "place"
-    rating: 4
-    duration: "2 hours"
+  - transport_type: "train"
+    origin: "Nakatsugawa"
+    destination: "Kyoto"
+    operator: "JR Shinkansen"
+    notes: "Vía Nagoya."
 
-  # === DÍA 17 ===
-  - stop: "Día 17: Arashiyama"
-    title: "Adashino Nenbutsu-ji"
-    content: |
-      El bosque de bambú sin turistas.
-      Evitar el bamboo grove principal (masificado).
-      Templo con 8000 estatuas de piedra.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Adashino+Nenbutsu-ji+temple+Arashiyama+Kyoto)
-    type: "place"
-    rating: 5
-    duration: "3 hours"
-
-  # === DÍA 18 ===
-  - stop: "Día 18: Mercado Nishiki"
-    title: "Mercado Nishiki"
-    content: |
-      "La cocina de Kyoto". Compras de última hora.
-      Comida local, pickles, dulces tradicionales.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Nishiki+Market+Kyoto)
-    type: "place"
-    rating: 4
-    duration: "2 hours"
-
-  - stop: "Día 18: Mercado Nishiki"
-    title: "Shinkansen a Tokyo"
-    content: |
-      Tren bala Kyoto → Tokyo (2h15). Vistas del Monte Fuji si hay suerte.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Shinkansen+Kyoto+Tokyo+Mount+Fuji+view)
-    type: "transport"
-    duration: "2.5 hours"
-
-  # === DÍA 19 ===
-  - stop: "Día 19: TeamLab Planets"
-    title: "TeamLab Planets"
-    content: |
-      Inmersión sensorial digital. Pies descalzos en agua.
-      
-      **Reservar con 2 meses de antelación.**
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=TeamLab+Planets+Tokyo+Toyosu)
-    type: "activity"
-    rating: 5
-    price: 35.00
-    duration: "2 hours"
-
-  # === DÍA 20 ===
-  - stop: "Día 20: Compras Finales"
-    title: "Uniqlo"
-    content: |
-      Ropa básica de calidad. Precios más bajos que en Europa.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Uniqlo+flagship+store+Ginza+Tokyo)
-    type: "place"
-    duration: "1 hour"
-
-  - stop: "Día 20: Compras Finales"
-    title: "Don Quijote"
-    content: |
-      Tienda de todo. Souvenirs, electrónica, snacks.
-      Abierto 24h. Caótico pero divertido.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Don+Quijote+store+Shibuya+Tokyo)
-    type: "place"
-    duration: "2 hours"
-
-  - stop: "Día 20: Compras Finales"
-    title: "7-Eleven"
-    content: "Snacks para el avión. Onigiri, Kit-Kats japoneses."
-    type: "tip"
-    duration: "30 minutes"
-
-  # === DÍA 21 ===
-  - stop: "Día 21: Vuelta a casa"
-    title: "Traslado al aeropuerto"
-    content: |
-      Monorraíl a Haneda. Llegar 3h antes para vuelo internacional.
-      
-      🔍 [Buscar en Google](https://www.google.com/search?q=Tokyo+Monorail+Haneda+Airport)
-    type: "transport"
-    duration: "1 hour"
-
-  # === TIPS GENERALES (asignados al día 1) ===
-  - stop: "Día 1: Llegada a Tokyo"
-    title: "Visit Japan Web"
-    content: |
-      Rellenar 2 semanas antes para obtener QR de entrada rápida.
-      Obligatorio para agilizar inmigración.
-    type: "tip"
-
-  - stop: "Día 1: Llegada a Tokyo"
-    title: "Efectivo (Yenes)"
-    content: |
-      Llevar siempre efectivo. Muchos sitios rurales no aceptan tarjeta.
-      Cajeros 7-Eleven son los mejores para tarjetas extranjeras.
-    type: "tip"
-
-  - stop: "Día 1: Llegada a Tokyo"
-    title: "Silencio en trenes"
-    content: "No se habla por teléfono. Modo silencio obligatorio."
-    type: "tip"
+  - transport_type: "train"
+    origin: "Kyoto"
+    destination: "Tokyo"
+    operator: "Shinkansen"
+    departure_date: "2026-08-17T10:00:00+09:00"
+    arrival_date: "2026-08-17T12:15:00+09:00"
+    notes: "Vistas Monte Fuji."
+  
+  - transport_type: "flight"
+    origin: "Tokyo Haneda (HND)"
+    destination: "Madrid (MAD)"
+    operator: "Turkish Airlines"
+    departure_date: "2026-08-19T08:00:00+09:00"
+    arrival_date: "2026-08-19T22:00:00+02:00"
+    notes: "Vuelo de regreso."

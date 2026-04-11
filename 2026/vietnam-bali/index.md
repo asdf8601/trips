@@ -20,8 +20,8 @@ priorizamos alternativas menos conocidas."
 | **Bahia de Halong** | 2 Ago - 4 Ago | - |
 | **Hue** | 5 Ago - 7 Ago | **INTERNO:** 4 Ago Tren SE3 (Hanoi-Hue) |
 | **Hoi An** | 7 Ago - 9 Ago | **INTERNO:** 9 Ago DAD -> SGN |
-| **Ho Chi Minh** | 9 Ago - 11 Ago | **INTERNO:** 11 Ago SGN -> DPS |
-| **Ubud (Bali)** | 11 Ago - 16 Ago | - |
+| **Ho Chi Minh** | 9 Ago - 13 Ago | - |
+| **Ubud (Bali)** | 13 Ago - 16 Ago | - |
 | **Amed** | 16 Ago - 18 Ago | - |
 | **Munduk** | 18 Ago - 20 Ago | - |
 | **Uluwatu** | 20 Ago - 28 Ago | - |
@@ -36,7 +36,6 @@ priorizamos alternativas menos conocidas."
 | **IDA** | 28 Jul 09:05 | MAD -> HAN | QR148/QR982 | Qatar Airways | 17J,17J / 17K,17K | XG63OJ |
 | **INTERNO** | 4 Ago 19:30 | Hanoi -> Hue | SE3 | VN Railways | - | - |
 | **INTERNO** | 9 Ago 10:00 | DAD -> SGN | VJ... | VietJet | - | - |
-| **INTERNO** | 11 Ago 10:10 | SGN -> DPS | VN641 | VN Airlines | 30B / 30A | XGDT9W |
 | **VUELTA** | 28 Ago 00:35 | DPS -> MAD | EK399/EK141 | Emirates | 16J,53J / 16K,53K | C5Z6VN |
 
 ### **Informacion Detallada de Reservas**
@@ -51,16 +50,7 @@ priorizamos alternativas menos conocidas."
 *   **Asientos Maria:** 17K (MAD-DOH), 17K (DOH-HAN)
 *   **Equipaje:** 1 accesorio personal, 1 mano (7kg), 1 facturado (30kg)
 
-#### **2. Ho Chi Minh (SGN) -> Kuta (DPS)**
-*   **Aerolinea:** Vietnam Airlines (Vuelo VN641)
-*   **Salida:** Martes 11 Ago, 10:10 (SGN)
-*   **Llegada:** Martes 11 Ago, 15:00 (DPS)
-*   **Duracion:** 3h 50m (Directo)
-*   **Referencia:** XGDT9W
-*   **Asientos:** Maximiliano (30B), Maria (30A)
-*   **Equipaje:** 1 accesorio personal, 1 mano (8kg), 1 facturado (23kg)
-
-#### **3. Kuta (DPS) -> Madrid (MAD)**
+#### **2. Kuta (DPS) -> Madrid (MAD)**
 *   **Aerolinea:** Emirates Airlines
 *   **Salida:** Viernes 28 Ago, 00:35 (DPS)
 *   **Llegada:** Viernes 28 Ago, 13:30 (MAD)
@@ -74,7 +64,7 @@ priorizamos alternativas menos conocidas."
 
 ## Itinerario Detallado (32 Dias)
 
-### **VIETNAM (15 Dias)**
+### **VIETNAM (17 Dias)**
 
 ---
 
@@ -157,41 +147,54 @@ priorizamos alternativas menos conocidas."
   * 👩‍🍳 **Clase de Cocina:** [Hoi An cooking class](https://www.google.com/search?q=Hoi+An+cooking+class).
   * Atardecer: [Puente Japones](https://www.google.com/search?q=Japanese+Bridge+Hoi+An).
 
-* **Dia 13 (9 Ago): Vuelo a Ho Chi Minh**
+* **Dia 13 (9 Ago): Traslado a Ho Chi Minh**
   * Manana: Traslado al aeropuerto de Da Nang (DAD).
-  * Vuelo Da Nang -> SGN.
-  * Tarde: [Catedral Notre Dame](https://www.google.com/search?q=Notre+Dame+Cathedral+Ho+Chi+Minh).
+  * Vuelo Da Nang -> SGN (continua en Base 6).
 
 ---
 
-### **Base 6: [Ho Chi Minh](https://mundo-nomada.com/vietnam/ideas-de-cosas-que-hacer-y-ver-en-ho-chi-minh/) - La Gran Urbe del Sur (Dias 13-15)**
+### **Base 6: [Ho Chi Minh](https://mundo-nomada.com/vietnam/ideas-de-cosas-que-hacer-y-ver-en-ho-chi-minh/) - La Gran Urbe del Sur (Dias 13-17)**
 
-* **Dia 14 (10 Ago): Historia y Ciudad**
-  * [Palacio de la Reunificacion](https://www.google.com/search?q=Reunification+Palace+Ho+Chi+Minh).
-  * Mercado Ben Thanh.
+* **Dia 13 (9 Ago): Llegada desde Da Nang**
+  * Vuelo Da Nang -> SGN.
+  * Tarde: [Catedral Notre Dame](https://www.google.com/search?q=Notre+Dame+Cathedral+Ho+Chi+Minh), [Correo Central](https://www.google.com/search?q=Central+Post+Office+Ho+Chi+Minh).
 
-* **Dia 15 (11 Ago): Salida a Bali**
-  * Vuelo SGN -> DPS (10:10).
+* **Dia 14 (10 Ago): Tuneles de Cu Chi**
+  * Manana: [Tuneles de Cu Chi](https://www.google.com/search?q=Cu+Chi+Tunnels+tour) (~medio dia, tour guiado ~20€/persona).
+  * Tarde: [Palacio de la Reunificacion](https://www.google.com/search?q=Reunification+Palace+Ho+Chi+Minh), [Nguyen Hue Walking Street](https://www.google.com/search?q=Nguyen+Hue+Walking+Street+Ho+Chi+Minh).
+
+* **Dia 15 (11 Ago): Delta del Mekong**
+  * Dia completo: [Excursion Delta del Mekong](https://www.google.com/search?q=Mekong+Delta+day+trip+from+Ho+Chi+Minh) (~25€/persona).
+  * Paseo en barca por canales, degustacion de frutas, fabrica de caramelos de coco.
+  * Parada opcional en [Templo Cao Dai](https://www.google.com/search?q=Cao+Dai+Temple+Tay+Ninh).
+
+* **Dia 16 (12 Ago): Ciudad Libre**
+  * [Mercado Ben Thanh](https://www.google.com/search?q=Ben+Thanh+Market+Ho+Chi+Minh).
+  * [Museo de la Guerra](https://www.google.com/search?q=War+Remnants+Museum+Ho+Chi+Minh) (~2€).
+  * Noche: [Bui Vien Street](https://www.google.com/search?q=Bui+Vien+Street+Ho+Chi+Minh).
+
+* **Dia 17 (13 Ago): Salida a Bali**
+  * Vuelo SGN -> DPS (por reservar).
   * Llegada a Bali, traslado a Ubud.
 
 ---
 
-### **BALI (18 Dias)**
+### **BALI (16 Dias)**
 
 ---
 
-### **Base 7: [Ubud](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Corazon Cultural (Dias 15-20)**
+### **Base 7: [Ubud](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Corazon Cultural (Dias 17-20)**
 
-* **Dia 16 (12 Ago): Spa Day**
-* **Dia 17 (13 Ago): Tegalalang y Tirta Empul**
-* **Dia 18 (14 Ago): Monte Batur al Amanecer**
-* **Dia 19 (15 Ago): Ubud Profundo**
+* **Dia 17 (13 Ago): Llegada y Spa Day**
+* **Dia 18 (14 Ago): Tegalalang y Tirta Empul**
+* **Dia 19 (15 Ago): Monte Batur al Amanecer**
 * **Dia 20 (16 Ago): Hacia Amed**
 
 ---
 
 ### **Base 8: [Amed](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Costa Salvaje (Dias 20-22)**
 
+* **Dia 20 (16 Ago): Llegada y Snorkel**
 * **Dia 21 (17 Ago): Buceo USS Liberty**
 * **Dia 22 (18 Ago): Hacia Munduk**
 
@@ -206,7 +209,7 @@ priorizamos alternativas menos conocidas."
 
 ### **Base 10: [Uluwatu](https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/) - Acantilados y Surf (Dias 24-32)**
 
-* **Dias 25-31 (21-27 Ago): Playas y Relax**
+* **Dias 24-31 (20-27 Ago): Playas y Relax**
 * **Dia 32 (28 Ago): Regreso**
   * Vuelo de vuelta a Madrid (MAD) 00:35.
 
@@ -226,8 +229,8 @@ priorizamos alternativas menos conocidas."
 | :--- | :--- | :--- |
 | **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | **REALES** |
 | **Vuelo SGN-DPS** | 309,44 € | **REAL** |
-| **Alojamiento (28 noches)** | ~1.500,00 € | Confirmados: Hanoi (39,58€), Ninh Binh (25,57€) |
-| **Actividades** | ~750,00 € | Crucero Swan (550,00€), buceo, tours |
+| **Alojamiento (28 noches)** | ~1.550,00 € | Confirmados: Hanoi (39,58€), Ninh Binh (25,57€). HCMC +2 noches |
+| **Actividades** | ~840,00 € | Crucero Swan (550,00€), Cu Chi (~40€), Mekong (~50€), buceo, tours |
 | **TOTAL** | **~8.892,26 €** | **~4.446,13 € p/p** |
 
 ---
