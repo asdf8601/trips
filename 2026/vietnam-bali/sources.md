@@ -47,6 +47,29 @@ Mismo blog, sección Indonesia. Excelente para información práctica.
   - Pagoda Bich Dong (cueva-templo)
   - Mejor época mayo-junio o sept-octubre (cosecha arroz)
 
+## [Rating 5/5] Mundo Nomada - Sapa y Montañas del Norte
+Mencionado en la ruta de 20 días. Montañas, arrozales en terrazas, etnias.
+
+* [Ruta por Vietnam de 20 días - Sección Sapa](https://mundo-nomada.com/vietnam/ruta-por-vietnam-de-20-dias/)
+  - Sapa y montañas del norte: trekking, etnias H'mong y Dao
+  - Arrozales en terrazas espectaculares
+  - Tren nocturno desde Hanoi a Lao Cai
+
+## [Rating 5/5] Mundo Nomada - Phong Nha-Ke Bang
+Mencionado en la guía completa de Vietnam. Cuevas más grandes del mundo.
+
+* [Guía completa para viajar a Vietnam - Sección Phong Nha](https://mundo-nomada.com/viajar-a-vietnam/)
+  - Parque Nacional Phong Nha-Ke Bang (UNESCO)
+  - Cuevas más grandes del mundo
+  - Montañas kársticas más antiguas de Asia
+
+## [Rating 5/5] Mundo Nomada - Da Lat (Descartado)
+Mencionado como excursión de 2 días desde HCMC. Descartado en favor de Phong Nha.
+
+* [Excursiones desde Ho Chi Minh - Sección Dalat](https://mundo-nomada.com/vietnam/excursiones-desde-ho-chi-minh/)
+  - Ciudad montaña 1500m, clima fresco
+  - Cataratas Pongour, Elephant, monasterio Truc Lam, lago Tuyen Lam
+
 ---
 
 ## Resumen de Features Extraídas

@@ -1,53 +1,67 @@
 # Lista de Tareas Pendientes - Vietnam + Bali 2026
 
-## 🔴 Prioridad Alta (Próximo Mes)
-- [ ] **Contactar con Swan Cruises:** Coordinar Shuttle Bus desde Hanói (requiere aviso previo).
-- [ ] **Definir fechas exactas vuelo Bali:** Confirmar si se mantiene el vuelo del 11 de Agosto o se extiende la estancia en Vietnam.
+## 🔴 Prioridad Alta
+- [x] **Confirmar cambio fechas Swan Cruises:** 31 Jul - 2 Ago. ✅
+- [ ] **Reservar vuelo SGN → DPS:** Para 14 Ago.
+- [ ] **Reservar trenes nocturnos Sapa:** Hanoi→Lao Cai (2 Ago) y Lao Cai→Hanoi (5 Ago). Baolau o 12go.asia (abren ~60-90 días antes).
+- [ ] **Cancelar Ninh Binh:** Cao Thạch Homestay (31 Jul - 2 Ago). Ya no va en ruta.
 
 ## 🏨 Alojamientos (Por Reservar)
-*Fechas estimadas según el itinerario lineal (Norte -> Sur):*
-- [ ] **Hue:** 5 Ago - 7 Ago (2 noches).
-- [ ] **Hoi An:** 7 Ago - 9 Ago (2 noches).
-- [ ] **Ho Chi Minh:** 9 Ago - 13 Ago (4 noches).
-- [ ] **Ubud (Bali):** 13 Ago - 16 Ago (3 noches).
-- [ ] **Amed (Bali):** 16 Ago - 18 Ago (2 noches).
-- [ ] **Munduk (Bali):** 18 Ago - 20 Ago (2 noches).
-- [ ] **Uluwatu (Bali):** 20 Ago - 28 Ago (8 noches).
+- [ ] **Sapa:** 3 Ago - 5 Ago (2 noches). Opciones Reddit:
+  - **The Zen House Sapa** (~25€) — "Best place during Vietnam trip." Comida casera, ambiente acogedor.
+  - **Sapa Farmstay** (~15-20€) — En arrozales, auténtico. Dueño (Lang) conocido localmente.
+  - **Mong Village Resort & Spa** (~50€) — "Best ever." Opción comfort.
+  - Buscar homestay en **Ta Van / Lao Chai** (fuera pueblo, naturaleza). Evitar centro Sapa.
+- [ ] **Phong Nha:** 6 Ago - 8 Ago (2 noches).
+- [ ] **Hoi An:** 8 Ago - 12 Ago (4 noches).
+- [ ] **Ho Chi Minh:** 12 Ago - 14 Ago (2 noches).
+- [ ] **Amed (Bali):** 14 Ago - 19 Ago (5 noches).
+- [ ] **Gili Islands:** 19 Ago - 23 Ago (4 noches). Decidir Gili Air vs Gili Trawangan.
+- [ ] **Uluwatu (Bali):** 23 Ago - 28 Ago (5 noches).
 
 *Reservados:*
 - [x] Hanoi: Amanda Boutique Hotel (29-31 Jul).
-- [x] Ninh Binh: Cao Thạch Homestay (31 Jul-2 Ago).
-- [x] Halong Bay: Swan Cruises (2 Ago-4 Ago).
+- [x] Halong Bay: Swan Cruises (pendiente cambio a 31 Jul - 2 Ago).
 
 ## ✈️🚂 Transporte Interno
-- [ ] **Tren Nocturno (Hanoi -> Hue):** SE3 para la noche del 4 de Agosto. Bajarse en Hue.
-  - *Reservar en Baolau o 12go.asia (abren ~60-90 días antes).*
-- [ ] **Vuelo Interno (Da Nang -> Ho Chi Minh):** Para la mañana del 9 de Agosto.
-  - *Aerolíneas:* Vietnam Airlines, VietJet o Bamboo.
-- [ ] **Traslados Privados:**
-  - [ ] Hanoi -> Ninh Binh.
-  - [ ] Ninh Binh -> Halong Bay.
-  - [ ] Halong Bay -> Hanoi (Shuttle Bus Swan Cruises).
-  - [ ] Hue -> Hoi An (vía Hai Van Pass con conductor/jeep el 7 de agosto).
-  - [ ] Hoi An -> Da Nang Airport (9 de agosto).
+- [ ] **Trenes Nocturnos Sapa (2):**
+  - [ ] Hanoi → Lao Cai: 2 Ago ~21:00.
+  - [ ] Lao Cai → Hanoi: 5 Ago ~21:00.
+- [ ] **Vuelo HAN → Dong Hoi:** 6 Ago mañana.
+- [ ] **Vuelo Dong Hoi → Da Nang:** 8 Ago mañana.
+- [ ] **Vuelo DAD → SGN:** 12 Ago mañana.
+- [ ] **Vuelo SGN → DPS:** 14 Ago.
+- [ ] **Fast Boat Amed → Gili:** 19 Ago.
+- [ ] **Fast Boat Gili → Bali Sur:** 23 Ago.
+- [ ] **Traslados:**
+  - [ ] Hanoi → Halong (31 Jul).
+  - [ ] Halong → Hanoi (2 Ago, para tren nocturno).
+  - [ ] Sapa ↔ Lao Cai (taxi ~10€).
+  - [ ] Da Nang Airport → Hoi An (8 Ago).
+  - [ ] Hoi An → Da Nang Airport (12 Ago).
+  - [ ] DPS Airport → Amed (14 Ago, ~3h).
+  - [ ] Uluwatu → DPS Airport (27 Ago noche).
 
 ## 🛂 Burocracia y Salud
-- [ ] **Pasaportes:** Verificar validez (mínimo 6 meses desde la fecha de salida).
-- [ ] **Visa Vietnam:**
-  - *Españoles:* Exención de visado hasta 45 días (confirmar norma vigente en 2026).
-  - *Alternativa:* E-Visa si se requiere.
-- [ ] **Visa Indonesia:**
-  - *VOA (Visa on Arrival):* Se puede pagar allí o tramitar e-VOA online días antes.
+- [ ] **Pasaportes:** Verificar validez (mínimo 6 meses).
+- [ ] **Visa Vietnam:** Exención hasta 45 días (confirmar 2026).
+- [ ] **Visa Indonesia:** VOA ~35 USD o e-VOA online.
 - [ ] **Salud:**
-  - [ ] Pedir cita en Sanidad Exterior / Vacunación Internacional.
-  - [ ] Revisar/Contratar seguro médico de viaje (además del de cancelación de vuelos).
+  - [ ] Cita Sanidad Exterior / Vacunación Internacional.
+  - [ ] Seguro médico de viaje.
 
-## 🎒 Preparativos Varios
-- [ ] **eSIM / Datos:** Revisar opciones (Airalo, Holafly o SIM local al llegar).
-- [ ] **Dinero:**
-  - [ ] Revisar tarjetas sin comisiones (Revolut, N26).
-  - [ ] Llevar Euros/Dólares en efectivo (nuevos, sin marcas) para cambiar.
+## 🎒 Preparativos
+- [ ] **eSIM:** Airalo, Holafly o SIM local.
+- [ ] **Dinero:** Revolut/N26 + efectivo EUR/USD.
 - [ ] **Equipo:**
-  - [ ] Repelente mosquitos fuerte (Relec Extra Fuerte / Goibi).
-  - [ ] Protector solar biodegradable (para el coral en Bali).
-  - [ ] Chubasqueros ligeros (Vietnam puede ser lluvioso).
+  - [ ] Repelente mosquitos fuerte.
+  - [ ] Protector solar biodegradable.
+  - [ ] Chubasqueros ligeros.
+  - [ ] Botas/zapatillas trekking (Sapa).
+
+## 🔍 Investigar
+- [ ] **Gili Air vs Gili Trawangan.**
+- [ ] **Operadores buceo Amed y Gili.**
+- [ ] **Dark Cave Phong Nha:** ¿Reservar antes o in situ?
+- [ ] **Trekking Sapa:** Guía local vs por libre. Reddit dice: evitar Cat Cat (tourist trap), ir a arrozales lejanos. Fansipan caro + colas largas.
+- [ ] **Shuttle Swan Cruises:** Coordinar transporte Halong↔Hanoi.
