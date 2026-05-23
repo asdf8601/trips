@@ -1,18 +1,28 @@
-title: "Vietnam + Bali 2026: Slow & Deep"
+title: "Vietnam + Bali 2026: Slow & Deep (Active → Chill)"
 start_date: "2026-07-28"
 end_date: "2026-08-28"
 description: |
-  Viaje combinado de 30 días: 16 noches Vietnam + 14 noches Bali/Gili.
-  
+  Viaje 30 días: Vietnam (16N) cultura+aventura + Bali/Gili (14N) relax.
+
   ## Reservas Confirmadas
-  - Vuelos Internacionales (Qatar/Emirates)
+  - Vuelos Qatar (MAD-HAN) / Emirates (DPS-MAD)
   - Hotel Hanoi: Amanda Boutique (29-31 Jul)
-  - Crucero Halong: Swan Cruises (31 Jul - 2 Ago) CONFIRMADO
-  
+  - Crucero Halong: Swan Cruises (31 Jul - 2 Ago)
+
   ## Filosofía
-  "Menos destinos, más profundidad. Madrugamos para evitar masas."
+  "Naturaleza fuerte + buceo + comida local + tranquilidad + aventura controlada.
+  Menos destinos, más profundidad. 5 bases Vietnam + 4 Bali = 9 bases en 30N."
+
+  ## Cambios mayo 2026 (Opción B + Amed extendido)
+  - Quitados: Sapa, Ninh Binh, Pu Luong, HCMC
+  - Vietnam 14N + Bali 16N (2N movidas de Hoi An a Amed)
+  - Phong Nha 3N cuevas
+  - Hoi An 4N (casco + cocina + Cham + My Son)
+  - Ben Tre 3N inmersión Mekong
+  - Amed 6N base buceo principal (USS Liberty + Seraya + Drop Off + Batur)
+  - Gili Air 4N, Sidemen 3N, Uluwatu 3N
 public: true
-budget_total: 8132.82
+budget_total: 9262.82
 local_currency: "EUR"
 stops:
   - name: "Hanoi"
@@ -20,20 +30,48 @@ stops:
     visit_date: "2026-07-29"
     arrival_date: "2026-07-29"
     departure_date: "2026-07-31"
-    notes: "Días 2-3: Llegada y exploración Old Quarter."
+    notes: "Días 2-3: Llegada y Old Quarter. Clase de cocina. 2N."
     latitude: 21.0285
     longitude: 105.8542
     activities:
-      - title: "Paseo Lago Hoan Kiem"
-        content: "Paseo de adaptación a la llegada."
+      - title: "Paseo Lago Hoan Kiem + Templo Ngoc Son"
+        content: "Adaptación a la llegada. Atardecer en el lago central."
         type: "place"
         rating: 4
-      - title: "Clase de Cocina"
-        content: "Pho, spring rolls, banh mi."
+      - title: "Clase de Cocina Vietnamita"
+        content: "Pho, spring rolls, banh mi. Reservar Hanoi Cooking Centre o similar."
         type: "activity"
         rating: 5
+      - title: "Old Quarter Walking Tour Amanecer"
+        content: "Casco antiguo 6:30 AM sin masas. 36 calles del gremio."
+        type: "activity"
+        rating: 5
+      - title: "Templo de la Literatura (Van Mieu)"
+        content: "Primera universidad de Vietnam (1070). ~2€."
+        type: "place"
+        rating: 4
+      - title: "Museo de Etnología"
+        content: "Mejor museo de Vietnam. 54 etnias del país. Casas tradicionales al aire libre."
+        type: "place"
+        rating: 5
+      - title: "Mausoleo Ho Chi Minh + Pagoda Pilar Único"
+        content: "Mañana temprano. Cierra lunes/viernes."
+        type: "place"
+        rating: 3
       - title: "Mercado Nocturno Dong Xuan"
-        content: "Compras y ambiente local."
+        content: "Calles peatonales weekends. Street food y compras."
+        type: "place"
+        rating: 3
+      - title: "Café Giang - Egg Coffee"
+        content: "Café con yema batida, invención de Hanoi (1946). 39 Nguyen Huu Huan."
+        type: "place"
+        rating: 4
+      - title: "Show Marionetas Acuáticas (Thang Long)"
+        content: "Arte tradicional 1000 años. ~5€."
+        type: "activity"
+        rating: 4
+      - title: "Train Street"
+        content: "Cafés junto a vías. Acceso restringido — bebida obligatoria."
         type: "place"
         rating: 3
 
@@ -42,232 +80,456 @@ stops:
     visit_date: "2026-07-31"
     arrival_date: "2026-07-31"
     departure_date: "2026-08-02"
-    notes: "Días 4-5: Crucero Bai Tu Long. CONFIRMADO 31 Jul - 2 Ago."
+    notes: "Días 4-5: Crucero Bai Tu Long. CONFIRMADO. 2N."
     latitude: 20.9101
     longitude: 107.1839
     activities:
       - title: "Crucero Swan Cruises"
-        content: "Navegación 2D/1N por Bai Tu Long. Kayak y cuevas."
+        content: "Navegación 2D/1N por Bai Tu Long (menos turística que Halong principal)."
         type: "activity"
         rating: 5
         price: 550.00
-
-  - name: "Sapa"
-    location: "Sapa, Lao Cai, Vietnam"
-    visit_date: "2026-08-03"
-    arrival_date: "2026-08-03"
-    departure_date: "2026-08-05"
-    notes: "Días 7-9: Montañas, arrozales, etnias. Tren nocturno ida y vuelta."
-    latitude: 22.3363
-    longitude: 103.8438
-    activities:
-      - title: "Cat Cat Village"
-        content: "Poblado etnia H'mong negro. Casas tradicionales, artesanía, cascada."
-        type: "place"
-        rating: 4
-      - title: "Trekking Arrozales"
-        content: "Y Linh Ho → Lao Chai → Ta Van. Arrozales en terrazas, comunidades locales."
+      - title: "Kayak entre Islotes Kársticos"
+        content: "Incluido en crucero. Mejor al amanecer o atardecer."
         type: "activity"
         rating: 5
-      - title: "Ta Phin - Dao Rojos"
-        content: "Aldea menos turística, etnia Dao rojo."
+      - title: "Cueva Sung Sot (Surprise Cave)"
+        content: "Cueva más grande de Halong. Iluminada."
+        type: "place"
+        rating: 4
+      - title: "Aldea Flotante Cua Van"
+        content: "Comunidad pesquera tradicional. Barca de remos local."
+        type: "place"
+        rating: 4
+      - title: "Tai Chi en Cubierta al Amanecer"
+        content: "Actividad clásica de crucero."
+        type: "activity"
+        rating: 4
+      - title: "Squid Fishing Nocturno"
+        content: "Pesca calamares desde barco. Suele incluir."
+        type: "activity"
+        rating: 3
+      - title: "Playa Ti Top"
+        content: "Subida 400 escalones a mirador panorámico."
         type: "place"
         rating: 4
 
   - name: "Phong Nha"
     location: "Phong Nha, Quang Binh, Vietnam"
-    visit_date: "2026-08-06"
-    arrival_date: "2026-08-06"
-    departure_date: "2026-08-08"
-    notes: "Días 10-11: Cuevas más grandes del mundo. Vuelo desde Hanoi."
+    visit_date: "2026-08-02"
+    arrival_date: "2026-08-02"
+    departure_date: "2026-08-05"
+    notes: "Días 6-8: Cuevas y aventura. Vuelo HAN→VDH 2 Ago tarde. 3N. Agosto = clima seco."
     latitude: 17.5929
     longitude: 106.2833
     activities:
-      - title: "Paradise Cave"
-        content: "Cueva seca espectacular, 31km de longitud."
+      - title: "Paradise Cave (Thien Duong)"
+        content: "Cueva seca espectacular, 31km. Pasarela 1km accesible."
         type: "place"
         rating: 5
-      - title: "Dark Cave"
-        content: "Tirolina sobre el río, baño de barro, natación en cueva, kayak."
+      - title: "Dark Cave (Hang Toi)"
+        content: "Tirolina sobre río, baño barro, natación cueva, kayak."
         type: "activity"
         rating: 5
       - title: "Phong Nha Cave"
-        content: "Recorrido en barco por la cueva principal."
+        content: "Recorrido en barca por la cueva fluvial principal."
         type: "activity"
         rating: 4
+      - title: "Bong Lai Valley - Pub with Cold Beer"
+        content: "Ruta rural en moto/bici. Pollo BBQ, cerveza fría, paisaje."
+        type: "place"
+        rating: 5
+      - title: "Mooc Spring Eco Trail"
+        content: "Pozas turquesa, tirolinas, kayak en jungla."
+        type: "activity"
+        rating: 4
+      - title: "Eight Lady Cave (Hang Tam Co)"
+        content: "Cueva con historia de la guerra. Ruta Ho Chi Minh."
+        type: "place"
+        rating: 3
+      - title: "Botanic Garden Trek"
+        content: "Senderos jungla, cascada Gio."
+        type: "activity"
+        rating: 3
+      - title: "Tu Lan Cave (Oxalis multi-day)"
+        content: "Tour multi-día con Oxalis si interesa caving serio. ~300€/p, 2 días."
+        type: "activity"
+        rating: 5
 
   - name: "Hoi An"
     location: "Hoi An, Vietnam"
-    visit_date: "2026-08-08"
-    arrival_date: "2026-08-08"
-    departure_date: "2026-08-12"
-    notes: "Días 12-15: Casco antiguo, cocina, playa. 4 noches slow."
+    visit_date: "2026-08-05"
+    arrival_date: "2026-08-05"
+    departure_date: "2026-08-09"
+    notes: "Días 9-12: Casco UNESCO, cocina, Cham, My Son. 4N."
     latitude: 15.8801
     longitude: 108.3380
     activities:
       - title: "Hoi An 6:30 AM"
-        content: "Disfrutar del pueblo sin turistas."
+        content: "Casco antiguo sin turistas. Mejor momento del día."
         type: "place"
         rating: 5
       - title: "Clase de Cocina Hoi An"
-        content: "Cao lau, banh mi, white rose."
+        content: "Cao lau, banh mi, white rose. Reservar Red Bridge o Morning Glory."
         type: "activity"
         rating: 5
-      - title: "Islas Cham (Cù Lao Chàm)"
-        content: "Excursión en barco: snorkel, playa virgen, reserva marina."
+      - title: "Islas Cham (Cu Lao Cham)"
+        content: "Day-trip snorkel, playa virgen, reserva marina. ~30€."
         type: "activity"
         rating: 5
       - title: "An Bang Beach"
-        content: "Mejor playa cerca de Hoi An."
+        content: "Mejor playa cerca de Hoi An. Mejor que Cua Dai (erosión)."
         type: "place"
-        rating: 4
+        rating: 5
       - title: "Basket Boats Cam Thanh"
-        content: "Paseo en barca cesta por el bosque de cocoteros."
+        content: "Paseo barca cesta en bosque cocoteros. Pesca local."
         type: "activity"
         rating: 4
       - title: "Puente Japonés"
-        content: "Icono de Hoi An, mejor al atardecer con farolillos."
+        content: "Icono Hoi An. Atardecer con farolillos."
         type: "place"
         rating: 4
+      - title: "Ruinas My Son"
+        content: "Templos Cham (siglo IV-XIII). Amanecer (5:30 salida) sin masas."
+        type: "place"
+        rating: 5
+      - title: "Marble Mountains (Ngu Hanh Son)"
+        content: "Camino Da Nang-Hoi An. Cuevas, pagodas, mirador."
+        type: "place"
+        rating: 4
+      - title: "Sastrería a Medida"
+        content: "Hoi An famosa por traje/camisa en 24h. Yaly Couture o BeBe Tailor."
+        type: "activity"
+        rating: 4
+      - title: "Lantern Making Class"
+        content: "Hacer farolillo de seda tradicional. ~15€."
+        type: "activity"
+        rating: 4
+      - title: "Atardecer Río Thu Bon en Barca"
+        content: "Soltar farolillo flotante. Romántico."
+        type: "activity"
+        rating: 4
+      - title: "Spa Tradicional Vietnamita"
+        content: "Día spa relax mid-trip. La Spa, Palmarosa, Countryside Spa."
+        type: "activity"
+        rating: 4
+      - title: "Bici Tra Que Vegetable Village"
+        content: "Pueblo de horticultores tradicionales. Combinable con cocina."
+        type: "activity"
+        rating: 4
 
-  - name: "Ho Chi Minh City"
-    location: "Ho Chi Minh City, Vietnam"
-    visit_date: "2026-08-12"
-    arrival_date: "2026-08-12"
-    departure_date: "2026-08-14"
-    notes: "Días 16-17: Cu Chi + Mekong. 2 noches intensas."
-    latitude: 10.8231
-    longitude: 106.6297
+  - name: "Ben Tre (Mekong)"
+    location: "Ben Tre, Vietnam"
+    visit_date: "2026-08-09"
+    arrival_date: "2026-08-09"
+    departure_date: "2026-08-12"
+    notes: "Días 13-15: Mekong rural inmersivo. Mejor que Can Tho. 3N homestay."
+    latitude: 10.2433
+    longitude: 106.3756
     activities:
-      - title: "Túneles de Cu Chi"
-        content: "Complejo subterráneo de la guerra. Tour medio día (~20€/persona)."
+      - title: "Canales en Sampan"
+        content: "Sampan por canales estrechos entre palmeras Nipa."
         type: "activity"
         rating: 5
-        price: 40.00
-        duration: "5h"
-      - title: "Delta del Mekong"
-        content: "Día completo: barcas, frutas, caramelos coco, Templo Cao Dai (~25€/persona)."
+      - title: "Bici Rural Ben Tre"
+        content: "Caminos entre arrozales, cocoteros, casas locales."
         type: "activity"
         rating: 5
-        price: 50.00
-        duration: "8h"
+      - title: "Fábrica Caramelos de Coco"
+        content: "Producción artesanal local. Cata."
+        type: "place"
+        rating: 4
+      - title: "Talleres Artesanos Coco"
+        content: "Cestos, esteras, productos de fibra coco."
+        type: "place"
+        rating: 4
+      - title: "Cooking Class Mekong"
+        content: "Pancakes Vietnamitas (banh xeo), elephant ear fish."
+        type: "activity"
+        rating: 5
+      - title: "Atardecer Río Mekong en Barca"
+        content: "Paseo en barca al sunset por el delta."
+        type: "activity"
+        rating: 5
+      - title: "Mercado Local Ben Tre"
+        content: "Mercado matinal local, sin turistas. Productos del delta."
+        type: "place"
+        rating: 4
+      - title: "Visita Pagoda Vinh Trang"
+        content: "Pagoda budista grande con jardines en My Tho (camino)."
+        type: "place"
+        rating: 3
+      - title: "Granja Cocodrilos / Apicultura"
+        content: "Visitas culturales rurales tipicas Mekong."
+        type: "place"
+        rating: 3
 
   - name: "Amed"
     location: "Amed, Bali, Indonesia"
-    visit_date: "2026-08-14"
-    arrival_date: "2026-08-14"
-    departure_date: "2026-08-19"
-    notes: "Días 18-22: Costa Este. Buceo y volcán. 5 noches."
+    visit_date: "2026-08-12"
+    arrival_date: "2026-08-12"
+    departure_date: "2026-08-18"
+    notes: "Días 16-21: Costa Este. Base buceo principal. 6N permite USS Liberty + Seraya + Drop Off + Batur + Lempuyang. Bunutan/Lipah."
     latitude: -8.3486
     longitude: 115.6392
     activities:
-      - title: "Snorkel Arrecifes Amed"
-        content: "Arrecifes accesibles desde la playa."
-        type: "activity"
-        rating: 4
-      - title: "Buceo USS Liberty"
-        content: "Pecio WWII en Tulamben. Acceso desde playa, ~30m profundidad."
+      - title: "Buceo USS Liberty (Tulamben)"
+        content: "Amanecer 6:30, antes de day-trippers. Operador: Ecodive Bali o Adventure Divers Bali."
         type: "activity"
         rating: 5
+      - title: "Snorkel Japanese Wreck"
+        content: "Pecio japonés WWII accesible desde playa. Tortugas, peces tropicales."
+        type: "activity"
+        rating: 5
+      - title: "Snorkel Coral Garden Amed"
+        content: "Arrecifes desde playa Jemeluk Bay."
+        type: "activity"
+        rating: 4
       - title: "Monte Batur Amanecer"
-        content: "Trekking volcán al amanecer. Salida ~02:00 desde Amed."
+        content: "Trekking volcán activo, salida ~02:00. Vista cráter al amanecer."
         type: "activity"
         rating: 5
-
-  - name: "Gili Islands"
-    location: "Gili Islands, Lombok, Indonesia"
-    visit_date: "2026-08-19"
-    arrival_date: "2026-08-19"
-    departure_date: "2026-08-23"
-    notes: "Días 23-26: Isla sin motores. Snorkel tortugas, buceo. 4 noches."
-    latitude: -8.3520
-    longitude: 116.0440
-    activities:
-      - title: "Snorkel Tortugas"
-        content: "Tortugas marinas visibles desde la orilla."
+      - title: "Buceo Seraya Secret (muck diving)"
+        content: "Macro fauna rara — caballitos, nudibranquios, pulpos mimic."
         type: "activity"
         rating: 5
-      - title: "Buceo Gili"
-        content: "Tiburones de arrecife, tortugas, coral."
+      - title: "Buceo Drop Off Tulamben"
+        content: "Pared vertical 60m. Coral wall, tiburones puntas blancas."
         type: "activity"
         rating: 5
-      - title: "Vuelta a la Isla en Bici"
-        content: "Gili Air: ~1.5h en bici. Sin motos ni coches."
+      - title: "Tirta Gangga Water Palace"
+        content: "Jardines, estanques con peces, escalones piedra. ~30min coche."
+        type: "place"
+        rating: 4
+      - title: "Pura Lempuyang (Gates of Heaven)"
+        content: "Templo con vista al Agung. Llegar 6:00 AM para evitar colas."
+        type: "place"
+        rating: 5
+      - title: "Free Diving Course"
+        content: "Apnea SSI/AIDA. Apneista Bali Freedivers."
         type: "activity"
         rating: 4
+      - title: "Atardecer Jemeluk Viewpoint"
+        content: "Mirador con vista bahía y Agung al fondo."
+        type: "place"
+        rating: 5
+      - title: "Salinas Tradicionales Amed"
+        content: "Producción artesanal de sal marina."
+        type: "place"
+        rating: 3
+
+  - name: "Gili Air"
+    location: "Gili Air, Lombok, Indonesia"
+    visit_date: "2026-08-18"
+    arrival_date: "2026-08-18"
+    departure_date: "2026-08-22"
+    notes: "Días 22-25: Sin motores. Snorkel, buceo. Lado norte/oeste = silencio. 4N."
+    latitude: -8.3520
+    longitude: 116.0840
+    activities:
+      - title: "Snorkel Tortugas (Turtle Heaven)"
+        content: "Tortugas marinas visibles desde la orilla. Mejor norte de la isla."
+        type: "activity"
+        rating: 5
+      - title: "Buceo Shark Point"
+        content: "Tiburones de arrecife puntas blancas. Manta Dive o Blue Marlin."
+        type: "activity"
+        rating: 5
+      - title: "Buceo Hans Reef (macro)"
+        content: "Caballitos de mar, pez rana, mantis. Operador: Manta Dive."
+        type: "activity"
+        rating: 5
+      - title: "Buceo Halik"
+        content: "Cardúmenes, tortugas, jacks. Drift dive suave."
+        type: "activity"
+        rating: 4
+      - title: "Snorkel Nest Statues (Bask)"
+        content: "Esculturas sumergidas. Punto único."
+        type: "activity"
+        rating: 4
+      - title: "Vuelta a la Isla en Bici"
+        content: "~1.5h. Sin motos ni coches."
+        type: "activity"
+        rating: 5
+      - title: "Yoga al Amanecer"
+        content: "Sesiones en H2O Yoga o Flowers&Fire."
+        type: "activity"
+        rating: 4
+      - title: "Sunset Mowies Bar"
+        content: "Cocktails al atardecer lado oeste, swings sobre mar."
+        type: "place"
+        rating: 5
+      - title: "SUP Transparente"
+        content: "Paddleboard con fondo de cristal. Ver fondo navegando."
+        type: "activity"
+        rating: 4
+      - title: "Cooking Class Sasak"
+        content: "Cocina Lombok local: ayam taliwang, plecing kangkung."
+        type: "activity"
+        rating: 4
+      - title: "Free Diving"
+        content: "Apnea con visibilidad excelente. Freedive Gili."
+        type: "activity"
+        rating: 4
+
+  - name: "Sidemen"
+    location: "Sidemen, Karangasem, Bali, Indonesia"
+    visit_date: "2026-08-22"
+    arrival_date: "2026-08-22"
+    departure_date: "2026-08-25"
+    notes: "Días 26-28: Valle interior, arrozales sin turistas. Ubud de hace 20 años. 3N descompresión."
+    latitude: -8.4647
+    longitude: 115.4486
+    activities:
+      - title: "Trekking Arrozales Sidemen"
+        content: "Vistas Agung, pueblos auténticos. Ruta clásica 3-4h."
+        type: "activity"
+        rating: 5
+      - title: "Tejedores Ikat Endek/Songket"
+        content: "Visita talleres tradicionales. Pueblo Putri Ayu Tenun."
+        type: "place"
+        rating: 4
+      - title: "Rafting Río Telaga Waja"
+        content: "Aventura suave clase II-III. ~25€."
+        type: "activity"
+        rating: 4
+      - title: "Cascada Tukad Cepung"
+        content: "Cascada en cueva con rayo de luz. 30min coche."
+        type: "place"
+        rating: 5
+      - title: "Pura Bukit Tageh Viewpoint"
+        content: "Templo con vista panorámica al valle y Agung."
+        type: "place"
+        rating: 4
+      - title: "Sunrise Photo Spot Arrozales"
+        content: "Bukit Cinta o mirador Wapa di Ume. Niebla sobre terrazas."
+        type: "place"
+        rating: 5
+      - title: "Cooking Class Balinese"
+        content: "Sate lilit, gado-gado, lawar. Suele incluir mercado local."
+        type: "activity"
+        rating: 4
+      - title: "Yoga / Spa"
+        content: "Sesiones en Wapa di Ume o Samanvaya. Masaje balinés."
+        type: "activity"
+        rating: 4
+      - title: "Mercado Sidemen"
+        content: "Mercado local matinal (no turístico). Productos del valle."
+        type: "place"
+        rating: 4
+      - title: "Pura Lempuyang day-trip"
+        content: "Gates of Heaven. ~1h coche desde Sidemen."
+        type: "place"
+        rating: 5
 
   - name: "Uluwatu"
-    location: "Uluwatu, Bali, Indonesia"
-    visit_date: "2026-08-23"
-    arrival_date: "2026-08-23"
+    location: "Uluwatu (Bingin/Pecatu), Bali, Indonesia"
+    visit_date: "2026-08-25"
+    arrival_date: "2026-08-25"
     departure_date: "2026-08-28"
-    notes: "Días 27-30: Acantilados, playas, relax final. 5 noches."
+    notes: "Días 29-31: Acantilados. Base Bingin interior/Pecatu (NO Padang Padang). 3N + day-trip Penida en ruta."
     latitude: -8.8291
     longitude: 115.0849
     activities:
-      - title: "Templo Uluwatu & Kecak"
-        content: "Atardecer en el acantilado con danza Kecak."
+      - title: "Day-trip Buceo Nusa Penida"
+        content: "Manta Point + Crystal Bay. Mola-mola plena temporada ago. Operador: Joe's Gone Diving (Sanur)."
+        type: "activity"
+        rating: 5
+      - title: "Templo Uluwatu & Danza Kecak"
+        content: "Atardecer en acantilado con danza fuego Kecak. Reservar entradas."
         type: "place"
         rating: 5
-      - title: "Playas Uluwatu"
-        content: "Padang Padang, Dreamland, Bingin."
+      - title: "Playa Bingin"
+        content: "Bajada acantilado. Más tranquila que Padang Padang. Surf intermedio."
         type: "place"
         rating: 5
+      - title: "Playa Dreamland"
+        content: "Arena blanca, olas suaves zona izquierda."
+        type: "place"
+        rating: 4
+      - title: "Cena Pescados Jimbaran"
+        content: "Pescado en la playa al atardecer. Bahía Jimbaran (Menega/Lia Café)."
+        type: "place"
+        rating: 5
+      - title: "Karang Boma Cliff"
+        content: "Alternativa sunset menos masificada que Uluwatu Temple."
+        type: "place"
+        rating: 5
+      - title: "Pandawa Beach"
+        content: "Acantilados tallados, arena dorada. Más tranquila."
+        type: "place"
+        rating: 4
+      - title: "Garuda Wisnu Kencana (GWK)"
+        content: "Estatua monumental Vishnu sobre Garuda. Vista panorámica."
+        type: "place"
+        rating: 3
+      - title: "Clase Surf Principiante"
+        content: "Padang Padang (avanzado), pero clases en Balangan."
+        type: "activity"
+        rating: 4
+      - title: "Spa / Masaje Balinés"
+        content: "Día spa último día. Karma Spa Uluwatu o Mosaic Bingin."
+        type: "activity"
+        rating: 4
+      - title: "Suluban Beach (Blue Point)"
+        content: "Cueva-acceso a playa de surf. Vista única."
+        type: "place"
+        rating: 4
 
 accommodations:
   - stop: "Hanoi"
     name: "Amanda Boutique Hotel & Travel"
     address: "62E Phố Cầu Gỗ, Hoan Kiem, Hanoi"
     rating: 4
-    notes: "CONFIRMADO. Precio: 39.58 EUR (2 noches)."
+    notes: "CONFIRMADO. 39.58 EUR (2 noches)."
 
   - stop: "Halong Bay"
     name: "Swan Cruises Halong"
     address: "Hon Gai Wharf, Ha Long"
     rating: 5
-    notes: "CONFIRMADO. 31 Jul - 2 Ago. Precio: 550.00 EUR."
-
-  - stop: "Sapa"
-    name: "Hotel en Sapa"
-    address: "Sapa, Lao Cai"
-    rating: 4
-    notes: "Pendiente. 2 noches hotel (3ª noche en tren). Presupuesto ~40 EUR."
+    notes: "CONFIRMADO. 31 Jul - 2 Ago. 550.00 EUR."
 
   - stop: "Phong Nha"
-    name: "Hotel en Phong Nha"
-    address: "Phong Nha, Quang Binh"
-    rating: 4
-    notes: "Pendiente. 2 noches. Presupuesto ~30 EUR."
+    name: "Chay Lap Farmstay"
+    address: "Chay Lap, Phong Nha"
+    rating: 5
+    notes: "Pendiente. Alejado, tranquilo. Alt: Phong Nha Farmstay, Victory Road Villas. ~50 EUR/noche × 3N."
 
   - stop: "Hoi An"
-    name: "Hotel en Hoi An"
-    address: "Hoi An, Vietnam"
-    rating: 4
-    notes: "Pendiente. 4 noches. Presupuesto ~100 EUR."
+    name: "La Siesta Hoi An Resort & Spa"
+    address: "Hoi An (arrozales)"
+    rating: 5
+    notes: "Pendiente. Alt: Jade Hoi An Rice Paddies, AIRA Boutique (An Bang). ~100 EUR/noche × 4N."
 
-  - stop: "Ho Chi Minh City"
-    name: "Hotel en HCMC"
-    address: "District 1, HCMC"
+  - stop: "Ben Tre (Mekong)"
+    name: "Mango Home Riverside"
+    address: "Ben Tre, Mekong"
     rating: 4
-    notes: "Pendiente. 2 noches. Presupuesto ~50 EUR."
+    notes: "Pendiente. Alt: Ecoco Homestay Mekong, Le Jardin du Mekong. ~50 EUR/noche × 3N."
 
   - stop: "Amed"
-    name: "Hotel en Amed"
-    address: "Amed, Bali"
-    rating: 4
-    notes: "Pendiente. 5 noches. Presupuesto ~100 EUR."
+    name: "Jepun Bali Villas"
+    address: "Bunutan/Lipah, Amed, Bali"
+    rating: 5
+    notes: "Pendiente. Oceanfront, plunge pool. Alt: The Griya Villas & Spa, Santai Hotel, Life in Amed Boutique. ~120 EUR/noche × 6N."
 
-  - stop: "Gili Islands"
-    name: "Hotel en Gili"
-    address: "Gili Air o Gili Trawangan"
-    rating: 4
-    notes: "Pendiente. 4 noches. Presupuesto ~120 EUR."
+  - stop: "Gili Air"
+    name: "Slow Gili Air Private Pool Villas"
+    address: "Gili Air norte/oeste, Lombok"
+    rating: 5
+    notes: "Pendiente. Alt: Mowies Gili Air, Villa Tokay, PinkCoco, Manta Dive Resort. ~130 EUR/noche × 4N."
+
+  - stop: "Sidemen"
+    name: "Wapa di Ume Sidemen"
+    address: "Sidemen, Karangasem, Bali"
+    rating: 5
+    notes: "Pendiente. Travelers' Choice 2025. Alt: Samanvaya (adults-only), Natural View Sidemen. ~150 EUR/noche × 3N."
 
   - stop: "Uluwatu"
-    name: "Hotel en Uluwatu"
-    address: "Uluwatu, Bali"
+    name: "Melali Bingin"
+    address: "Bingin interior, Uluwatu, Bali"
     rating: 5
-    notes: "Pendiente. 5 noches. Presupuesto ~250 EUR."
+    notes: "Pendiente. Alt: Lago Villas Bingin, Jellyfish Villas, Origin Uluwatu. ~200 EUR/noche × 3N."
 
 transports:
   - transport_type: "flight"
@@ -278,67 +540,141 @@ transports:
     departure_date: "2026-07-28T09:05:00+02:00"
     arrival_date: "2026-07-29T07:15:00+07:00"
     price: 2116.41
-    notes: "CONFIRMADO. Ida."
+    notes: "CONFIRMADO. Ida via Doha."
 
-  - transport_type: "train"
+  - transport_type: "car"
     origin: "Hanoi"
-    destination: "Lao Cai (Sapa)"
-    operator: "Vietnam Railways"
-    departure_date: "2026-08-02T21:00:00+07:00"
-    arrival_date: "2026-08-03T05:00:00+07:00"
-    price: 60.00
-    notes: "Tren nocturno. Cabina 4 plazas. Pendiente reservar."
+    destination: "Halong"
+    departure_date: "2026-07-31T09:00:00+07:00"
+    price: 70.00
+    notes: "Traslado privado ~2.5h. Coordinar con Swan Cruises."
 
-  - transport_type: "train"
-    origin: "Lao Cai (Sapa)"
-    destination: "Hanoi"
-    operator: "Vietnam Railways"
-    departure_date: "2026-08-05T21:00:00+07:00"
-    arrival_date: "2026-08-06T05:00:00+07:00"
+  - transport_type: "car"
+    origin: "Halong"
+    destination: "Hanoi (HAN aeropuerto)"
+    departure_date: "2026-08-02T13:00:00+07:00"
     price: 60.00
-    notes: "Tren nocturno vuelta. Pendiente reservar."
+    notes: "Traslado privado ~2.5h tras desembarque crucero."
 
   - transport_type: "flight"
     origin: "Hanoi (HAN)"
     destination: "Dong Hoi (VDH)"
-    departure_date: "2026-08-06T08:00:00+07:00"
+    departure_date: "2026-08-02T18:00:00+07:00"
     price: 50.00
-    notes: "Pendiente. VietJet o Vietnam Airlines. ~1h."
+    notes: "Pendiente. VietJet/VN Airlines. ~1.5h."
+
+  - transport_type: "car"
+    origin: "Dong Hoi (VDH)"
+    destination: "Phong Nha"
+    departure_date: "2026-08-02T20:00:00+07:00"
+    price: 25.00
+    notes: "Traslado ~45min."
 
   - transport_type: "flight"
     origin: "Dong Hoi (VDH)"
     destination: "Da Nang (DAD)"
-    departure_date: "2026-08-08T08:00:00+07:00"
+    departure_date: "2026-08-05T12:00:00+07:00"
     price: 50.00
-    notes: "Pendiente. VietJet o Vietnam Airlines. ~1h."
+    notes: "Pendiente. VietJet/VN Airlines. ~1h."
+
+  - transport_type: "car"
+    origin: "Phong Nha"
+    destination: "Dong Hoi (VDH)"
+    departure_date: "2026-08-05T10:00:00+07:00"
+    price: 25.00
+    notes: "Traslado ~45min al aeropuerto."
+
+  - transport_type: "car"
+    origin: "Da Nang (DAD)"
+    destination: "Hoi An"
+    departure_date: "2026-08-05T14:00:00+07:00"
+    price: 25.00
+    notes: "Traslado ~45min."
 
   - transport_type: "flight"
     origin: "Da Nang (DAD)"
     destination: "Ho Chi Minh (SGN)"
-    departure_date: "2026-08-12T08:00:00+07:00"
+    departure_date: "2026-08-09T09:00:00+07:00"
     price: 60.00
-    notes: "Pendiente. VietJet o Vietnam Airlines."
+    notes: "Pendiente. VietJet/VN Airlines."
+
+  - transport_type: "car"
+    origin: "Ho Chi Minh (SGN)"
+    destination: "Ben Tre"
+    departure_date: "2026-08-09T13:00:00+07:00"
+    price: 50.00
+    notes: "Traslado privado ~2h."
+
+  - transport_type: "car"
+    origin: "Ben Tre"
+    destination: "Ho Chi Minh (SGN)"
+    departure_date: "2026-08-12T08:00:00+07:00"
+    price: 50.00
+    notes: "Traslado privado ~2h al aeropuerto."
 
   - transport_type: "flight"
     origin: "Ho Chi Minh (SGN)"
     destination: "Bali (DPS)"
-    departure_date: "2026-08-14T08:00:00+07:00"
+    departure_date: "2026-08-12T13:00:00+07:00"
     price: 200.00
-    notes: "Pendiente reservar. ~3h."
+    notes: "Pendiente reservar. ~4h directo o escala."
 
-  - transport_type: "boat"
-    origin: "Amed"
-    destination: "Gili Islands"
-    departure_date: "2026-08-19T09:00:00+08:00"
-    price: 40.00
-    notes: "Fast boat ~1.5h. Pendiente."
-
-  - transport_type: "boat"
-    origin: "Gili Islands"
-    destination: "Uluwatu (via Padangbai/Serangan)"
-    departure_date: "2026-08-23T09:00:00+08:00"
+  - transport_type: "car"
+    origin: "Bali (DPS)"
+    destination: "Amed"
+    departure_date: "2026-08-12T19:00:00+08:00"
     price: 50.00
-    notes: "Fast boat + traslado sur Bali. Pendiente."
+    notes: "Traslado privado ~3h."
+
+  - transport_type: "car"
+    origin: "Amed"
+    destination: "Padang Bai"
+    departure_date: "2026-08-18T08:00:00+08:00"
+    price: 30.00
+    notes: "~1h15."
+
+  - transport_type: "boat"
+    origin: "Padang Bai"
+    destination: "Gili Air"
+    operator: "Gili Gili Fast Boat o Eka Jaya"
+    departure_date: "2026-08-18T10:30:00+08:00"
+    price: 40.00
+    notes: "Fast boat ~2h15."
+
+  - transport_type: "boat"
+    origin: "Gili Air"
+    destination: "Padang Bai"
+    departure_date: "2026-08-22T09:00:00+08:00"
+    price: 40.00
+    notes: "Fast boat ~2h15."
+
+  - transport_type: "car"
+    origin: "Padang Bai"
+    destination: "Sidemen"
+    departure_date: "2026-08-22T12:00:00+08:00"
+    price: 25.00
+    notes: "~45min."
+
+  - transport_type: "car"
+    origin: "Sidemen"
+    destination: "Sanur (day-trip Penida)"
+    departure_date: "2026-08-25T06:00:00+08:00"
+    price: 40.00
+    notes: "Coche a Sanur ~1h. Fast boat Sanur↔Nusa Penida con buceo (todo en day-trip)."
+
+  - transport_type: "car"
+    origin: "Sanur"
+    destination: "Uluwatu"
+    departure_date: "2026-08-25T17:00:00+08:00"
+    price: 35.00
+    notes: "~1h tras buceo Penida."
+
+  - transport_type: "car"
+    origin: "Uluwatu"
+    destination: "Bali (DPS)"
+    departure_date: "2026-08-27T21:30:00+08:00"
+    price: 25.00
+    notes: "~40min al aeropuerto para vuelo 00:35."
 
   - transport_type: "flight"
     origin: "Bali (DPS)"
@@ -348,4 +684,4 @@ transports:
     departure_date: "2026-08-28T00:35:00+08:00"
     arrival_date: "2026-08-28T13:30:00+02:00"
     price: 2116.41
-    notes: "CONFIRMADO. Vuelta."
+    notes: "CONFIRMADO. Vuelta via Dubai."
