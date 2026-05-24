@@ -1,6 +1,17 @@
 # Recursos sobre Vietnam-Bali 2026
 
-*Actualizado mayo 2026 con investigación nueva (Pu Luong, Ninh Binh, Sidemen, buceo Bali).*
+*Actualizado 24 mayo 2026 — ruta clásica N→S Vietnam + Bali profundo. Añadido Viajeros Callejeros.*
+
+## [Rating 5/5] Viajeros Callejeros - Vietnam (ruta clásica N→S)
+
+Blog español, guías prácticas detalladas. Match perfecto plan actual.
+
+* [Qué ver Hanoi](https://www.viajeroscallejeros.com/que-ver-en-hanoi/)
+* [Crucero Bahía de Halong](https://www.viajeroscallejeros.com/crucero-bahia-de-halong/)
+* [Qué ver Ninh Binh / Tam Coc](https://www.viajeroscallejeros.com/que-ver-en-ninh-binh-tam-coc/)
+* [Qué ver Hue](https://www.viajeroscallejeros.com/que-ver-en-hue/)
+* [Qué ver Hoi An](https://www.viajeroscallejeros.com/que-ver-en-hoi-an/)
+* [Qué ver Ho Chi Minh](https://www.viajeroscallejeros.com/que-ver-en-ho-chi-minh/)
 
 ## [Rating 5/5] Mundo Nómada - Vietnam
 
@@ -48,10 +59,11 @@ Blog en español especializado SE Asia. Referencia principal.
 * [Mundo Nómada — Hoi An](https://mundo-nomada.com/vietnam/hoi-an-y-su-precioso-casco-antiguo-una-de-las-joyas-de-vietnam/)
   - 6:30 AM casco sin turistas. Islas Cham snorkel. An Bang Beach.
 
-### Hue (descartado)
+### Hue (1N en plan actual)
+* [Viajeros Callejeros — Qué ver Hue](https://www.viajeroscallejeros.com/que-ver-en-hue/)
 * [My Favourite Escapes — Hoi An vs Hue](https://myfavouriteescapes.com/hoi-an-vs-hue/)
 * [Indie Traveller — Da Nang vs Hue vs Hoi An](https://www.indietraveller.co/da-nang-vs-hue-vs-hoi-an/)
-  - No encaja con perfil (cultura imperial, 1N no compensa traslados).
+  - 1N corto: priorizar Ciudadela + tumbas Tu Duc/Khai Dinh. Bun bo Hue cena.
 
 ### HCMC + Mekong
 * [Mundo Nómada — Cosas que hacer en HCMC](https://mundo-nomada.com/vietnam/ideas-de-cosas-que-hacer-y-ver-en-ho-chi-minh/)
@@ -125,6 +137,21 @@ Blog en español especializado SE Asia. Referencia principal.
 
 ## Logística Transporte
 
+### Sleeper Vietnam (NB ↔ Hue, otros)
+* [Two Peas Abroad — Top sleeper train companies Vietnam 2025](https://www.twopeasabroad.com/article/top-sleeper-train-companies-vietnam-2025)
+  - **Laman Express:** premium 4/2-bed cabinas, atención cuidada
+  - **Lotus Trains:** moderno, WiFi+chargers, mid-budget
+  - **Violette Express:** budget, 4-bed cabinas
+  - Cabinas: soft sleeper 4-berth AC (recomendado) vs 2-berth (couples premium) vs hard sleeper 6-berth (budget)
+  - Reserva [12Go.asia](https://12go.asia), llegar 1h antes
+  - Reunification Express ruta Hanoi→Hue ~12-14h (NB = -2/-3h)
+
+### Sleeper bus alternativa (Viajeros Callejeros)
+  - ~13h, ~20€/cabina cama, sin baño (paradas 2h)
+  - Cabinas centrales = sin ruido motor
+  - Reserva 12Go.asia
+
+### Ferries Bali/Lombok
 * [GiliFerries — Padang Bai → Gili Air](https://www.giliferries.com/fast-boat/padangbai/gili-air)
   - 19 salidas/día. Gili Gili Fast Boat, Eka Jaya.
 
