@@ -164,17 +164,49 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 
 ## Presupuesto Estimado (2 Personas)
 
+### Vuelos (REALES)
+
 | Concepto | Coste | Notas |
 | :--- | :--- | :--- |
-| **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | REALES |
-| **Vuelo SGN-DPS** | 524,99 € | SGN-DPS 10 Ago 08:15 (VietJet Turista Premium) ✓ |
-| **Vuelos internos Vietnam (1)** | 169,15 € | DAD-SGN 9 Ago 10:50 (VietJet Turista Premium) ✓ |
-| **Alojamientos (~30N)** | ~2.460,00 € | Confirmados: Hanoi, Halong. Gili 3N + Sidemen 5N + Uluwatu 4N |
-| **Actividades** | ~1.250,00 € | Crucero Swan, buceo x5-6, Trang An, Hue, Penida, Batur, Cham |
-| **Comida** | ~600,00 € | ~20€/dia para 2 |
-| **Transporte local** | ~450,00 € | Coches privados (Halong→NB, NB→Hue, Hue→Hoi An), fast boats |
-| **Varios** | ~200,00 € | SIM, seguro, visado Indonesia |
-| **TOTAL** | **~9.886,96 €** | **~4.943,48 € p/p** |
+| **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | Qatar + Emirates ✓ |
+| **Vuelo SGN-DPS** | 524,99 € | VietJet 10 Ago 08:15 Turista Premium ✓ |
+| **Vuelo interno DAD-SGN** | 169,15 € | VietJet 9 Ago 10:50 Turista Premium ✓ |
+| **Subtotal vuelos** | **4.926,96 €** | Todos confirmados |
+
+### Alojamientos (9/10 REALES + Amed estimado)
+
+| Base | Noches | Coste |
+| :--- | :---: | ---: |
+| Hanoi (TrangTrang) ✓ | 2 | 38,36 € |
+| Halong (Swan Cruises) ✓ | 2 | 550,00 € |
+| Ninh Binh (Tam Coc Serenity) ✓ | 2 | 59,00 € |
+| Hue (Kha Hostel) ✓ | 1 | 10,70 € |
+| Hoi An (Hoianese) ✓ | 4 | 140,34 € |
+| HCM (Little Saigon) ✓ | 1 | 38,94 € |
+| Amed (Pondok Wisata) ✓ | 6 | 258,00 € |
+| Gili Air (Talent Sunset) ✓ | 3 | 118,41 € |
+| Sidemen (Giri Carik) ✓ | 5 | 143,50 € |
+| Uluwatu (Inn Possible) ✓ | 4 | 280,68 € |
+| **Subtotal alojamientos** | **30N** | **1.637,93 €** |
+
+### Resto
+
+| Concepto | Coste | Notas |
+| :--- | :--- | :--- |
+| **Actividades** | ~1.250,00 € | Buceo Black Amed Diving x3-4, Gili x2, Penida day-trip, Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak Uluwatu |
+| **Comida** | ~750,00 € | ~25€/día pareja (street food VN + restos Bali) |
+| **Transporte local** | ~635,00 € | Coches Halong→NB (90), Hue→HoiAn (80), DPS→Amed (50), Sidemen→Sanur→Uluwatu (75), etc + sleeper train NB→Hue (60) + fast boats Gili (80) + taxis ciudades (50) |
+| **Varios** | ~450,00 € | Seguro viaje buceo (~350), VOA Indonesia (~65), eSIM VN+ID (~40) |
+| **Subtotal resto** | **~3.085,00 €** | |
+
+### TOTAL
+
+| | Total | Por persona |
+| :--- | ---: | ---: |
+| **Vuelos** | 4.926,96 € | 2.463,48 € |
+| **Alojamientos** | 1.637,93 € | 818,97 € |
+| **Resto** | ~3.085,00 € | ~1.542,50 € |
+| **TOTAL** | **~9.649,89 €** | **~4.824,95 €** |
 
 ---
-*Ultima actualizacion: 24 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. Todos hoteles + vuelos internos VietJet reservados.*
+*Ultima actualizacion: 25 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos confirmados.*

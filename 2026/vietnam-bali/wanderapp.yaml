@@ -90,7 +90,7 @@ description: |
   - GiliFerries — Padang Bai ↔ Gili Air: https://www.giliferries.com/fast-boat/padangbai/gili-air
 
 public: true
-budget_total: 9886.96
+budget_total: 9649.89
 local_currency: "EUR"
 stops:
   - name: "Hanoi"
@@ -615,7 +615,7 @@ accommodations:
     name: "Pondok Wisata Balty Bali"
     address: "Jalan Raya Lipah, 80852 Amed, Indonesia"
     rating: 4
-    notes: "CONFIRMADO (Booking.com). Check-in: 14:00-19:00. Check-out: 8:00-12:00. 6N."
+    notes: "CONFIRMADO (Booking.com, cancelación gratis). Check-in: 14:00-19:00. Check-out: 8:00-12:00. 6N. Total 258 EUR."
 
   - stop: "Gili Air"
     name: "Talent Sunset Villa"

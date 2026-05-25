@@ -15,7 +15,7 @@
 - [ ] **CANCELAR Amea Homestay** (reserva previa Hue 4-5 Ago, 27,97€) si cancelación gratis.
 - [x] **Hoi An (5-9 Ago, 4N):** ✅ Hoianese Tranquil Heritage Hotel (30 Phan Boi Chau, Son Phong, rating 9.6). Confirmado Booking.com 140,34€. Incluye traslado aeropuerto.
 - [x] **Ho Chi Minh (9-10 Ago, 1N):** ✅ Little Saigon Boutique Hotel (36 Bis/2 Le Loi, Distrito 1, rating 8.5). Confirmado Booking.com 38,94€. Incluye traslado aeropuerto.
-- [x] **Amed (10-16 Ago, 6N):** ✅ Pondok Wisata Balty Bali (Jalan Raya Lipah). Confirmado Booking.com.
+- [x] **Amed (10-16 Ago, 6N):** ✅ Pondok Wisata Balty Bali (Jalan Raya Lipah). Confirmado Booking.com 258€. Cancelación gratis.
 - [x] **Gili Air (16-19 Ago, 3N):** ✅ Talent Sunset Villa (Jalan Pantai, lado oeste). Confirmado Booking.com 118,41€. Cancelación gratis.
 - [x] **Sidemen (19-24 Ago, 5N):** ✅ Giri Carik (Tabola Village, rating 9.1). Confirmado Booking.com 143,50€. Cancelación gratis.
 - [x] **Uluwatu (24-28 Ago, 4N):** ✅ The Inn Possible (Jalan Pantai Bingin 22). Confirmado Booking.com 280,68€. Cancelación gratis.
