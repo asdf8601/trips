@@ -42,8 +42,7 @@
 
 ## 🤿 Buceo / Snorkel
 
-- [ ] **Amed (Tulamben USS Liberty):** Reservar Ecodive Bali o Adventure Divers Bali. Dive amanecer 6:30.
-- [ ] **Amed segundo día:** Seraya Secret (muck) o Drop Off.
+- [ ] **Amed (Tulamben USS Liberty + Seraya + Drop Off):** Reservar **Black Amed Diving** (operador elegido). Dive amanecer 6:30.
 - [ ] **Gili Air:** Manta Dive Gili Air o Blue Marlin. Shark Point + Hans Reef + Halik.
 - [ ] **Nusa Penida day-trip (25 Ago):** Joe's Gone Diving (Sanur). Manta Point + Crystal Bay.
 - [ ] **Hoi An:** Day-trip Islas Cham snorkel (Día 12 = 7 Ago).

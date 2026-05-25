@@ -35,6 +35,60 @@ description: |
   - Gili Air 3N intenso (buceo Shark Point/Hans Reef + tortugas + sunset)
   - Sidemen 5N descompresión (arrozales + day-trips Lempuyang/Tirta/Tukad/rafting)
   - Uluwatu 4N (Penida + templos + playas + spa final)
+
+  ## Fuentes / Recursos
+
+  ### Vietnam — guías ciudad (Viajeros Callejeros)
+  - Hanoi: https://www.viajeroscallejeros.com/que-ver-en-hanoi/
+  - Crucero Halong: https://www.viajeroscallejeros.com/crucero-bahia-de-halong/
+  - Ninh Binh / Tam Coc: https://www.viajeroscallejeros.com/que-ver-en-ninh-binh-tam-coc/
+  - Hue: https://www.viajeroscallejeros.com/que-ver-en-hue/
+  - Hoi An: https://www.viajeroscallejeros.com/que-ver-en-hoi-an/
+  - Ho Chi Minh: https://www.viajeroscallejeros.com/que-ver-en-ho-chi-minh/
+
+  ### Vietnam — Mundo Nómada (referencia general)
+  - Guía Vietnam 2026: https://mundo-nomada.com/viajar-a-vietnam/
+  - Ruta 15 días: https://mundo-nomada.com/vietnam/vietnam-en-15-dias/
+  - Ruta 20 días: https://mundo-nomada.com/vietnam/ruta-por-vietnam-de-20-dias/
+  - Hanoi: https://mundo-nomada.com/vietnam/que-visitar-en-hanoi-mis-favoritos-de-la-capital-de-vietnam/
+  - Halong: https://mundo-nomada.com/vietnam/guia-bahia-de-halong/
+  - Ninh Binh: https://mundo-nomada.com/vietnam/ninh-binh/
+  - Hoi An: https://mundo-nomada.com/vietnam/hoi-an-y-su-precioso-casco-antiguo-una-de-las-joyas-de-vietnam/
+  - HCMC: https://mundo-nomada.com/vietnam/ideas-de-cosas-que-hacer-y-ver-en-ho-chi-minh/
+
+  ### Transporte Vietnam (sleeper train NB→Hue)
+  - Two Peas Abroad — top sleeper companies 2025: https://www.twopeasabroad.com/article/top-sleeper-train-companies-vietnam-2025
+  - Seat 61 — Vietnam trains: https://www.seat61.com/Vietnam.htm
+  - 12Go.asia (reserva): https://12go.asia
+  - Baolau (alternativa reserva): https://baolau.com
+
+  ### Bali — guías generales
+  - Mundo Nómada — Guía Bali: https://mundo-nomada.com/indonesia/guia-de-la-isla-de-bali/
+  - Mundo Nómada — Islas Indonesia 10 días: https://mundo-nomada.com/viaje/islas-indonesia-en-10-dias/
+  - Bali Institute — Quiet parts of Bali: https://baliinstitute.com/blog/avoid-crowds-bali/
+  - Viajes y Tips — Bali+Penida+Gili 15 días: https://viajesytips.com/itinerario-15-dias-bali-nusa-penida-gili-por-libre/
+
+  ### Bali — destinos específicos
+  - Sidemen (Bali Untold): https://baliuntold.com/stay/sidemen/
+  - Sidemen (Wapa di Ume): https://wapadiumesidemen.com/
+  - Uluwatu (Bali Holiday Secrets): https://www.baliholidaysecrets.com/uluwatu-bali-guide/
+  - Uluwatu villas (Honeycombers): https://thehoneycombers.com/bali/best-villas-in-uluwatu/
+  - Gili Air dónde dormir (Almost Landing): https://almostlanding-bali.com/where-to-stay-in-gili-air-lombok/
+
+  ### Buceo Bali / Gili
+  - ZuBlu — USAT Liberty Tulamben: https://www.zubludiving.com/articles/zublu-insights/diving-tulambens-usat-liberty-wreck
+  - Ecodive Bali (Amed): https://ecodivebali.com/
+  - Adventure Divers Bali (Amed): https://www.tripadvisor.com/Attraction_Review-g608478-d2316062-Reviews-Adventure_Divers_Bali-Amed_Abang_Karangasem_Bali.html
+  - Amed White Sand Divers: https://www.amedwhitesanddivers.com/
+  - ZuBlu — Gili Islands: https://www.zubludiving.com/destination/indonesia/lombok/gili-islands
+  - Manta Dive Gili Air: https://manta-dive-giliair.com/
+  - Blue Marlin Dive: https://www.bluemarlindive.com/
+  - World Adventure Divers — Nusa Penida: https://worldadventuredivers.com/diving-nusa-penida-2/
+  - Joe's Gone Diving (Sanur, Penida day-trip): https://www.joesgonediving.com/
+
+  ### Transporte Bali
+  - GiliFerries — Padang Bai ↔ Gili Air: https://www.giliferries.com/fast-boat/padangbai/gili-air
+
 public: true
 budget_total: 9886.96
 local_currency: "EUR"
@@ -318,7 +372,7 @@ stops:
     longitude: 115.6392
     activities:
       - title: "Buceo USS Liberty (Tulamben)"
-        content: "Amanecer 6:30, antes de day-trippers. Operador: Ecodive Bali o Adventure Divers Bali."
+        content: "Amanecer 6:30, antes de day-trippers. Operador: Black Amed Diving."
         type: "activity"
         rating: 5
       - title: "Snorkel Japanese Wreck"

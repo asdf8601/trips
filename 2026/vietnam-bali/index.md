@@ -116,8 +116,8 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 
 * **Dia 15 (10 Ago):** Llegada DPS. Coche privado DPS → Amed (~3h, Lipah).
 * **Dia 16 (11 Ago):** Adaptacion. Snorkel Coral Garden + Japanese Wreck desde playa.
-* **Dia 17 (12 Ago):** 🤿 Buceo USS Liberty (Tulamben, amanecer 6:30). Ecodive Bali o Adventure Divers Bali.
-* **Dia 18 (13 Ago):** 🤿 Buceo Seraya Secret (muck) — caballitos, nudibranquios, pulpos mimic.
+* **Dia 17 (12 Ago):** 🤿 Buceo USS Liberty (Tulamben, amanecer 6:30) con **Black Amed Diving**.
+* **Dia 18 (13 Ago):** 🤿 Buceo Seraya Secret (muck) con Black Amed Diving — caballitos, nudibranquios, pulpos mimic.
 * **Dia 19 (14 Ago):** 🌋 Monte Batur amanecer (salida ~02:00). Tarde: Tirta Gangga.
 * **Dia 20 (15 Ago):** Pura Lempuyang (6:00 AM Gates of Heaven). Tarde: opcion buceo Drop Off o free diving course.
 
@@ -156,7 +156,7 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 - **Indonesia:** VOA 30 dias (~35 USD).
 
 ### Buceo
-- **Amed 6N** = base buceo principal. USS Liberty + Seraya + Drop Off + opcional curso completo.
+- **Amed 6N** = base buceo principal con **Black Amed Diving**. USS Liberty + Seraya + Drop Off + opcional curso completo.
 - **Gili Air:** Shark Point, Hans Reef.
 - **Nusa Penida day-trip:** Mola-mola plena temporada ago.
 
