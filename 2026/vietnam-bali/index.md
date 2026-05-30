@@ -177,51 +177,71 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 
 ---
 
-## Presupuesto Estimado (2 Personas)
+## Presupuesto (2 Personas)
 
-### Vuelos (REALES)
+Leyenda: ✅ **PAGADO** · 🔒 reservado (saldo pendiente) · ⬜ pendiente (estimado)
+
+### ✅ PAGADO / RESERVADO
+
+#### Vuelos (4/4 pagados)
+| Concepto | Coste | Estado |
+| :--- | ---: | :---: |
+| MAD-HAN / DPS-MAD (Qatar+Emirates) | 4.232,82 € | ✅ |
+| DAD-SGN (VietJet 9 Ago) | 169,15 € | ✅ |
+| SGN-DPS (VietJet 10 Ago) | 524,99 € | ✅ |
+| **Subtotal vuelos** | **4.926,96 €** | |
+
+#### Alojamientos (10/10 pagados/reservados)
+| Base | Noches | Coste | Estado |
+| :--- | :---: | ---: | :---: |
+| Hanoi (TrangTrang) | 2 | 38,36 € | ✅ |
+| Halong (Swan Cruises) | 2 | 550,00 € | ✅ |
+| Ninh Binh (Tam Coc Serenity) | 2 | 59,00 € | ✅ |
+| Hue (Kha Hostel) | 1 | 10,70 € | ✅ |
+| Hoi An (Hoianese) | 4 | 140,34 € | ✅ |
+| HCM (Little Saigon) | 1 | 38,94 € | ✅ |
+| Amed (Pondok Wisata) | 6 | 258,00 € | ✅ |
+| Gili Air (Talent Sunset) | 3 | 118,41 € | ✅ |
+| Sidemen (Giri Carik) | 5 | 143,50 € | ✅ |
+| Uluwatu (Inn Possible) | 4 | 280,68 € | ✅ |
+| **Subtotal alojamientos** | **30N** | **1.637,93 €** | |
+
+#### Transporte, actividades y seguro (pagados)
+| Concepto | Coste | Estado |
+| :--- | ---: | :---: |
+| Traslado aeropuerto HAN (E-Life Limo) | 8,35 € | ✅ |
+| Sleeper train Laman SE19 (2 pax) | ~325,00 € | ✅ |
+| Tour Hanoi (Mundo Nomada) | 228,00 € | ✅ |
+| Buceo Black Amed — depósito 30% | 80,00 € | ✅ |
+| Seguro IATI Estrella + anulación | 439,21 € | ✅ |
+| **Subtotal** | **~1.080,56 €** | |
+
+#### **TOTAL PAGADO / RESERVADO** → **~7.645,45 €** (~3.822,73 € p/p)
+
+---
+
+### ⬜ PENDIENTE (estimado)
 
 | Concepto | Coste | Notas |
-| :--- | :--- | :--- |
-| **Vuelos MAD-HAN / DPS-MAD** | 4.232,82 € | Qatar + Emirates ✓ |
-| **Vuelo SGN-DPS** | 524,99 € | VietJet 10 Ago 08:15 Turista Premium ✓ |
-| **Vuelo interno DAD-SGN** | 169,15 € | VietJet 9 Ago 10:50 Turista Premium ✓ |
-| **Subtotal vuelos** | **4.926,96 €** | Todos confirmados |
+| :--- | ---: | :--- |
+| Buceo Black Amed — saldo 70% | ~187,00 € | 🔒 in situ Amed |
+| Buceo Gili Air (x2) | ~150,00 € | Manta Dive / Blue Marlin |
+| Nusa Penida day-trip | ~180,00 € | operador pendiente |
+| Otras actividades | ~450,00 € | Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak |
+| Comida (30 días) | ~750,00 € | ~25€/día pareja |
+| Transporte local restante | ~570,00 € | coches Halong→NB, Hue→HoiAn, DPS→Amed, Sidemen→Sanur→Uluwatu + fast boats Gili + taxis |
+| Varios (VOA + eSIM) | ~105,00 € | VOA Indonesia 65 + eSIM 40 |
+| **TOTAL PENDIENTE** | **~2.392,00 €** | (~1.196 € p/p) |
 
-### Alojamientos (10/10 REALES)
+---
 
-| Base | Noches | Coste |
-| :--- | :---: | ---: |
-| Hanoi (TrangTrang) ✓ | 2 | 38,36 € |
-| Halong (Swan Cruises) ✓ | 2 | 550,00 € |
-| Ninh Binh (Tam Coc Serenity) ✓ | 2 | 59,00 € |
-| Hue (Kha Hostel) ✓ | 1 | 10,70 € |
-| Hoi An (Hoianese) ✓ | 4 | 140,34 € |
-| HCM (Little Saigon) ✓ | 1 | 38,94 € |
-| Amed (Pondok Wisata) ✓ | 6 | 258,00 € |
-| Gili Air (Talent Sunset) ✓ | 3 | 118,41 € |
-| Sidemen (Giri Carik) ✓ | 5 | 143,50 € |
-| Uluwatu (Inn Possible) ✓ | 4 | 280,68 € |
-| **Subtotal alojamientos** | **30N** | **1.637,93 €** |
-
-### Resto
-
-| Concepto | Coste | Notas |
-| :--- | :--- | :--- |
-| **Actividades** | ~1.415,00 € | Tour Hanoi Mundo Nomada 228€ (✓), Buceo Black Amed ~267€ (✓ 80€ depósito + 187€ resto), Gili x2, Penida day-trip, Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak Uluwatu |
-| **Comida** | ~750,00 € | ~25€/día pareja (street food VN + restos Bali) |
-| **Transporte local** | ~900,00 € | Sleeper train Laman Express NB→Hue 325€ (✓), traslado HAN aeropuerto 8,35€ (✓), coches Halong→NB (90), Hue→HoiAn (80), DPS→Amed (50), Sidemen→Sanur→Uluwatu (75), Amed→Padang+fast boats Gili (110), taxis ciudades (60) |
-| **Varios** | ~450,00 € | Seguro viaje buceo (~350), VOA Indonesia (~65), eSIM VN+ID (~40) |
-| **Subtotal resto** | **~3.515,00 €** | |
-
-### TOTAL
+### TOTAL VIAJE
 
 | | Total | Por persona |
 | :--- | ---: | ---: |
-| **Vuelos** | 4.926,96 € | 2.463,48 € |
-| **Alojamientos** | 1.637,93 € | 818,97 € |
-| **Resto** | ~3.515,00 € | ~1.757,50 € |
-| **TOTAL** | **~10.079,89 €** | **~5.039,95 €** |
+| ✅ Pagado / reservado | ~7.645,45 € | ~3.822,73 € |
+| ⬜ Pendiente estimado | ~2.392,00 € | ~1.196,00 € |
+| **TOTAL** | **~10.037,45 €** | **~5.018,73 €** |
 
 ---
-*Ultima actualizacion: 25 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos confirmados.*
+*Ultima actualizacion: 25 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos + sleeper train + tour Hanoi + seguro + depósito buceo Amed pagados.*

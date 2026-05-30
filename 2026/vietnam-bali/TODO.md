@@ -58,7 +58,7 @@
 - [ ] **Visa Vietnam:** Exención 45 días (confirmar 2026). Alt: e-Visa.
 - [ ] **Visa Indonesia:** VOA 30 días ~35 USD o e-VOA online.
 - [ ] **Sanidad Exterior / Vacunación.**
-- [ ] **Seguro médico de viaje** (incluir buceo).
+- [x] **Seguro médico de viaje:** ✅ IATI Estrella + anulación. 28 Jul-28 Ago, 2 viajeros. 439,21€. ⚠️ Verificar límite profundidad buceo en condiciones PDF.
 
 ## 🎒 Preparativos
 
