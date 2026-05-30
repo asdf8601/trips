@@ -129,7 +129,7 @@ Blog en español especializado SE Asia. Referencia principal.
 
 | Lugar | Operador | URL |
 | :--- | :--- | :--- |
-| Amed/Tulamben | **Black Amed Diving** ⭐ ELEGIDO | (URL pendiente) |
+| Amed/Tulamben | **Black Amed Diving** ⭐ CONFIRMADO | WhatsApp +62 815-4715-1508 |
 | Amed/Tulamben | Ecodive Bali (alt) | https://ecodivebali.com/ |
 | Amed/Tulamben | Adventure Divers Bali (alt) | https://www.tripadvisor.com/Attraction_Review-g608478-d2316062-Reviews-Adventure_Divers_Bali-Amed_Abang_Karangasem_Bali.html |
 | Gili Air | Manta Dive Gili Air | https://manta-dive-giliair.com/ |

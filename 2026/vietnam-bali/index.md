@@ -66,7 +66,22 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 *Reservado: TrangTrang Boutique Hotel (104 Ma May Str, Old Quarter).*
 
 * **Dia 1 (28 Jul):** Vuelo MAD → HAN. Transito Doha.
-* **Dia 2 (29 Jul):** Llegada 07:15. Traslado TrangTrang Boutique (Ma May, Old Quarter). Mañana: pedir early check-in o dejar maletas + desayuno cercano. Tarde paseo lago Hoan Kiem. Cena pho callejero.
+* **Dia 2 (29 Jul):** Llegada 07:15. **Traslado E-Life Limo 08:20** (Ref 674460851, 8,35€) → TrangTrang Boutique (Ma May, Old Quarter). Dejar maletas + desayuno rápido.
+  **🔒 Tour Hanoi día completo con Mundo Nomada 10:00-17:00** (228€, todo incluido; recogida estándar 08:00 ajustada a 10:00 por llegada vuelo):
+  - Pagoda Tran Quoc (la más antigua de Hanói)
+  - Templo de la Literatura (Văn Miếu – Quốc Tử Giám)
+  - Almuerzo restaurante local (menú vietnamita)
+  - Pagoda del Pilar Único + Mausoleo + Casa de Ho Chi Minh
+  - Palacio Presidencial
+  - Lago Hoan Kiem + Catedral San José + Casco Antiguo
+  - Paseo en cyclo tradicional
+  - Degustación café con huevo (egg coffee)
+
+  *Precio cotizado: 110 USD/pax (~220 USD 2 pax). Confirmado 228€.*
+  *Incluye: guía español, transporte privado A/C, entradas itinerario, almuerzo local, café con huevo, paseo cyclo, 2 botellas agua/pax.*
+  *No incluye: bebidas extra, gastos personales, propinas guía/conductor, seguro viaje.*
+
+  Noche: cena pho callejero + descanso (jet lag).
 * **Dia 3 (30 Jul):** 👩‍🍳 Clase de cocina (pho, spring rolls, banh mi). Tarde: Templo Literatura, Museo Etnologia. Mercado nocturno Dong Xuan.
 
 ### Base 2: [Bahia de Halong](https://mundo-nomada.com/vietnam/guia-bahia-de-halong/) (Dias 4-6) 🔒
@@ -116,8 +131,8 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 
 * **Dia 15 (10 Ago):** Llegada DPS. Coche privado DPS → Amed (~3h, Lipah).
 * **Dia 16 (11 Ago):** Adaptacion. Snorkel Coral Garden + Japanese Wreck desde playa.
-* **Dia 17 (12 Ago):** 🤿 Buceo USS Liberty (Tulamben, amanecer 6:30) con **Black Amed Diving**.
-* **Dia 18 (13 Ago):** 🤿 Buceo Seraya Secret (muck) con Black Amed Diving — caballitos, nudibranquios, pulpos mimic.
+* **Dia 17 (12 Ago):** 🤿 Buceo mañana USS Liberty (Tulamben) + 🌙 **nocturna** con **Black Amed Diving**. Primera nocturna → cert "Aventura".
+* **Dia 18 (13 Ago):** 🤿 Buceo tarde Seraya Secret (muck) con Black Amed Diving — caballitos, nudibranquios, pulpos mimic.
 * **Dia 19 (14 Ago):** 🌋 Monte Batur amanecer (salida ~02:00). Tarde: Tirta Gangga.
 * **Dia 20 (15 Ago):** Pura Lempuyang (6:00 AM Gates of Heaven). Tarde: opcion buceo Drop Off o free diving course.
 
@@ -193,11 +208,11 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 
 | Concepto | Coste | Notas |
 | :--- | :--- | :--- |
-| **Actividades** | ~1.250,00 € | Buceo Black Amed Diving x3-4, Gili x2, Penida day-trip, Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak Uluwatu |
+| **Actividades** | ~1.415,00 € | Tour Hanoi Mundo Nomada 228€ (✓), Buceo Black Amed ~267€ (✓ 80€ depósito + 187€ resto), Gili x2, Penida day-trip, Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak Uluwatu |
 | **Comida** | ~750,00 € | ~25€/día pareja (street food VN + restos Bali) |
 | **Transporte local** | ~635,00 € | Coches Halong→NB (90), Hue→HoiAn (80), DPS→Amed (50), Sidemen→Sanur→Uluwatu (75), etc + sleeper train NB→Hue (60) + fast boats Gili (80) + taxis ciudades (50) |
 | **Varios** | ~450,00 € | Seguro viaje buceo (~350), VOA Indonesia (~65), eSIM VN+ID (~40) |
-| **Subtotal resto** | **~3.085,00 €** | |
+| **Subtotal resto** | **~3.250,00 €** | |
 
 ### TOTAL
 
@@ -205,8 +220,8 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 | :--- | ---: | ---: |
 | **Vuelos** | 4.926,96 € | 2.463,48 € |
 | **Alojamientos** | 1.637,93 € | 818,97 € |
-| **Resto** | ~3.085,00 € | ~1.542,50 € |
-| **TOTAL** | **~9.649,89 €** | **~4.824,95 €** |
+| **Resto** | ~3.250,00 € | ~1.625,00 € |
+| **TOTAL** | **~9.814,89 €** | **~4.907,45 €** |
 
 ---
 *Ultima actualizacion: 25 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos confirmados.*
