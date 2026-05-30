@@ -14,7 +14,7 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 | **Hanoi** | 29 Jul - 31 Jul | 2N | LLEGADA: 29 Jul 07:15 |
 | **Bahia de Halong** | 31 Jul - 2 Ago | 2N | 🔒 Crucero Swan Cruises |
 | **Ninh Binh** | 2 Ago - 4 Ago | 2N | 🚐 Halong → Ninh Binh (~3.5h) |
-| **Hue** | 4 Ago - 5 Ago | 1N | 🚂 Sleeper SE3 NB 21:44 → Hue 08:40 |
+| **Hue** | 4 Ago - 5 Ago | 1N | 🚂 Laman Express SE19 NB 21:57 → Hue 08:45 |
 | **Hoi An** | 5 Ago - 9 Ago | 4N | 🚐 Hue → Hoi An (~3.5h, Hai Van Pass) |
 | **Ho Chi Minh** | 9 Ago - 10 Ago | 1N | ✈️ DAD → SGN |
 | **Amed (Bali)** | 10 Ago - 16 Ago | 6N | ✈️ SGN → DPS + 🚐 (~3h) |
@@ -95,7 +95,7 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 *Confirmado: Tam Coc Serenity Hotel & Bungalow. "Halong terrestre". Karst + arrozales + cuevas en barca.*
 
 * **Dia 7 (3 Ago):** Trang An barca (3h, cuevas+templos, UNESCO). Tarde: Mua Cave subida (500 escalones) sunset.
-* **Dia 8 (4 Ago):** Tam Coc barca + Bich Dong pagoda AM. Bici rural arrozales PM. Cena ligera. **19:00** check-out hotel + cena. **21:00** taxi → estación tren Ninh Binh (~5€). **21:44 SE3 sale** rumbo Hue.
+* **Dia 8 (4 Ago):** Tam Coc barca + Bich Dong pagoda AM. Bici rural arrozales PM. Cena ligera. **19:30** check-out hotel + cena. **21:15** taxi → estación tren Ninh Binh (~5€). **21:57 Laman Express SE19 sale** (VIP 2-berth cabina privada) rumbo Hue.
 
 ### Base 4: [Hue](https://mundo-nomada.com/vietnam/hue-vietnam/) (Dia 9) — *1N* 🔒
 *Confirmado: Kha Hostel (Phu Hoi, centro). Antigua capital imperial. Uso día 5 post-sleeper para ducha + descanso.*
@@ -188,7 +188,7 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 | **Vuelo interno DAD-SGN** | 169,15 € | VietJet 9 Ago 10:50 Turista Premium ✓ |
 | **Subtotal vuelos** | **4.926,96 €** | Todos confirmados |
 
-### Alojamientos (9/10 REALES + Amed estimado)
+### Alojamientos (10/10 REALES)
 
 | Base | Noches | Coste |
 | :--- | :---: | ---: |
@@ -210,9 +210,9 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 | :--- | :--- | :--- |
 | **Actividades** | ~1.415,00 € | Tour Hanoi Mundo Nomada 228€ (✓), Buceo Black Amed ~267€ (✓ 80€ depósito + 187€ resto), Gili x2, Penida day-trip, Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak Uluwatu |
 | **Comida** | ~750,00 € | ~25€/día pareja (street food VN + restos Bali) |
-| **Transporte local** | ~635,00 € | Coches Halong→NB (90), Hue→HoiAn (80), DPS→Amed (50), Sidemen→Sanur→Uluwatu (75), etc + sleeper train NB→Hue (60) + fast boats Gili (80) + taxis ciudades (50) |
+| **Transporte local** | ~900,00 € | Sleeper train Laman Express NB→Hue 325€ (✓), traslado HAN aeropuerto 8,35€ (✓), coches Halong→NB (90), Hue→HoiAn (80), DPS→Amed (50), Sidemen→Sanur→Uluwatu (75), Amed→Padang+fast boats Gili (110), taxis ciudades (60) |
 | **Varios** | ~450,00 € | Seguro viaje buceo (~350), VOA Indonesia (~65), eSIM VN+ID (~40) |
-| **Subtotal resto** | **~3.250,00 €** | |
+| **Subtotal resto** | **~3.515,00 €** | |
 
 ### TOTAL
 
@@ -220,8 +220,8 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 | :--- | ---: | ---: |
 | **Vuelos** | 4.926,96 € | 2.463,48 € |
 | **Alojamientos** | 1.637,93 € | 818,97 € |
-| **Resto** | ~3.250,00 € | ~1.625,00 € |
-| **TOTAL** | **~9.814,89 €** | **~4.907,45 €** |
+| **Resto** | ~3.515,00 € | ~1.757,50 € |
+| **TOTAL** | **~10.079,89 €** | **~5.039,95 €** |
 
 ---
 *Ultima actualizacion: 25 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos confirmados.*

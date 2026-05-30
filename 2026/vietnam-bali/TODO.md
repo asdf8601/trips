@@ -7,7 +7,7 @@
 - [x] **Confirmar fechas Swan Cruises:** 31 Jul - 2 Ago. ✅
 - [x] **Tour Hanoi (Mundo Nomada):** ✅ 29 Jul 10:00. 228€. Confirmado.
 - [x] **Vuelo SGN → DPS:** ✅ VietJet 10 Ago 08:15-13:05 Turista Premium. 524,99€ (2 pax). Ref 40-979187197 PIN 1611. ⚠️ Salida hotel ~5:30 AM.
-- [ ] **Reservar sleeper train SE3 NB → Hue:** 4 Ago 21:44 → 5 Ago 08:40 (~12h). Soft sleeper 4-berth AC, 2 pax ~50-65€. Reserva via [12Go.asia](https://12go.asia). Operadores premium: Laman Express, Lotus Trains.
+- [x] **Sleeper train NB → Hue:** ✅ Laman Express SE19, 4 Ago 21:57 → 5 Ago 08:45 (10h48m). VIP 2-Berth cabina privada. 4.500.000đ/pax × 2 = 9.000.000đ (~325€). Cambio + cancelación flexibles.
 
 ## 🏨 Alojamientos por Reservar
 
@@ -31,7 +31,7 @@
   - [x] **Aeropuerto HAN → hotel Hanoi:** ✅ E-Life Limo 29 Jul 08:20. 8,35€. Ref 674460851.
   - [ ] Hanoi → Halong (31 Jul, coordinar Swan).
   - [ ] Halong → Ninh Binh (2 Ago, ~3.5h directo).
-  - [x] **Ninh Binh → Hue:** ✅ Decidido sleeper train SE3 nocturno (4 Ago 21:44 → 5 Ago 08:40). Pendiente reservar 12Go.asia.
+  - [x] **Ninh Binh → Hue:** ✅ Sleeper train Laman Express SE19 (4 Ago 21:57 → 5 Ago 08:45). VIP 2-Berth cabina privada. ~325€ (2 pax).
   - [ ] **Taxi NB hotel → estación tren (4 Ago ~20:30):** ~5€ corto trayecto.
   - [ ] **Taxi/Grab Hue estación → Kha Hostel (5 Ago ~09:00):** ~3€ (~1.5km).
   - [ ] Hue → Hoi An (5 Ago, ~3.5h pase Hai Van Pass — pedir paradas escénicas).
