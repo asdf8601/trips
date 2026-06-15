@@ -5,7 +5,7 @@
 ## 🔴 Prioridad Alta
 
 - [x] **Confirmar fechas Swan Cruises:** 31 Jul - 2 Ago. ✅
-- [x] **Tour Hanoi (Mundo Nomada):** ✅ 29 Jul 10:00. 228€. Confirmado.
+- [x] **Tours Nolan DMC (DNL483, guía español):** ✅ 3 excursiones confirmadas — Hanoi ciudad (29 Jul 10:00, 220 USD), Ninh Binh Tam Coc+Bich Dong+Cueva Mua (3 Ago 09:00, 250 USD), My Son (6 Ago 07:00, 210 USD). Total 680 USD (~625€).
 - [x] **Vuelo SGN → DPS:** ✅ VietJet 10 Ago 08:15-13:05 Turista Premium. 524,99€ (2 pax). Ref 40-979187197 PIN 1611. ⚠️ Salida hotel ~5:30 AM.
 - [x] **Sleeper train NB → Hue:** ✅ Laman Express SE19, 4 Ago 21:57 → 5 Ago 08:45 (10h48m). VIP 2-Berth cabina privada. 4.500.000đ/pax × 2 = 9.000.000đ (~325€). Cambio + cancelación flexibles.
 

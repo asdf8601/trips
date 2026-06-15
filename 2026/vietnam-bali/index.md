@@ -77,7 +77,7 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
   - Paseo en cyclo tradicional
   - Degustación café con huevo (egg coffee)
 
-  *Precio cotizado: 110 USD/pax (~220 USD 2 pax). Confirmado 228€.*
+  *🔒 Confirmado: Nolan DMC (código DNL483, guía habla hispana). 110 USD/pax × 2 = 220 USD.*
   *Incluye: guía español, transporte privado A/C, entradas itinerario, almuerzo local, café con huevo, paseo cyclo, 2 botellas agua/pax.*
   *No incluye: bebidas extra, gastos personales, propinas guía/conductor, seguro viaje.*
 
@@ -94,8 +94,8 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 ### Base 3: [Ninh Binh](https://mundo-nomada.com/vietnam/ninh-binh-guia/) (Dias 6-8) — *2N* 🔒
 *Confirmado: Tam Coc Serenity Hotel & Bungalow. "Halong terrestre". Karst + arrozales + cuevas en barca.*
 
-* **Dia 7 (3 Ago):** Trang An barca (3h, cuevas+templos, UNESCO). Tarde: Mua Cave subida (500 escalones) sunset.
-* **Dia 8 (4 Ago):** Tam Coc barca + Bich Dong pagoda AM. Bici rural arrozales PM. Cena ligera. **19:30** check-out hotel + cena. **21:15** taxi → estación tren Ninh Binh (~5€). **21:57 Laman Express SE19 sale** (VIP 2-berth cabina privada) rumbo Hue.
+* **Dia 7 (3 Ago):** 🔒 **Tour Nolan DMC 09:00** (guía español, DNL483): paseo barca Tam Coc (río Ngo Dong) + pagoda Bich Dong + subida Cueva Mua (~500 escalones) + almuerzo local. Regreso hotel fin tour.
+* **Dia 8 (4 Ago):** Trang An barca por libre (3h, cuevas+templos, UNESCO). Bici rural arrozales PM. Cena ligera. **19:30** check-out hotel. **21:15** taxi → estación tren Ninh Binh (~5€). **21:57 Laman Express SE19 sale** (VIP 2-berth cabina privada) rumbo Hue.
 
 ### Base 4: [Hue](https://mundo-nomada.com/vietnam/hue-vietnam/) (Dia 9) — *1N* 🔒
 *Confirmado: Kha Hostel (Phu Hoi, centro). Antigua capital imperial. Uso día 5 post-sleeper para ducha + descanso.*
@@ -111,9 +111,9 @@ Naturaleza, buceo, comida local, alojamientos tranquilos."
 *Confirmado: Hoianese Tranquil Heritage Hotel (Son Phong, andable a casco). Casco UNESCO + cocina + Cham + My Son.*
 
 * **Dia 10 (5 Ago):** Llegada noche desde Hue. Atardecer casco antiguo + farolillos.
-* **Dia 11 (6 Ago):** 6:30 AM casco sin turistas. 👩‍🍳 Clase de cocina (cao lau, white rose). Tarde: sastreria + lantern making.
+* **Dia 11 (6 Ago):** 🔒 **Tour My Son Nolan DMC 07:00** (guía español, DNL483): santuario Cham UNESCO (siglos IV-XIII) + almuerzo. Regreso ~mediodía. Tarde: 👩‍🍳 clase de cocina (cao lau, white rose) o descanso.
 * **Dia 12 (7 Ago):** 🏝️ Day-trip Islas Cham (snorkel, playa virgen, reserva marina).
-* **Dia 13 (8 Ago):** 🏛️ My Son amanecer (5:30 salida). Tarde: An Bang Beach + spa. Cena despedida casco.
+* **Dia 13 (8 Ago):** 6:30 AM casco sin turistas. Sastrería + lantern making. Tarde: An Bang Beach + spa. Cena despedida casco.
 
 ### Base 6: Ho Chi Minh (Dia 14) — *1N* 🔒
 *Confirmado: Little Saigon Boutique Hotel (Distrito 1, Le Loi). Solo paso urbano antes Bali.*
@@ -211,12 +211,12 @@ Leyenda: ✅ **PAGADO** · 🔒 reservado (saldo pendiente) · ⬜ pendiente (es
 | :--- | ---: | :---: |
 | Traslado aeropuerto HAN (E-Life Limo) | 8,35 € | ✅ |
 | Sleeper train Laman SE19 (2 pax) | ~325,00 € | ✅ |
-| Tour Hanoi (Mundo Nomada) | 228,00 € | ✅ |
+| Tours Nolan DMC — Hanoi + Ninh Binh + My Son (DNL483, 680 USD) | ~625,00 € | ✅ |
 | Buceo Black Amed — depósito 30% | 80,00 € | ✅ |
 | Seguro IATI Estrella + anulación | 439,21 € | ✅ |
-| **Subtotal** | **~1.080,56 €** | |
+| **Subtotal** | **~1.477,56 €** | |
 
-#### **TOTAL PAGADO / RESERVADO** → **~7.645,45 €** (~3.822,73 € p/p)
+#### **TOTAL PAGADO / RESERVADO** → **~8.042,45 €** (~4.021,23 € p/p)
 
 ---
 
@@ -227,11 +227,11 @@ Leyenda: ✅ **PAGADO** · 🔒 reservado (saldo pendiente) · ⬜ pendiente (es
 | Buceo Black Amed — saldo 70% | ~187,00 € | 🔒 in situ Amed |
 | Buceo Gili Air (x2) | ~150,00 € | Manta Dive / Blue Marlin |
 | Nusa Penida day-trip | ~180,00 € | operador pendiente |
-| Otras actividades | ~450,00 € | Batur, Cham, My Son, Trang An, ciudadela Hue, cocina Hoi An, Kecak |
+| Otras actividades | ~200,00 € | Batur, Cham, cocina Hoi An, Kecak, entradas Trang An/ciudadela Hue |
 | Comida (30 días) | ~750,00 € | ~25€/día pareja |
 | Transporte local restante | ~570,00 € | coches Halong→NB, Hue→HoiAn, DPS→Amed, Sidemen→Sanur→Uluwatu + fast boats Gili + taxis |
 | Varios (VOA + eSIM) | ~105,00 € | VOA Indonesia 65 + eSIM 40 |
-| **TOTAL PENDIENTE** | **~2.392,00 €** | (~1.196 € p/p) |
+| **TOTAL PENDIENTE** | **~2.142,00 €** | (~1.071 € p/p) |
 
 ---
 
@@ -239,9 +239,9 @@ Leyenda: ✅ **PAGADO** · 🔒 reservado (saldo pendiente) · ⬜ pendiente (es
 
 | | Total | Por persona |
 | :--- | ---: | ---: |
-| ✅ Pagado / reservado | ~7.645,45 € | ~3.822,73 € |
-| ⬜ Pendiente estimado | ~2.392,00 € | ~1.196,00 € |
-| **TOTAL** | **~10.037,45 €** | **~5.018,73 €** |
+| ✅ Pagado / reservado | ~8.042,45 € | ~4.021,23 € |
+| ⬜ Pendiente estimado | ~2.142,00 € | ~1.071,00 € |
+| **TOTAL** | **~10.184,45 €** | **~5.092,23 €** |
 
 ---
-*Ultima actualizacion: 25 mayo 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos + sleeper train + tour Hanoi + seguro + depósito buceo Amed pagados.*
+*Ultima actualizacion: 15 junio 2026 — Vietnam 12N (ruta clasica N→S) + Bali 18N. 10/10 alojamientos + 4/4 vuelos + sleeper train + 3 tours Nolan DMC (Hanoi/Ninh Binh/My Son) + seguro + depósito buceo Amed pagados.*
