@@ -54,11 +54,11 @@
 
 ## 🛂 Burocracia y Salud
 
-- [ ] **Pasaportes:** Validez ≥6 meses.
-- [ ] **Visa Vietnam:** Exención 45 días (confirmar 2026). Alt: e-Visa.
-- [ ] **Visa Indonesia:** VOA 30 días ~35 USD o e-VOA online.
+- [x] **Pasaportes:** ✅ Validez ≥6 meses confirmada.
+- [x] **Visa Vietnam:** ✅ Exención 45 días (Italia + España, 12N < 45, no necesita).
+- [ ] **Visa Indonesia (e-VOA):** sacar 3 Ago. Válida 90d → cubre entrada 10 Ago. ~35 USD/pax.
 - [ ] **Sanidad Exterior / Vacunación.**
-- [x] **Seguro médico de viaje:** ✅ IATI Estrella + anulación. 28 Jul-28 Ago, 2 viajeros. 439,21€. ⚠️ Verificar límite profundidad buceo en condiciones PDF.
+- [x] **Seguro médico de viaje:** ✅ IATI Estrella + anulación. 28 Jul-28 Ago, 2 viajeros. 439,21€. Cobertura buceo confirmada.
 
 ## 🎒 Preparativos
 
